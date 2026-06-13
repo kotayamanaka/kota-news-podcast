@@ -13,13 +13,13 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name></itunes:owner>
     <item>
-      <title>【プレビュー】米議会のAI規制法案を深掘り</title>
-      <description>Great American AI Act・州法を3年凍結する連邦プリエンプションを5W1Hで深掘り（音質・配信テスト用）</description>
-      <itunes:summary>Great American AI Act・州法を3年凍結する連邦プリエンプションを5W1Hで深掘り（音質・配信テスト用）</itunes:summary>
+      <title>2026-06-14 朝の深掘りニュース</title>
+      <description>ワールドカップ2026開幕・ミュージックアワードジャパンでミセスグリーンアップル2年連続最優秀・中国JUNOニュートリノ初成果・筋トレ週90〜120分が最適・福島処理水放出が再び自動停止</description>
+      <itunes:summary>ワールドカップ2026開幕・ミュージックアワードジャパンでミセスグリーンアップル2年連続最優秀・中国JUNOニュートリノ初成果・筋トレ週90〜120分が最適・福島処理水放出が再び自動停止</itunes:summary>
       <pubDate>Sun, 14 Jun 2026 06:00:00 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-14.mp3" length="1960272" type="audio/mpeg"/>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-14.mp3" length="3954384" type="audio/mpeg"/>
       <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-14.mp3</guid>
-      <itunes:duration>00:05:26</itunes:duration>
+      <itunes:duration>00:10:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

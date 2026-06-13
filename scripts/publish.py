@@ -94,7 +94,9 @@ def main():
     EP_DIR.mkdir(parents=True, exist_ok=True)
     fname = f"{date_str}.mp3"
     dst = EP_DIR / fname
-    shutil.copy(mp3_src, dst)
+    # synth.py が直接 episodes/<DATE>.mp3 に書く運用だと src==dst になる。その場合はコピー不要。
+    if mp3_src.resolve() != dst.resolve():
+        shutil.copy(mp3_src, dst)
 
     audio = MP3(dst)
     duration = int(audio.info.length)
