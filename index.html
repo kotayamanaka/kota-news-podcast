@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>kota 朝の深掘りニュース</title>
+<style>
+  :root { color-scheme: dark; }
+  body { margin:0; font-family:-apple-system,"Hiragino Kaku Gothic ProN",sans-serif;
+         background:#0d1117; color:#e6edf3; line-height:1.6; }
+  .wrap { max-width:640px; margin:0 auto; padding:24px 18px 60px; }
+  header { text-align:center; padding:28px 0 20px; }
+  header img { width:160px; height:160px; border-radius:20px; box-shadow:0 8px 30px rgba(0,0,0,.5); }
+  h1 { font-size:1.35rem; margin:18px 0 4px; }
+  .sub { color:#8b949e; font-size:.9rem; }
+  .feed { display:block; text-align:center; margin:18px auto; padding:12px 18px;
+          background:#1f6feb; color:#fff; border-radius:12px; text-decoration:none; font-weight:600; }
+  .ep { background:#161b22; border:1px solid #30363d; border-radius:14px; padding:16px; margin:14px 0; }
+  .ep h2 { font-size:1rem; margin:0 0 6px; }
+  .ep .meta { color:#8b949e; font-size:.8rem; margin-bottom:10px; }
+  audio { width:100%; }
+  footer { text-align:center; color:#6e7681; font-size:.75rem; margin-top:30px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <img src="cover.png" alt="cover">
+    <h1>kota 朝の深掘りニュース</h1>
+    <div class="sub">毎朝6時・話題のニュース5本を5W1Hで深掘り</div>
+  </header>
+  <a class="feed" href="feed.xml">Podで購読する（このURLをアプリに貼る）</a>
+  <div id="episodes"></div>
+  <footer>auto-generated · private use</footer>
+</div>
+<script>
+fetch('data/episodes.json').then(r=>r.json()).then(eps=>{
+  const box=document.getElementById('episodes');
+  eps.forEach(e=>{
+    const d=document.createElement('div'); d.className='ep';
+    const mm=Math.floor(e.duration/60), ss=String(e.duration%60).padStart(2,'0');
+    d.innerHTML=`<h2>${e.title}</h2><div class="meta">${e.date} · ${mm}:${ss}</div>`+
+      `<audio controls preload="none" src="episodes/${e.file}"></audio>`;
+    box.appendChild(d);
+  });
+}).catch(()=>{document.getElementById('episodes').innerHTML='<p class="sub">まだエピソードがありません。</p>';});
+</script>
+</body>
+</html>
