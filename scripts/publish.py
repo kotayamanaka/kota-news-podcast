@@ -59,23 +59,31 @@ def build_feed(eps):
             f"      <itunes:explicit>false</itunes:explicit>\n"
             "    </item>"
         )
+    chan_pubdate = rfc2822(eps[0]["date"]) if eps else "Sat, 14 Jun 2026 06:00:00 +0900"
     feed = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
         '<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" '
-        'xmlns:content="http://purl.org/rss/1.0/modules/content/">\n'
+        'xmlns:content="http://purl.org/rss/1.0/modules/content/" '
+        'xmlns:atom="http://www.w3.org/2005/Atom">\n'
         "  <channel>\n"
         f"    <title>{escape(CHANNEL_TITLE)}</title>\n"
         f"    <link>{BASE_URL}/</link>\n"
+        f'    <atom:link href="{BASE_URL}/feed.xml" rel="self" type="application/rss+xml"/>\n'
         "    <language>ja</language>\n"
         f"    <description>{escape(CHANNEL_DESC)}</description>\n"
+        f"    <pubDate>{chan_pubdate}</pubDate>\n"
+        f"    <lastBuildDate>{chan_pubdate}</lastBuildDate>\n"
+        "    <generator>kota-news-podcast</generator>\n"
         "    <itunes:author>kota</itunes:author>\n"
         f"    <itunes:summary>{escape(CHANNEL_DESC)}</itunes:summary>\n"
+        "    <itunes:type>episodic</itunes:type>\n"
         f'    <itunes:image href="{BASE_URL}/cover.png"/>\n'
         f"    <image><url>{BASE_URL}/cover.png</url><title>{escape(CHANNEL_TITLE)}</title>"
         f"<link>{BASE_URL}/</link></image>\n"
         '    <itunes:category text="News"/>\n'
         "    <itunes:explicit>false</itunes:explicit>\n"
-        "    <itunes:owner><itunes:name>kota</itunes:name></itunes:owner>\n"
+        "    <itunes:owner><itunes:name>kota</itunes:name>"
+        "<itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>\n"
         + "\n".join(items)
         + "\n  </channel>\n</rss>\n"
     )
