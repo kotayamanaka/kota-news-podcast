@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Mon, 15 Jun 2026 06:00:00 +0900</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 06:00:00 +0900</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 06:00:00 +0900</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-16 朝の深掘りニュース</title>
+      <description>米イラン、ホルムズ海峡再開で合意／コストコ総菜でO157集団食中毒／ニックス53年ぶりNBA制覇／飲むGLP-1新薬が大型試験で好結果／死にゆく星が新しい宇宙を生む？グラバスター理論</description>
+      <itunes:summary>米イラン、ホルムズ海峡再開で合意／コストコ総菜でO157集団食中毒／ニックス53年ぶりNBA制覇／飲むGLP-1新薬が大型試験で好結果／死にゆく星が新しい宇宙を生む？グラバスター理論</itunes:summary>
+      <pubDate>Tue, 16 Jun 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-16.mp3" length="4865760" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-16.mp3</guid>
+      <itunes:duration>00:13:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-15 朝の深掘りニュース</title>
       <description>G7エビアン・サミット開幕／日銀が31年ぶりの利上げへ／OpenAIが株式上場の準備／がん免疫療法が効かなくなる謎をカナダの研究が解明／マイケル・ジャクソンの伝記映画が音楽伝記映画で歴代1位の大ヒット</description>
