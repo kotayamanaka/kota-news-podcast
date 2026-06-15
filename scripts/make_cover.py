@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """Podcast カバー画像（正方形PNG）を生成する。"""
 import pathlib
-from PIL import Image, ImageDraw, ImageFont
+import random
+from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 REPO = pathlib.Path(__file__).resolve().parents[1]
-OUT = REPO / "cover.png"
-SIZE = 1500
+OUTS = [REPO / "cover-v2.png", REPO / "cover.png"]
+SIZE = 3000
 
 FONT_CANDIDATES = [
     r"C:\Windows\Fonts\meiryob.ttc",
@@ -16,8 +17,13 @@ FONT_CANDIDATES = [
 ]
 
 
-def load_font(size):
-    for p in FONT_CANDIDATES:
+def load_font(size, bold=True):
+    candidates = FONT_CANDIDATES if bold else [
+        r"C:\Windows\Fonts\BIZ-UDGothicR.ttc",
+        r"C:\Windows\Fonts\YuGothM.ttc",
+        r"C:\Windows\Fonts\meiryo.ttc",
+    ]
+    for p in candidates:
         if pathlib.Path(p).exists():
             try:
                 return ImageFont.truetype(p, size)
@@ -26,41 +32,111 @@ def load_font(size):
     return ImageFont.load_default()
 
 
-def vgradient(size, top, bottom):
-    base = Image.new("RGB", (1, size), top)
-    px = base.load()
-    for y in range(size):
-        t = y / (size - 1)
-        px[0, y] = tuple(int(top[i] + (bottom[i] - top[i]) * t) for i in range(3))
-    return base.resize((size, size))
-
-
-def centered(draw, cx, y, text, font, fill):
+def text_size(draw, text, font):
     bbox = draw.textbbox((0, 0), text, font=font)
-    w = bbox[2] - bbox[0]
-    draw.text((cx - w / 2, y), text, font=font, fill=fill)
+    return bbox[2] - bbox[0], bbox[3] - bbox[1]
+
+
+def add_noise(img, amount=18):
+    random.seed(42)
+    noise = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    px = noise.load()
+    for _ in range(42000):
+        x = random.randrange(img.width)
+        y = random.randrange(img.height)
+        alpha = random.randrange(3, amount)
+        v = random.choice((0, 255))
+        px[x, y] = (v, v, v, alpha)
+    return Image.alpha_composite(img, noise.filter(ImageFilter.GaussianBlur(0.35)))
+
+
+def draw_waveform(d, x0, y0, x1, y1, color):
+    width = x1 - x0
+    bars = 54
+    gap = 15
+    bar_w = (width - gap * (bars - 1)) / bars
+    center = (y0 + y1) / 2
+    max_h = (y1 - y0) * 0.76
+    for i in range(bars):
+        t = i / (bars - 1)
+        envelope = 0.35 + 0.65 * abs(0.5 - t) * 2
+        jitter = 0.78 + 0.22 * ((i * 17) % 9) / 8
+        h = max_h * envelope * jitter
+        x = x0 + i * (bar_w + gap)
+        d.rounded_rectangle(
+            [x, center - h / 2, x + bar_w, center + h / 2],
+            radius=bar_w / 2,
+            fill=color,
+        )
+
+
+def draw_tag(d, xy, text, font, fill, text_fill, pad_x=34, pad_y=18):
+    x, y = xy
+    w, h = text_size(d, text, font)
+    box = [x, y, x + w + pad_x * 2, y + h + pad_y * 2]
+    d.rounded_rectangle(box, radius=34, fill=fill)
+    d.text((x + pad_x, y + pad_y - 4), text, font=font, fill=text_fill)
+    return box
 
 
 def main():
-    img = vgradient(SIZE, (13, 30, 60), (8, 12, 22))
+    img = Image.new("RGBA", (SIZE, SIZE), (247, 248, 244, 255))
     d = ImageDraw.Draw(img)
 
-    # アクセントの帯
-    d.rectangle([0, int(SIZE * 0.60), SIZE, int(SIZE * 0.605)], fill=(31, 111, 235))
+    ink = (18, 22, 25, 255)
+    muted = (83, 92, 99, 255)
+    blue = (24, 93, 255, 255)
+    lime = (202, 244, 55, 255)
+    coral = (255, 91, 72, 255)
+    pale_blue = (223, 233, 255, 255)
 
-    f_small = load_font(70)
-    f_big = load_font(150)
-    f_mid = load_font(96)
+    # Offset panels give the cover a podcast-app friendly, editorial look.
+    d.rectangle([0, 0, SIZE, 360], fill=(18, 22, 25, 255))
+    d.rectangle([0, 2380, SIZE, SIZE], fill=(18, 22, 25, 255))
+    d.rounded_rectangle([190, 500, 2810, 2250], radius=96, fill=(255, 255, 255, 255))
+    d.rounded_rectangle([230, 540, 2770, 2210], radius=74, outline=(18, 22, 25, 255), width=9)
 
-    cx = SIZE / 2
-    centered(d, cx, int(SIZE * 0.20), "MORNING", f_small, (120, 160, 230))
-    centered(d, cx, int(SIZE * 0.30), "朝の", f_big, (255, 255, 255))
-    centered(d, cx, int(SIZE * 0.44), "深掘りニュース", f_big, (255, 255, 255))
-    centered(d, cx, int(SIZE * 0.68), "毎朝6時・話題の5本を5W1Hで", f_mid, (190, 205, 230))
-    centered(d, cx, int(SIZE * 0.86), "for kota", f_small, (110, 120, 140))
+    # Modern audio/news motif: sunrise rings plus a simple waveform.
+    ring_layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    rd = ImageDraw.Draw(ring_layer)
+    for idx, radius in enumerate([780, 1040, 1300]):
+        color = [(24, 93, 255, 42), (255, 91, 72, 30), (202, 244, 55, 42)][idx]
+        rd.ellipse([1510 - radius, 1150 - radius, 1510 + radius, 1150 + radius], outline=color, width=22)
+    rd.ellipse([1920, 610, 2620, 1310], fill=(202, 244, 55, 255))
+    rd.ellipse([1986, 676, 2554, 1244], fill=(255, 255, 255, 255))
+    rd.rectangle([1590, 1080, 2740, 1210], fill=(255, 255, 255, 255))
+    img = Image.alpha_composite(img, ring_layer)
+    d = ImageDraw.Draw(img)
 
-    img.save(OUT, "PNG")
-    print(f"cover -> {OUT}  ({OUT.stat().st_size} bytes)")
+    draw_waveform(d, 360, 1820, 2640, 2040, blue)
+    d.rounded_rectangle([360, 2072, 2640, 2098], radius=13, fill=(18, 22, 25, 255))
+
+    f_label = load_font(82)
+    f_title = load_font(270)
+    f_title2 = load_font(250)
+    f_tag = load_font(66)
+    f_mono = load_font(58, bold=False)
+
+    d.text((170, 128), "KOTA PRIVATE PODCAST", font=f_label, fill=(247, 248, 244, 255))
+    d.text((2050, 128), "NEWS / 5W1H", font=f_label, fill=lime)
+
+    draw_tag(d, (360, 640), "毎朝 6:00", f_tag, ink, (255, 255, 255, 255))
+    draw_tag(d, (800, 640), "話題の5本", f_tag, pale_blue, ink)
+
+    d.text((360, 900), "朝の", font=f_title, fill=ink)
+    d.text((360, 1190), "深掘り", font=f_title, fill=ink)
+    d.text((360, 1480), "ニュース", font=f_title2, fill=ink)
+
+    d.text((170, 2550), "FOR KOTA", font=f_label, fill=(247, 248, 244, 255))
+    d.text((170, 2660), "15 MIN AUDIO DIGEST", font=f_mono, fill=(178, 186, 194, 255))
+    d.rounded_rectangle([2250, 2530, 2830, 2748], radius=56, fill=coral)
+    d.text((2368, 2584), "5W1H", font=f_label, fill=(255, 255, 255, 255))
+
+    img = add_noise(img)
+    img = img.convert("RGB")
+    for out in OUTS:
+        img.save(out, "PNG", optimize=True)
+        print(f"cover -> {out}  ({out.stat().st_size} bytes)")
 
 
 if __name__ == "__main__":

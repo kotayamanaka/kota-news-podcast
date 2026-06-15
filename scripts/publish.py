@@ -16,6 +16,7 @@ from mutagen.mp3 import MP3
 
 REPO = pathlib.Path(__file__).resolve().parents[1]
 BASE_URL = "https://kotayamanaka.github.io/kota-news-podcast"
+COVER_FILE = "cover-v2.png"
 EP_DIR = REPO / "episodes"
 MANIFEST = REPO / "data" / "episodes.json"
 FEED = REPO / "feed.xml"
@@ -77,8 +78,8 @@ def build_feed(eps):
         "    <itunes:author>kota</itunes:author>\n"
         f"    <itunes:summary>{escape(CHANNEL_DESC)}</itunes:summary>\n"
         "    <itunes:type>episodic</itunes:type>\n"
-        f'    <itunes:image href="{BASE_URL}/cover.png"/>\n'
-        f"    <image><url>{BASE_URL}/cover.png</url><title>{escape(CHANNEL_TITLE)}</title>"
+        f'    <itunes:image href="{BASE_URL}/{COVER_FILE}"/>\n'
+        f"    <image><url>{BASE_URL}/{COVER_FILE}</url><title>{escape(CHANNEL_TITLE)}</title>"
         f"<link>{BASE_URL}/</link></image>\n"
         '    <itunes:category text="News"/>\n'
         "    <itunes:explicit>false</itunes:explicit>\n"
