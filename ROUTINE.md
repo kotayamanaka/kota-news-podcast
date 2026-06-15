@@ -134,11 +134,19 @@ python scripts/synth.py scripts/_today.txt episodes/<DATE>.mp3
 
 ## STEP 9. 配信（feed 更新）
 
-```
-python scripts/publish.py episodes/<DATE>.mp3 <DATE> "<DATE> 朝の深掘りニュース" "<5本の見出しを・で連結>"
-```
+**日本語をコマンドライン引数で渡さない**（Windows で文字化けするため）。タイトル・概要は必ず**ファイル経由**で渡す：
+
+1. `scripts/_meta.json` を UTF-8 で書く：
+   ```json
+   { "title": "<DATE> 朝の深掘りニュース", "desc": "<5本の見出しを ／ で連結>" }
+   ```
+2. 引数なしで publish を実行（title/desc は _meta.json から読まれる）：
+   ```
+   python scripts/publish.py episodes/<DATE>.mp3 <DATE>
+   ```
 
 - これで `episodes/<DATE>.mp3` 配置、`feed.xml` 再生成、直近30本に剪定、`data/episodes.json` 更新まで完了。
+- ⚠️ `publish.py ... "日本語タイトル"` のように**引数で日本語を渡すと化ける**。必ず _meta.json 経由にする。
 
 ## STEP 10. git push
 

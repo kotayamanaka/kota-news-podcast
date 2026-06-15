@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 scripts/_today.txt
 scripts/_*.txt
+scripts/_*.json

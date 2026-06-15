@@ -91,13 +91,25 @@ def build_feed(eps):
 
 
 def main():
-    if len(sys.argv) < 4:
+    if len(sys.argv) < 3:
         print(__doc__)
         sys.exit(1)
     mp3_src = pathlib.Path(sys.argv[1])
     date_str = sys.argv[2]
-    title = sys.argv[3]
-    desc = sys.argv[4] if len(sys.argv) > 4 else title
+    # タイトル/概要：Windows では日本語をコマンドライン引数で渡すと文字化けすることが
+    # あるため、既定では scripts/_meta.json（UTF-8）から読む。ROUTINE はこの方式を使う。
+    # 引数で渡された場合はそれを優先（ASCII 用途・手動実行用）。
+    meta_path = REPO / "scripts" / "_meta.json"
+    if len(sys.argv) > 3:
+        title = sys.argv[3]
+        desc = sys.argv[4] if len(sys.argv) > 4 else title
+    elif meta_path.exists():
+        m = json.loads(meta_path.read_text(encoding="utf-8"))
+        title = m.get("title") or f"{date_str} 朝の深掘りニュース"
+        desc = m.get("desc") or title
+    else:
+        title = f"{date_str} 朝の深掘りニュース"
+        desc = title
 
     EP_DIR.mkdir(parents=True, exist_ok=True)
     fname = f"{date_str}.mp3"
