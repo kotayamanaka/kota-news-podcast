@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Tue, 16 Jun 2026 06:00:00 +0900</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 06:00:00 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-17 朝の深掘りニュース</title>
+      <description>日銀が政策金利を1.0％へ利上げ・31年ぶり高水準／大谷翔平がオールスター中間発表で両リーグ最多116万票／グーグルのGemini 3.5 Proが6月一般公開へ／「はたらく細胞」作者・清水茜さんが連載中の被害と病を公表／「永遠の化学物質」PFASを壊す鍵は水素ラジカル</description>
+      <itunes:summary>日銀が政策金利を1.0％へ利上げ・31年ぶり高水準／大谷翔平がオールスター中間発表で両リーグ最多116万票／グーグルのGemini 3.5 Proが6月一般公開へ／「はたらく細胞」作者・清水茜さんが連載中の被害と病を公表／「永遠の化学物質」PFASを壊す鍵は水素ラジカル</itunes:summary>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-17.mp3" length="3710160" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-17.mp3</guid>
+      <itunes:duration>00:10:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-16 朝の深掘りニュース</title>
       <description>米イラン、ホルムズ海峡再開で合意／コストコ総菜でO157集団食中毒／ニックス53年ぶりNBA制覇／飲むGLP-1新薬が大型試験で好結果／死にゆく星が新しい宇宙を生む？グラバスター理論</description>

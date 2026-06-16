@@ -55,12 +55,19 @@ def _reading(word):
     return None
 
 
+def _is_number(word) -> bool:
+    f = word.feature
+    return (getattr(f, "pos2", "") == "数詞") or (getattr(f, "pos1", "") == "数詞")
+
+
 def to_kana(text: str) -> str:
     """漢字を含むトークンを unidic の読み(カナ)へ。改行は保持。
 
-    ただし **接尾辞（助数詞）は変換しない**。日付や数量（15日・220本・2026年・5％）は
-    edge-tts が「数字＋漢字の助数詞」のまとまりで正しく読むため、漢字のまま残す。
-    （解析器は「15日」の日を『カ』と外すなど、ここでむしろ誤るので触らない。）
+    ただし **直前のトークンが数字（数詞）のときは、続く漢字を変換せず残す**。
+    日付や数量（15日・3日間・2026年・220本・5億円）は edge-tts が
+    「数字＋漢字の助数詞」のまとまりで正しく読むため、漢字のまま渡す。
+    （解析器は「15日」の日を『カ』と外すなど、数量まわりでむしろ誤るので触らない。）
+    それ以外の語（火曜日・深掘り・重なって 等）は解析器の読みでカナ化する。
     """
     tagger = _tagger()
     out_lines = []
@@ -69,14 +76,15 @@ def to_kana(text: str) -> str:
             out_lines.append(line)
             continue
         buf = []
+        prev_num = False
         for w in tagger(line):
             s = w.surface
-            pos1 = getattr(w.feature, "pos1", "") or ""
-            if KANJI_RE.search(s) and pos1 != "接尾辞":
+            if KANJI_RE.search(s) and not prev_num:
                 r = _reading(w)
                 buf.append(r if r else s)
             else:
                 buf.append(s)
+            prev_num = _is_number(w)
         out_lines.append("".join(buf))
     return "\n".join(out_lines)
 
