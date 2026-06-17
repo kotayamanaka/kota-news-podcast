@@ -3,3 +3,5 @@ __pycache__/
 scripts/_today.txt
 scripts/_*.txt
 scripts/_*.json
+episodes_test_music.mp3
+scripts/_test*.txt

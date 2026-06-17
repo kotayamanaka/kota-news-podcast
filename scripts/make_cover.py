@@ -201,8 +201,88 @@ def make_katareru_cover():
     print(f"cover -> {out}  ({out.stat().st_size} bytes)")
 
 
+# --- 汎用カバー（番組ごとに大きな漢字モチーフ＋配色を変える） ---
+
+# key: (出力ファイル, 配色accent, 大漢字, タイトル行3つ, tagB, 右上ラベル, 下部ラベル)
+GENERIC_COVERS = {
+    "lifehack": ("lifehack-cover.png", (0, 176, 148), "技",
+                 ["ライフ", "ハック", "ラジオ"], "AIで進化", "LIFE HACK", "ADOPTABLE TIPS"),
+    "chishiki": ("chishiki-cover.png", (238, 158, 28), "知",
+                 ["知識", "ラジオ", ""], "6テーマ巡回", "KNOWLEDGE", "ONE TOPIC A DAY"),
+    "kanshou": ("kanshou-cover.png", (228, 72, 140), "観",
+                ["鑑賞", "ふり", "かえり"], "Notion連動", "REVIEW", "FROM YOUR LOG"),
+    "fukushi": ("fukushi-cover.png", (40, 140, 220), "福",
+                ["福祉", "ラジオ", ""], "落穂会支援", "WELFARE", "STUDY TRACK"),
+}
+
+
+def make_generic_cover(key):
+    out_name, accent, glyph, title_lines, tag_b, label_r, label_b = GENERIC_COVERS[key]
+    out = REPO / out_name
+    ink = (24, 22, 28, 255)
+    accent = tuple(accent) + (255,)
+    pale = tuple(min(255, c + (255 - c) * 7 // 8) for c in accent[:3]) + (255,)
+    img = Image.new("RGBA", (SIZE, SIZE), (250, 248, 245, 255))
+    d = ImageDraw.Draw(img)
+
+    d.rectangle([0, 0, SIZE, 360], fill=ink)
+    d.rectangle([0, 2380, SIZE, SIZE], fill=ink)
+    d.rounded_rectangle([190, 500, 2810, 2250], radius=96, fill=(255, 255, 255, 255))
+    d.rounded_rectangle([230, 540, 2770, 2210], radius=74, outline=ink, width=9)
+
+    ring_layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    rd = ImageDraw.Draw(ring_layer)
+    a = accent
+    for idx, radius in enumerate([760, 1020, 1280]):
+        col = (a[0], a[1], a[2], (40, 26, 40)[idx])
+        rd.ellipse([1520 - radius, 1180 - radius, 1520 + radius, 1180 + radius], outline=col, width=22)
+    img = Image.alpha_composite(img, ring_layer)
+    d = ImageDraw.Draw(img)
+
+    f_label = load_font(82)
+    f_title = load_font(300)
+    f_glyph = load_font(820)
+    f_tag = load_font(66)
+    f_mono = load_font(58, bold=False)
+
+    d.text((170, 128), "KOTA PRIVATE PODCAST", font=f_label, fill=(250, 248, 245, 255))
+    rw = text_size(d, label_r, f_label)[0]
+    d.text((SIZE - 170 - rw, 128), label_r, font=f_label, fill=pale)
+
+    # 巨大な漢字を右側に薄く
+    d.text((1990, 700), glyph, font=f_glyph, fill=(a[0], a[1], a[2], 95))
+
+    draw_tag(d, (360, 660), "毎日更新", f_tag, ink, (255, 255, 255, 255))
+    draw_tag(d, (820, 660), tag_b, f_tag, pale, ink)
+
+    ys = [980, 1320, 1660]
+    for i, line in enumerate(title_lines):
+        if not line:
+            continue
+        fill = accent if i == len([x for x in title_lines if x]) - 1 else ink
+        d.text((360, ys[i]), line, font=f_title, fill=fill)
+
+    d.text((170, 2550), "FOR KOTA", font=f_label, fill=(250, 248, 245, 255))
+    d.text((170, 2660), label_b, font=f_mono, fill=(180, 178, 186, 255))
+    d.rounded_rectangle([2250, 2530, 2830, 2748], radius=56, fill=accent)
+    badge = label_r.split()[0][:5]
+    bw = text_size(d, badge, f_label)[0]
+    d.text((2540 - bw // 2, 2584), badge, font=f_label, fill=(255, 255, 255, 255))
+
+    img = add_noise(img)
+    img = img.convert("RGB")
+    img.save(out, "PNG", optimize=True)
+    print(f"cover -> {out}  ({out.stat().st_size} bytes)")
+
+
 if __name__ == "__main__":
-    if len(sys.argv) > 1 and sys.argv[1] == "katareru":
+    arg = sys.argv[1] if len(sys.argv) > 1 else None
+    if arg == "katareru":
         make_katareru_cover()
+    elif arg in GENERIC_COVERS:
+        make_generic_cover(arg)
+    elif arg == "all-new":
+        for k in GENERIC_COVERS:
+            make_generic_cover(k)
     else:
         main()
