@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</description>
-    <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 07:00:00 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,15 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
-
+    <item>
+      <title>話すだけでAIに仕事を片付けてもらう「音声ファースト術」</title>
+      <description>音声入力×AIで雑務を高速化する実践ワザ。①話す→AIが清書（執筆30分→15分の例）②話すだけで自動仕分け・タスク化（Thomas Frank式Notion自動投入/Zapier→Todoist）③始め方と注意（固有名詞の誤変換・ハルシネーション約1.4%・機密情報の扱い）。</description>
+      <itunes:summary>音声入力×AIで雑務を高速化する実践ワザ。①話す→AIが清書（執筆30分→15分の例）②話すだけで自動仕分け・タスク化（Thomas Frank式Notion自動投入/Zapier→Todoist）③始め方と注意（固有名詞の誤変換・ハルシネーション約1.4%・機密情報の扱い）。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18.mp3" length="4751403" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18.mp3</guid>
+      <itunes:duration>00:04:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
