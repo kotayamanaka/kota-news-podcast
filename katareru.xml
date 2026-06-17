@@ -3,7 +3,7 @@
   <channel>
     <title>kota 語れるラジオ</title>
     <link>https://kotayamanaka.github.io/kota-news-podcast/katareru/</link>
-    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
     <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>

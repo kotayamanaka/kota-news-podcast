@@ -3,7 +3,7 @@
 
 このリポジトリは2つの独立した番組（feed）を相乗りでホストする：
   - news    : 「kota 朝の深掘りニュース」（既定）。/feed.xml /episodes/
-  - katareru: 「kota 語れるラジオ」。/katareru/feed.xml /katareru/episodes/
+  - katareru: 「kota 語れるラジオ」。/katareru.xml /katareru/episodes/
 番組ごとに manifest・episodes ディレクトリ・カバー・チャンネル情報・配信時刻が分かれる。
 
 usage:
@@ -41,7 +41,7 @@ SHOWS = {
     },
     "katareru": {
         "ep_subdir": "katareru/episodes",
-        "feed_path": "katareru/feed.xml",
+        "feed_path": "katareru.xml",
         "manifest": "katareru_episodes.json",
         "meta": "_meta_katareru.json",
         "cover": "katareru-cover.png",

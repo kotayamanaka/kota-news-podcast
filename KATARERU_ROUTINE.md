@@ -3,7 +3,7 @@
 > このファイルは毎朝（朝ニュースの直後・6:35頃）の scheduled-task（`katareru-radio`）が読んで **そのまま実行する** 手順書。
 > 目的：いま話題だけど「実はよくわからない」単語・人物・現象を **1つ** 選び、他人に語れるレベルまで深掘りして、約6〜8分の音声（mp3）にして Podcast 配信する。
 > 作業ディレクトリ：`C:\Users\kota\Documents\Claude\kota-news-podcast`
-> 番組ID：`katareru`（朝の深掘りニュースとは **別フィード**。`katareru/feed.xml`）
+> 番組ID：`katareru`（朝の深掘りニュースとは **別フィード**。配信フィードはリポジトリ直下 `katareru.xml`。音声は `katareru/episodes/`）
 
 この番組は note シリーズ「『○○』について語れるようになりたい」の音声版。記事制作の方法論は Vault の `Projects/語れるようになりたい/article_playbook.md` が正本。本ルーチンはそれを音声向けに要約・適応したもの。**矛盾したら article_playbook を優先**。
 
@@ -161,7 +161,7 @@ python scripts/synth.py scripts/_today_katareru.txt katareru/episodes/<DATE>.mp3
    python scripts/publish.py --show katareru katareru/episodes/<DATE>.mp3 <DATE>
    ```
 
-- これで `katareru/episodes/<DATE>.mp3` 配置、`katareru/feed.xml` 再生成、直近30本に剪定、`data/katareru_episodes.json` 更新まで完了。
+- これで `katareru/episodes/<DATE>.mp3` 配置、`katareru.xml` 再生成、直近30本に剪定、`data/katareru_episodes.json` 更新まで完了。
 - ⚠️ `--show katareru` を忘れると朝ニュース側の feed.xml を壊す。**必ず付ける**。
 
 ## STEP 10. git push
@@ -172,7 +172,7 @@ git commit -m "katareru <DATE>: <テーマ名>"
 git push
 ```
 
-- push 後、数分で `https://kotayamanaka.github.io/kota-news-podcast/katareru/feed.xml` に反映され、Pod アプリが自動取得する。
+- push 後、数分で `https://kotayamanaka.github.io/kota-news-podcast/katareru.xml` に反映され、Pod アプリが自動取得する。
 
 ## STEP 11. history.json 追記
 
