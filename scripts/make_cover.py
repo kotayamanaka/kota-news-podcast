@@ -1,5 +1,11 @@
 #!/usr/bin/env python3
-"""Podcast カバー画像（正方形PNG）を生成する。"""
+"""Podcast カバー画像（正方形PNG）を生成する。
+
+usage:
+  python make_cover.py            # 朝の深掘りニュース（cover-v2.png / cover.png）
+  python make_cover.py katareru   # 語れるラジオ（katareru-cover.png）
+"""
+import sys
 import pathlib
 import random
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -139,5 +145,64 @@ def main():
         print(f"cover -> {out}  ({out.stat().st_size} bytes)")
 
 
+def make_katareru_cover():
+    """語れるラジオのカバー。ニュースとは別系統の配色・モチーフ（大きな「?」）。"""
+    out = REPO / "katareru-cover.png"
+    img = Image.new("RGBA", (SIZE, SIZE), (250, 246, 240, 255))
+    d = ImageDraw.Draw(img)
+
+    ink = (28, 22, 30, 255)
+    purple = (124, 77, 255, 255)
+    coral = (255, 91, 72, 255)
+    pale_purple = (231, 222, 255, 255)
+    cream_panel = (255, 255, 255, 255)
+
+    d.rectangle([0, 0, SIZE, 360], fill=ink)
+    d.rectangle([0, 2380, SIZE, SIZE], fill=ink)
+    d.rounded_rectangle([190, 500, 2810, 2250], radius=96, fill=cream_panel)
+    d.rounded_rectangle([230, 540, 2770, 2210], radius=74, outline=ink, width=9)
+
+    # 大きな「?」モチーフ（note シリーズのカバーと呼応）＋吹き出しの余韻
+    ring_layer = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    rd = ImageDraw.Draw(ring_layer)
+    for idx, radius in enumerate([760, 1020, 1280]):
+        color = [(124, 77, 255, 40), (255, 91, 72, 28), (124, 77, 255, 40)][idx]
+        rd.ellipse([1500 - radius, 1180 - radius, 1500 + radius, 1180 + radius], outline=color, width=22)
+    img = Image.alpha_composite(img, ring_layer)
+    d = ImageDraw.Draw(img)
+
+    f_label = load_font(82)
+    f_title = load_font(300)
+    f_q = load_font(900)
+    f_tag = load_font(66)
+    f_mono = load_font(58, bold=False)
+
+    d.text((170, 128), "KOTA PRIVATE PODCAST", font=f_label, fill=(250, 246, 240, 255))
+    d.text((2150, 128), "TALK / DEEP DIVE", font=f_label, fill=pale_purple)
+
+    # 巨大な「?」を右上に
+    d.text((2000, 560), "?", font=f_q, fill=(124, 77, 255, 90))
+
+    draw_tag(d, (360, 660), "毎日更新", f_tag, ink, (255, 255, 255, 255))
+    draw_tag(d, (820, 660), "1テーマ深掘り", f_tag, pale_purple, ink)
+
+    d.text((360, 980), "語れる", font=f_title, fill=ink)
+    d.text((360, 1320), "ように", font=f_title, fill=ink)
+    d.text((360, 1660), "なりたい", font=f_title, fill=purple)
+
+    d.text((170, 2550), "FOR KOTA", font=f_label, fill=(250, 246, 240, 255))
+    d.text((170, 2660), "ONE TOPIC, EXPLAINED", font=f_mono, fill=(188, 180, 196, 255))
+    d.rounded_rectangle([2250, 2530, 2830, 2748], radius=56, fill=purple)
+    d.text((2410, 2584), "TALK", font=f_label, fill=(255, 255, 255, 255))
+
+    img = add_noise(img)
+    img = img.convert("RGB")
+    img.save(out, "PNG", optimize=True)
+    print(f"cover -> {out}  ({out.stat().st_size} bytes)")
+
+
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1 and sys.argv[1] == "katareru":
+        make_katareru_cover()
+    else:
+        main()
