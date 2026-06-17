@@ -5,7 +5,7 @@ kota 専用の音声 Podcast。1つのリポジトリで **2つの独立番組**
 | 番組 | 内容 | 配信フィード（Pod購読URL） | 時刻 |
 |---|---|---|---|
 | 朝の深掘りニュース | 話題のニュース5本を5W1Hで深掘り（約15分） | `https://kotayamanaka.github.io/kota-news-podcast/feed.xml` | 毎朝6時 |
-| 語れるラジオ | 話題だけど実はよく知らない単語・人物・現象を1つ深掘り（約6〜8分） | `https://kotayamanaka.github.io/kota-news-podcast/katareru/feed.xml` | 毎日17時 |
+| 語れるラジオ | 話題だけど実はよく知らない単語・人物・現象を1つ深掘り（約5〜8分） | `https://kotayamanaka.github.io/kota-news-podcast/katareru/feed.xml` | 毎朝（ニュースの直後 6:35頃） |
 
 - **声**: edge-tts / `ja-JP-NanamiNeural`（両番組共通）
 - **保持**: 各番組 直近30本（古いものは自動削除）

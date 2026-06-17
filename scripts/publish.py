@@ -45,7 +45,7 @@ SHOWS = {
         "manifest": "katareru_episodes.json",
         "meta": "_meta_katareru.json",
         "cover": "katareru-cover.png",
-        "hour": 17,
+        "hour": 6,
         "channel_title": "kota 語れるラジオ",
         "channel_desc": "毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。",
         "category": "Society & Culture",

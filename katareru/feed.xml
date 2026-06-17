@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 17 Jun 2026 17:00:00 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 17:00:00 +0900</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 06:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -21,7 +21,7 @@
       <title>「もっちゅりん」について語れるようになりたい</title>
       <description>ミスドの新食感ドーナツ もっちゅりん を1テーマ深掘り。後がけコーティングの食感の正体、実はキャラクターでもある話、14万分待ち・空箱転売まで過熱する争奪戦。</description>
       <itunes:summary>ミスドの新食感ドーナツ もっちゅりん を1テーマ深掘り。後がけコーティングの食感の正体、実はキャラクターでもある話、14万分待ち・空箱転売まで過熱する争奪戦。</itunes:summary>
-      <pubDate>Wed, 17 Jun 2026 17:00:00 +0900</pubDate>
+      <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
       <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-17.mp3" length="1728432" type="audio/mpeg"/>
       <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-17.mp3</guid>
       <itunes:duration>00:04:48</itunes:duration>
