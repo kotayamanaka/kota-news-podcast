@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Wed, 17 Jun 2026 06:00:00 +0900</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 06:00:00 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 06:00:00 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-18 朝の深掘りニュース</title>
+      <description>スペースXがAIコーディングのCursorを600億ドルで買収・VC系で史上最大／知床観光船沈没事故で桂田社長に禁錮5年の実刑判決／Snapが2195ドルのARグラスSpecsを発表・ポストスマホに賭ける／アマゾンで寄生菌に擬態する新種のクモを発見／映画「スーパーマリオ ギャラクシー」が世界興収10億ドル突破・2026年初</description>
+      <itunes:summary>スペースXがAIコーディングのCursorを600億ドルで買収・VC系で史上最大／知床観光船沈没事故で桂田社長に禁錮5年の実刑判決／Snapが2195ドルのARグラスSpecsを発表・ポストスマホに賭ける／アマゾンで寄生菌に擬態する新種のクモを発見／映画「スーパーマリオ ギャラクシー」が世界興収10億ドル突破・2026年初</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 06:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-18.mp3" length="4404816" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-18.mp3</guid>
+      <itunes:duration>00:12:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-17 朝の深掘りニュース</title>
       <description>日銀が政策金利を1.0％へ利上げ・31年ぶり高水準／大谷翔平がオールスター中間発表で両リーグ最多116万票／グーグルのGemini 3.5 Proが6月一般公開へ／「はたらく細胞」作者・清水茜さんが連載中の被害と病を公表／「永遠の化学物質」PFASを壊す鍵は水素ラジカル</description>
