@@ -262,11 +262,17 @@ def main():
     size = dst.stat().st_size
 
     eps = [e for e in load_manifest(manifest_path) if e["file"] != fname]
+    # 実際の公開時刻。同じ日に複数本出しても pubDate が衝突しないよう1本ごとに固有値を持たせる
+    # （衝突すると Pod アプリが別タイトルに違う音声を割り当てる事故が起きる）。RSS の pubDate は
+    # 秒精度なので、同一バッチで連続 publish しても必ず「既存の最新より後の秒」になるようずらす。
+    pubts = datetime.datetime.now()
+    existing = [datetime.datetime.fromisoformat(e["pubts"]) for e in eps if e.get("pubts")]
+    if existing and pubts <= max(existing):
+        pubts = max(existing) + datetime.timedelta(seconds=1)
     eps.append({
         "date": date_str, "title": title, "desc": desc,
         "file": fname, "bytes": size, "duration": duration,
-        # 実際の公開時刻。同じ日に複数本出しても pubDate が衝突しないように1本ごとに固有値を持たせる。
-        "pubts": datetime.datetime.now().isoformat(timespec="seconds"),
+        "pubts": pubts.isoformat(timespec="seconds"),
     })
     eps.sort(key=lambda e: episode_dt(e, cfg["hour"]), reverse=True)
 
