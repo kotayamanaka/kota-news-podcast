@@ -27,5 +27,25 @@
       <itunes:duration>00:09:12</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>知識ラジオ：ヤクルト（なぜヤクルトレディは成り立ち、他社は真似できないのか）</title>
+      <description>身近すぎるヤクルトを深掘り。①売っているのは飲料より「対面の健康教育」＝代田イズム・予防医学とヤクルトレディの狙い ②なぜ他の飲料メーカーは宅配を真似しないのか（低単価×高密度の採算／60年かけた数万人の信頼ネットワークという経路依存） ③なぜ新興国で強いのか（小売インフラが未整備な地域では『人の信頼』が流通インフラになる）。海外事業がグループ売上の4割超に。</description>
+      <itunes:summary>身近すぎるヤクルトを深掘り。①売っているのは飲料より「対面の健康教育」＝代田イズム・予防医学とヤクルトレディの狙い ②なぜ他の飲料メーカーは宅配を真似しないのか（低単価×高密度の採算／60年かけた数万人の信頼ネットワークという経路依存） ③なぜ新興国で強いのか（小売インフラが未整備な地域では『人の信頼』が流通インフラになる）。海外事業がグループ売上の4割超に。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18-yakult.mp3" length="7289251" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18-yakult.mp3</guid>
+      <itunes:duration>00:07:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>知識ラジオ：吉祥寺（なぜ人気なのか、なぜ他の街は真似できないのか）</title>
+      <description>住みたい街の常連・吉祥寺を深掘り。①都会と緑の両立は数百年の偶然の積み重ね＝明暦の大火→武蔵野移住、1917年に日本初の郊外公園・井の頭公園、関東大震災の郊外移住、戦後の闇市→ハモニカ横丁、という経路依存で他の街が真似できない ②『住みたい』≠『住みやすい』＝ランキングは認知度・ブランド力の指標、調査で順位がぶれる（2024年に横浜・大宮に抜かれ3位）、地価は都内有数 ③地名の吉祥寺に寺『吉祥寺』はない（寺は文京区本駒込）。</description>
+      <itunes:summary>住みたい街の常連・吉祥寺を深掘り。①都会と緑の両立は数百年の偶然の積み重ね＝明暦の大火→武蔵野移住、1917年に日本初の郊外公園・井の頭公園、関東大震災の郊外移住、戦後の闇市→ハモニカ横丁、という経路依存で他の街が真似できない ②『住みたい』≠『住みやすい』＝ランキングは認知度・ブランド力の指標、調査で順位がぶれる（2024年に横浜・大宮に抜かれ3位）、地価は都内有数 ③地名の吉祥寺に寺『吉祥寺』はない（寺は文京区本駒込）。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18-kichijoji.mp3" length="7044745" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18-kichijoji.mp3</guid>
+      <itunes:duration>00:07:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
