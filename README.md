@@ -9,7 +9,7 @@ kota 専用の音声 Podcast。1つのリポジトリで **2つの独立番組**
 | ライフハックラジオ | 生活・健康を進化させる実践ワザ（特にAI活用） | `https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml` | 毎朝3:30頃 |
 | 知識ラジオ | 企業/商品/駅周辺/世界の国/経営者/業界をローテ | `https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml` | 毎朝4:00頃 |
 | 鑑賞ふりかえりラジオ | Notion鑑賞記録の最新（無ければ直近）を特集 | `https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml` | 毎朝4:30頃 |
-| 福祉ラジオ | 落穂会支援向け・社会福祉を体系学習 | `https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml` | 毎朝4:45頃 |
+| 福祉ラジオ | 落穂会支援向け・障害者支援を体系学習 | `https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml` | 毎朝4:45頃 |
 
 > 全番組を朝6時までに仕上げる方針（kota指示）。生成は早朝に25分間隔で実行（git push衝突回避）。新番組の追加は `NEW_SERIES.md`、共通制作手順は `RADIO_BASE.md`。
 

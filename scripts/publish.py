@@ -95,7 +95,7 @@ SHOWS = {
         "cover": "fukushi-cover.png",
         "hour": 8,
         "channel_title": "kota 福祉ラジオ",
-        "channel_desc": "落穂会支援に向けて、社会福祉法人・障害者支援・福祉制度の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。",
+        "channel_desc": "落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。",
         "category": "Society & Culture",
         "default_title": "福祉ラジオ（{date}）",
     },
