@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Thu, 18 Jun 2026 15:03:34 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 15:03:34 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 01:33:37 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:33:37 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -19,22 +19,22 @@
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
     <item>
       <title>「二郎系ラーメン」について語れるようになりたい</title>
-      <description>極太麺・山盛り野菜・分厚いブタ。源流は1968年創業の『ラーメン二郎』(山田拓美)。①『ニンニク入れますか』のコールは儀式でなく回転を上げるための合理（5〜6人分まとめ茹で＝ロットの最終仕上げと注文確認を一言で処理）②なぜ安く大盛りか＝メニュー集約・自家製麺・もやし/キャベツ/小麦/豚という低単価素材・少人数・高回転で高い原価率を吸収 ③なぜ店ごと味が違うか＝FCでなく暖簾分けで店主裁量が大きく均質化しない『二郎は二郎という食べ物』、味のばらつきがジロリアンの熱狂を生む。おまけ：『二郎』は看板の書き間違いから。</description>
-      <itunes:summary>極太麺・山盛り野菜・分厚いブタ。源流は1968年創業の『ラーメン二郎』(山田拓美)。①『ニンニク入れますか』のコールは儀式でなく回転を上げるための合理（5〜6人分まとめ茹で＝ロットの最終仕上げと注文確認を一言で処理）②なぜ安く大盛りか＝メニュー集約・自家製麺・もやし/キャベツ/小麦/豚という低単価素材・少人数・高回転で高い原価率を吸収 ③なぜ店ごと味が違うか＝FCでなく暖簾分けで店主裁量が大きく均質化しない『二郎は二郎という食べ物』、味のばらつきがジロリアンの熱狂を生む。おまけ：『二郎』は看板の書き間違いから。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 15:03:34 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-jiro.mp3" length="6964078" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-jiro.mp3</guid>
-      <itunes:duration>00:07:15</itunes:duration>
+      <description>極太麺・山盛り野菜・分厚いブタ。源流は1968年創業の『ラーメン二郎』(山田拓美)。①『ニンニク入れますか』のコールは儀式でなく回転を上げる合理（5〜6人分まとめ茹で＝ロットの最終仕上げと注文確認を一言で処理）②なぜ安く大盛りか＝メニュー集約・自家製麺・低単価素材・少人数・高回転で高い原価率を吸収 ③なぜ店ごと味が違うか＝FCでなく暖簾分けで店主裁量が大きく『二郎は二郎という食べ物』、味のばらつきがジロリアンの熱狂を生む。おまけ：『二郎』は看板の書き間違いから。</description>
+      <itunes:summary>極太麺・山盛り野菜・分厚いブタ。源流は1968年創業の『ラーメン二郎』(山田拓美)。①『ニンニク入れますか』のコールは儀式でなく回転を上げる合理（5〜6人分まとめ茹で＝ロットの最終仕上げと注文確認を一言で処理）②なぜ安く大盛りか＝メニュー集約・自家製麺・低単価素材・少人数・高回転で高い原価率を吸収 ③なぜ店ごと味が違うか＝FCでなく暖簾分けで店主裁量が大きく『二郎は二郎という食べ物』、味のばらつきがジロリアンの熱狂を生む。おまけ：『二郎』は看板の書き間違いから。</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 01:33:37 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-jiro2.mp3" length="6669835" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-jiro2.mp3</guid>
+      <itunes:duration>00:06:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>「ラブブ（Labubu）」について語れるようになりたい</title>
-      <description>セレブのバッグに揺れるギザギザ歯の妖精。香港のアーティスト カシン・ルンが生んだ『The Monsters』の一員で、中国POP MARTがブラインドボックスで世界に拡散。①なぜ爆発したか＝2024年4月ブラックピンク・リサが着火→セレブ×SNS開封動画×ブラインドボックスの連鎖 ②なぜ高騰・品薄か＝シークレット約1/72という『意図された希少性』、$15の玩具が等身大は108万元(約2200万円)落札、POP MARTは半期で前年通期超え ③偽物ラフフ・各国税関で約800万個押収・歯9本で見分け・ソニーが映画化権。</description>
-      <itunes:summary>セレブのバッグに揺れるギザギザ歯の妖精。香港のアーティスト カシン・ルンが生んだ『The Monsters』の一員で、中国POP MARTがブラインドボックスで世界に拡散。①なぜ爆発したか＝2024年4月ブラックピンク・リサが着火→セレブ×SNS開封動画×ブラインドボックスの連鎖 ②なぜ高騰・品薄か＝シークレット約1/72という『意図された希少性』、$15の玩具が等身大は108万元(約2200万円)落札、POP MARTは半期で前年通期超え ③偽物ラフフ・各国税関で約800万個押収・歯9本で見分け・ソニーが映画化権。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 15:00:23 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-labubu.mp3" length="6836183" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-labubu.mp3</guid>
-      <itunes:duration>00:07:07</itunes:duration>
+      <description>セレブのバッグに揺れるギザギザ歯の妖精。香港のアーティスト カシン・ルンが生んだ『The Monsters』の一員で、中国POP MARTがブラインドボックスで世界に拡散。①なぜ爆発したか＝2024年4月ブラックピンク・リサが着火→セレブ×SNS開封動画×ブラインドボックスの連鎖 ②なぜ高騰・品薄か＝シークレット約1/72という『意図された希少性』、$15の玩具が等身大は108万元(約2200万円)落札 ③偽物ラフフ・各国税関で約800万個押収・歯9本で見分け・ソニーが映画化権。</description>
+      <itunes:summary>セレブのバッグに揺れるギザギザ歯の妖精。香港のアーティスト カシン・ルンが生んだ『The Monsters』の一員で、中国POP MARTがブラインドボックスで世界に拡散。①なぜ爆発したか＝2024年4月ブラックピンク・リサが着火→セレブ×SNS開封動画×ブラインドボックスの連鎖 ②なぜ高騰・品薄か＝シークレット約1/72という『意図された希少性』、$15の玩具が等身大は108万元(約2200万円)落札 ③偽物ラフフ・各国税関で約800万個押収・歯9本で見分け・ソニーが映画化権。</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 01:33:36 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-labubu2.mp3" length="6434524" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-18-labubu2.mp3</guid>
+      <itunes:duration>00:06:42</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>

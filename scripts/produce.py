@@ -14,6 +14,7 @@ usage:
 音源は assets/jingle.* と assets/sting.* を使う（make_jingle.py で生成。SUNO 製に差し替え可）。
 ジングル/スティングが存在しなければ、その箇所は単に省略される（音声だけ出力）。
 """
+import os
 import re
 import sys
 import asyncio
@@ -32,6 +33,46 @@ ASSETS = REPO / "assets"
 DEFAULT_DICT = REPO / "data" / "yomi_dict.json"
 FFMPEG = imageio_ffmpeg.get_ffmpeg_exe()
 STING_RE = re.compile(r"^\s*\[STING\]\s*$")
+
+# 読み上げエンジン。環境変数 TTS_BACKEND=openai で OpenAI に切替（既定は無料の edge-tts）。
+TTS_BACKEND = os.environ.get("TTS_BACKEND", "edge").lower()
+# OpenAI TTS 設定。声は OPENAI_TTS_VOICE で上書き可（alloy/ash/ballad/coral/echo/fable/nova/onyx/sage/shimmer/verse）。
+OPENAI_TTS_MODEL = os.environ.get("OPENAI_TTS_MODEL", "gpt-4o-mini-tts")
+OPENAI_TTS_VOICE = os.environ.get("OPENAI_TTS_VOICE", "shimmer")
+OPENAI_TTS_INSTRUCTIONS = os.environ.get(
+    "OPENAI_TTS_INSTRUCTIONS",
+    "日本語のラジオ番組のナレーション。落ち着いた、自然で親しみやすい会話のトーンで、"
+    "明瞭に、適度な間をとって読む。固有名詞や数字は正確に。",
+)
+
+
+def _openai_key():
+    """OPENAI_API_KEY 環境変数か、gitignore した scripts/local/openai_key.txt から鍵を読む。"""
+    k = os.environ.get("OPENAI_API_KEY")
+    if k:
+        return k.strip()
+    kf = REPO / "scripts" / "local" / "openai_key.txt"
+    if kf.exists():
+        return kf.read_text(encoding="utf-8").strip()
+    raise SystemExit(
+        "OpenAI の鍵が見つかりません。OPENAI_API_KEY を設定するか、"
+        "scripts/local/openai_key.txt に鍵を保存してください。"
+    )
+
+
+def _tts_openai(text, out_mp3):
+    """OpenAI TTS で1セグメントを合成。OpenAI は日本語をネイティブに読むので、
+    カナ変換（synth.to_kana）は通さず原文をそのまま渡す（その方が自然）。"""
+    from openai import OpenAI
+    client = OpenAI(api_key=_openai_key())
+    with client.audio.speech.with_streaming_response.create(
+        model=OPENAI_TTS_MODEL,
+        voice=OPENAI_TTS_VOICE,
+        input=text,
+        instructions=OPENAI_TTS_INSTRUCTIONS,
+        response_format="mp3",
+    ) as resp:
+        resp.stream_to_file(str(out_mp3))
 
 
 def _find_asset(stem):
@@ -101,7 +142,10 @@ def main():
         seg_files = []
         for i, seg in enumerate(segs):
             sf = td / f"seg{i}.mp3"
-            asyncio.run(_tts(seg, sf, dict_path, rate))
+            if TTS_BACKEND == "openai":
+                _tts_openai(seg, sf)
+            else:
+                asyncio.run(_tts(seg, sf, dict_path, rate))
             seg_files.append(sf)
 
         parts = []
@@ -117,8 +161,9 @@ def main():
         _concat(parts, out_mp3)
 
     n_st = (len(seg_files) - 1) if sting else 0
+    voice = f"openai:{OPENAI_TTS_VOICE}" if TTS_BACKEND == "openai" else "edge:Nanami"
     print(f"produced {out_mp3}  segments={len(seg_files)}  stings={n_st}  "
-          f"jingle={'yes' if jingle else 'no'}")
+          f"jingle={'yes' if jingle else 'no'}  tts={voice}")
 
 
 if __name__ == "__main__":

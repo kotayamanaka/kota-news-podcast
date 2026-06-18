@@ -5,3 +5,5 @@ scripts/_*.txt
 scripts/_*.json
 episodes_test_music.mp3
 scripts/_test*.txt
+
+scripts/local/
