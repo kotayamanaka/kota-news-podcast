@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Thu, 18 Jun 2026 14:00:47 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 14:00:47 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 19:32:06 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:32:06 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -18,23 +18,23 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
     <item>
-      <title>鑑賞ふりかえり：梨泰院クラス（なぜ刺さるのか・信念×多様性）</title>
-      <description>世界的ヒットの韓国ドラマを深掘り（結末まで含む）。①作品の芯は『信念を曲げない生き方＝所信のある人生』、復讐を暴力でなくビジネスで成す主人公パク・セロイ ②なぜ刺さるのか＝前科者・トランスジェンダー・ハーフ・天才イソら社会の周縁を出自でなく信念と能力で迎える多様性、財閥(ナッツ事件を想起させる格差)への共感（料理対決でヒョニが敵にトランスジェンダーを暴露されても自分の口で言い切り勝つ場面など）③原作者チョ・グァンジンがWebTOON原作と脚本を兼ねた一貫性。OST『시작(Start)』やBTS・Vの『Sweet Night』も世界的ヒット。</description>
-      <itunes:summary>世界的ヒットの韓国ドラマを深掘り（結末まで含む）。①作品の芯は『信念を曲げない生き方＝所信のある人生』、復讐を暴力でなくビジネスで成す主人公パク・セロイ ②なぜ刺さるのか＝前科者・トランスジェンダー・ハーフ・天才イソら社会の周縁を出自でなく信念と能力で迎える多様性、財閥(ナッツ事件を想起させる格差)への共感（料理対決でヒョニが敵にトランスジェンダーを暴露されても自分の口で言い切り勝つ場面など）③原作者チョ・グァンジンがWebTOON原作と脚本を兼ねた一貫性。OST『시작(Start)』やBTS・Vの『Sweet Night』も世界的ヒット。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 14:00:47 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-itaewon2.mp3" length="7881499" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-itaewon2.mp3</guid>
-      <itunes:duration>00:08:12</itunes:duration>
+      <title>鑑賞ふりかえり：コンフィデンスマンJP（なぜ騙されに行くのが快感なのか）</title>
+      <description>長澤まさみ主演・古沢良太脚本の人気シリーズを深掘り。①脚本家・古沢良太の『ウェルメイド』な構成力（リーガル・ハイ／どうする家康／元は漫画家志望でデフォルメを実写で成立させる）②なぜ騙されて気持ちいいのか＝コンゲームの一人称トリック、標的『オサカナ』を悪党に限る勧善懲悪、種明かしの様式美で結末を知っても再視聴できる③お茶の間ヒット〜映画三部作の理由（一話完結・ダー子の七変化・強敵 赤星栄介＝江口洋介・興収約29億〜30億超）。</description>
+      <itunes:summary>長澤まさみ主演・古沢良太脚本の人気シリーズを深掘り。①脚本家・古沢良太の『ウェルメイド』な構成力（リーガル・ハイ／どうする家康／元は漫画家志望でデフォルメを実写で成立させる）②なぜ騙されて気持ちいいのか＝コンゲームの一人称トリック、標的『オサカナ』を悪党に限る勧善懲悪、種明かしの様式美で結末を知っても再視聴できる③お茶の間ヒット〜映画三部作の理由（一話完結・ダー子の七変化・強敵 赤星栄介＝江口洋介・興収約29億〜30億超）。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 19:32:06 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-confidenceman2.mp3" length="5839768" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-confidenceman2.mp3</guid>
+      <itunes:duration>00:06:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>鑑賞ふりかえり：コンフィデンスマンJP（なぜ騙されに行くのが快感なのか）</title>
-      <description>長澤まさみ主演・古沢良太脚本の人気シリーズを深掘り。①脚本家・古沢良太の『ウェルメイド』な構成力（リーガル・ハイ／どうする家康／元は漫画家志望でデフォルメを実写で成立させる） ②なぜ騙されて気持ちいいのか＝コンゲームの一人称トリック、標的『オサカナ』を悪党に限る勧善懲悪、種明かしの様式美で結末を知っても再視聴できる ③お茶の間ヒット〜映画三部作の理由（一話完結・ダー子の七変化・強敵 赤星栄介＝江口洋介・興収約29億〜30億超）。</description>
-      <itunes:summary>長澤まさみ主演・古沢良太脚本の人気シリーズを深掘り。①脚本家・古沢良太の『ウェルメイド』な構成力（リーガル・ハイ／どうする家康／元は漫画家志望でデフォルメを実写で成立させる） ②なぜ騙されて気持ちいいのか＝コンゲームの一人称トリック、標的『オサカナ』を悪党に限る勧善懲悪、種明かしの様式美で結末を知っても再視聴できる ③お茶の間ヒット〜映画三部作の理由（一話完結・ダー子の七変化・強敵 赤星栄介＝江口洋介・興収約29億〜30億超）。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 13:37:20 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-confidenceman.mp3" length="6945688" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-confidenceman.mp3</guid>
-      <itunes:duration>00:07:14</itunes:duration>
+      <title>鑑賞ふりかえり：梨泰院クラス（なぜ刺さるのか・信念×多様性）</title>
+      <description>世界的ヒットの韓国ドラマを深掘り（結末まで含む）。①作品の芯は『信念を曲げない生き方＝所信のある人生』、復讐を暴力でなくビジネスで成す主人公パク・セロイ ②なぜ刺さるのか＝前科者・トランスジェンダー・ハーフ・天才イソら社会の周縁を出自でなく信念と能力で迎える多様性、財閥(ナッツ事件を想起させる格差)への共感（料理対決でヒョニが敵にトランスジェンダーを暴露されても自分の口で言い切り勝つ場面など）③原作者チョ・グァンジンがWebTOON原作と脚本を兼ねた一貫性。OST『시작(Start)』やBTS・Vの『Sweet Night』も世界的ヒット。</description>
+      <itunes:summary>世界的ヒットの韓国ドラマを深掘り（結末まで含む）。①作品の芯は『信念を曲げない生き方＝所信のある人生』、復讐を暴力でなくビジネスで成す主人公パク・セロイ ②なぜ刺さるのか＝前科者・トランスジェンダー・ハーフ・天才イソら社会の周縁を出自でなく信念と能力で迎える多様性、財閥(ナッツ事件を想起させる格差)への共感（料理対決でヒョニが敵にトランスジェンダーを暴露されても自分の口で言い切り勝つ場面など）③原作者チョ・グァンジンがWebTOON原作と脚本を兼ねた一貫性。OST『시작(Start)』やBTS・Vの『Sweet Night』も世界的ヒット。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 19:32:06 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-itaewon3.mp3" length="6870038" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-18-itaewon3.mp3</guid>
+      <itunes:duration>00:07:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
