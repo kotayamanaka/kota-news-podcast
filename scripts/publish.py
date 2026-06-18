@@ -180,6 +180,15 @@ def main():
     elif argv and argv[0].startswith("--show="):
         show = argv[0].split("=", 1)[1]
         argv = argv[1:]
+    # --file NAME / --file=NAME : エピソードのファイル名を上書き（既定は <date>.mp3）。
+    # 同じ日に作り直した版を「別エピソード（別GUID）」として配信し、Podアプリに確実に届けたい時に使う。
+    file_override = None
+    if argv and argv[0] == "--file":
+        file_override = argv[1]
+        argv = argv[2:]
+    elif argv and argv[0].startswith("--file="):
+        file_override = argv[0].split("=", 1)[1]
+        argv = argv[1:]
     if show not in SHOWS:
         print(f"unknown show: {show}. choose from {list(SHOWS)}")
         sys.exit(1)
@@ -212,7 +221,7 @@ def main():
         desc = title
 
     ep_dir.mkdir(parents=True, exist_ok=True)
-    fname = f"{date_str}.mp3"
+    fname = file_override if file_override else f"{date_str}.mp3"
     dst = ep_dir / fname
     # synth.py が直接 <ep_dir>/<DATE>.mp3 に書く運用だと src==dst になる。その場合はコピー不要。
     if mp3_src.resolve() != dst.resolve():
