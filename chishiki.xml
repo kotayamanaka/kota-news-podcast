@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Thu, 18 Jun 2026 18:42:01 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 18:42:01 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 04:13:25 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:13:25 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：稲盛和夫（なぜ町工場から世界企業を築き、畑ちがいでも勝てたのか）</title>
+      <description>経営者シリーズは「経営の神様」稲盛和夫。①負け続けの前半生から血判状で創業した京セラ（人の心を土台にしたフィロソフィの原点）②独自の『アメーバ経営』はなぜ可能で、なぜ他社は真似できないのか＝哲学という土台ぬきでは形骸化する ③畑ちがいのKDDI創業と、JALを2年8か月で再上場させた再建。出典は京セラ稲盛アーカイブ・KDDI/JAL公式・日本経済新聞ほか。</description>
+      <itunes:summary>経営者シリーズは「経営の神様」稲盛和夫。①負け続けの前半生から血判状で創業した京セラ（人の心を土台にしたフィロソフィの原点）②独自の『アメーバ経営』はなぜ可能で、なぜ他社は真似できないのか＝哲学という土台ぬきでは形骸化する ③畑ちがいのKDDI創業と、JALを2年8か月で再上場させた再建。出典は京セラ稲盛アーカイブ・KDDI/JAL公式・日本経済新聞ほか。</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 04:13:25 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-19.mp3" length="11140327" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-19.mp3</guid>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：ヤクルト（なぜヤクルトレディは成り立ち、他社は真似できないのか）</title>
       <description>身近すぎるヤクルトを深掘り。①売っているのは飲料より『対面の健康教育』＝代田イズム・予防医学とヤクルトレディの狙い ②なぜ他の飲料メーカーは宅配を真似しないのか（低単価×高密度の採算／60年かけた数万人の信頼ネットワークという経路依存）③なぜ新興国で強いのか（小売インフラが未整備な地域では『人の信頼』が流通インフラになる）。海外事業がグループ売上の4割超に。</description>
