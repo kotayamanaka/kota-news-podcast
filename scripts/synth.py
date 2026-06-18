@@ -89,9 +89,39 @@ def to_kana(text: str) -> str:
     return "\n".join(out_lines)
 
 
+# 読点（、）の間引き。台本は文節ごとに「、」が打たれがちで、そのまま edge-tts に渡すと
+# 区切りごとに間が入り「ぶつ切り」で聞きづらくなる（kota 指摘 2026-06-18）。
+# 直近の区切り（読点・句点）からの文字数が PAUSE_MIN_CHARS に満たない細切れの読点を落として、
+# 一定の長さごとにだけ間が入るようにする。句点（。！？）はそのまま残す。
+PAUSE_MIN_CHARS = 14
+
+
+def thin_commas(text: str) -> str:
+    out_lines = []
+    for line in text.split("\n"):
+        res = []
+        seg = 0  # 直近の区切りからの実文字数
+        for ch in line:
+            if ch == "、":
+                if seg < PAUSE_MIN_CHARS:
+                    continue  # 細切れ→読点を捨てて前後を繋ぐ（seg は継続）
+                res.append(ch)
+                seg = 0
+            elif ch in "。．！？!?…":
+                res.append(ch)
+                seg = 0
+            else:
+                res.append(ch)
+                if ch not in " 　\t":
+                    seg += 1
+        out_lines.append("".join(res))
+    return "\n".join(out_lines)
+
+
 def normalize(text: str, dict_path: pathlib.Path) -> str:
     text = apply_yomi(text, dict_path)
     text = to_kana(text)
+    text = thin_commas(text)
     return text
 
 
