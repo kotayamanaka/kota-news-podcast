@@ -1,6 +1,6 @@
 # 語れるラジオ — 毎日の生成ルーチン
 
-> このファイルは毎朝（朝ニュースの直後・6:35頃）の scheduled-task（`katareru-radio`）が読んで **そのまま実行する** 手順書。
+> このファイルは毎朝（5:15頃。全番組を6時までに仕上げる方針）の scheduled-task（`katareru-radio`）が読んで **そのまま実行する** 手順書。
 > 目的：いま話題だけど「実はよくわからない」単語・人物・現象を **1つ** 選び、他人に語れるレベルまで深掘りして、約6〜8分の音声（mp3）にして Podcast 配信する。
 > 作業ディレクトリ：`C:\Users\kota\Documents\Claude\kota-news-podcast`
 > 番組ID：`katareru`（朝の深掘りニュースとは **別フィード**。配信フィードはリポジトリ直下 `katareru.xml`。音声は `katareru/episodes/`）

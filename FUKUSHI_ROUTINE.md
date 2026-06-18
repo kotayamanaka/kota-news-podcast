@@ -1,7 +1,7 @@
 # 福祉ラジオ — 番組差分ルーチン（SHOW=fukushi）
 
 > 制作の本体手順は **RADIO_BASE.md** に従う。このファイルは**テーマ選定（体系的カリキュラム）**だけを定義する。
-> scheduled-task：`fukushi-radio`（毎朝8:30）。配信フィード：`fukushi.xml`。
+> scheduled-task：`fukushi-radio`（毎朝4:45頃。全番組を6時までに仕上げる方針）。配信フィード：`fukushi.xml`。
 
 ## この番組の狙い
 

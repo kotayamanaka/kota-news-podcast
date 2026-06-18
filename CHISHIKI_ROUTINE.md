@@ -1,7 +1,7 @@
 # 知識ラジオ — 番組差分ルーチン（SHOW=chishiki）
 
 > 制作の本体手順は **RADIO_BASE.md** に従う。このファイルは**テーマ選定（6カテゴリ巡回）**だけを定義する。
-> scheduled-task：`chishiki-radio`（毎朝7:30）。配信フィード：`chishiki.xml`。
+> scheduled-task：`chishiki-radio`（毎朝4:00頃。全番組を6時までに仕上げる方針）。配信フィード：`chishiki.xml`。
 
 ## この番組の狙い
 

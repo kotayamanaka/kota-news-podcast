@@ -1,7 +1,7 @@
 # ライフハックラジオ — 番組差分ルーチン（SHOW=lifehack）
 
 > 制作の本体手順は **RADIO_BASE.md** に従う。このファイルは**テーマ選定と番組の狙い**だけを定義する。
-> scheduled-task：`lifehack-radio`（毎朝7:00）。配信フィード：`lifehack.xml`。
+> scheduled-task：`lifehack-radio`（毎朝3:30頃。全番組を6時までに仕上げる方針）。配信フィード：`lifehack.xml`。
 
 ## この番組の狙い
 
