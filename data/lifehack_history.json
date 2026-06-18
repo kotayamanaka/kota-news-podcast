@@ -13,5 +13,10 @@
     "date": "2026-06-18",
     "theme": "AIで毎日の情報収集を自動化（RSS→AI要約→配信）",
     "keywords": ["情報収集自動化", "RSS", "Googleアラート", "AI要約", "ChatGPT Gemini", "Zapier Make n8n IFTTT", "GAS自作", "LINE Messaging API", "Feedly Leo", "API従量課金", "ハルシネーション BBC検証", "フィルターバブル", "ポーリング課金"]
+  },
+  {
+    "date": "2026-06-19",
+    "theme": "AIに一日をまるごと覚えてもらう『第二の脳（AIライフログ）』",
+    "keywords": ["AIライフログ", "第二の脳", "PLAUD プラウド", "Limitless リミットレス", "Dan Siroker 補聴器", "Rewind", "Bee ビー", "Meta買収", "Amazon買収", "常時録音 ペンダント", "スマホOSはマイク常時オン不可", "Whisper 2022無料公開 68万時間", "ロングコンテキスト 意味検索 100倍", "MyLifeBits Gordon Bell 予言", "Narrative Clip 2016倒産", "Google Glass 2015終了 Glasshole", "ChatGPT 返事せず全部聞いて 要点ToDo", "夜のふりかえり ジャーナリング", "Granola Otter 無料枠", "録音同意 bystander 日本の秘密録音 名誉毀損", "Whisper捏造 Cornell", "Lost in the Middle 真ん中3割劣化"]
   }
 ]
