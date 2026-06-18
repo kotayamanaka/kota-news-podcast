@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・日本の駅と周辺地域・世界の国・経営者・業界特集をローテーションで深掘りする、kota専用の教養音声番組。</description>
-    <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 07:00:00 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:00:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・日本の駅と周辺地域・世界の国・経営者・業界特集をローテーションで深掘りする、kota専用の教養音声番組。</itunes:summary>
@@ -17,6 +17,15 @@
     <itunes:category text="Education"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
-
+    <item>
+      <title>知識ラジオ：キーエンス（なぜ異常に高収益なのか）</title>
+      <description>名前は聞くが何の会社か説明しづらいキーエンスを深掘り。①営業利益率51.9%・平均年収2039万円の儲け方 ②工場を持たないファブレス＋代理店を使わない直販＋新商品の約7割が世界初の仕組み ③トヨタの金型破損から始まった創業と社名Key of Scienceの由来。</description>
+      <itunes:summary>名前は聞くが何の会社か説明しづらいキーエンスを深掘り。①営業利益率51.9%・平均年収2039万円の儲け方 ②工場を持たないファブレス＋代理店を使わない直販＋新商品の約7割が世界初の仕組み ③トヨタの金型破損から始まった創業と社名Key of Scienceの由来。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18.mp3" length="3866165" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-18.mp3</guid>
+      <itunes:duration>00:04:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
