@@ -27,5 +27,25 @@
       <itunes:duration>00:04:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>ライフハック：自分の資料をAIにポッドキャスト風に解説させる（NotebookLM音声概要）</title>
+      <description>Google NotebookLMの『音声概要』で、自分のPDF・議事録・WebページやYouTube URLを、AIホスト2人が対話するポッドキャスト風音声に自動変換し『聞いて』学ぶワザ。①何ができるか（アップした資料だけを根拠に対話生成、形式やフォーカスも指定可）②始め方（notebooklm.google.comにログイン→資料追加→生成、無料で1日3回、2025年に日本語フル対応）③なぜ頭に入るか＝ながら聞き、と注意点（AI要約の幻覚→重要判断は元資料を確認、漢字の誤読、機密資料の扱い／割り込み質問は英語のみ）。</description>
+      <itunes:summary>Google NotebookLMの『音声概要』で、自分のPDF・議事録・WebページやYouTube URLを、AIホスト2人が対話するポッドキャスト風音声に自動変換し『聞いて』学ぶワザ。①何ができるか（アップした資料だけを根拠に対話生成、形式やフォーカスも指定可）②始め方（notebooklm.google.comにログイン→資料追加→生成、無料で1日3回、2025年に日本語フル対応）③なぜ頭に入るか＝ながら聞き、と注意点（AI要約の幻覚→重要判断は元資料を確認、漢字の誤読、機密資料の扱い／割り込み質問は英語のみ）。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18-notebooklm.mp3" length="7115798" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18-notebooklm.mp3</guid>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>ライフハック：AIで毎日の情報収集を自動化する（RSS→AI要約→メール/LINE/音声）</title>
+      <description>情報収集を『集める→AIで要約→決まった場所に届ける』の3ステップで自動化する実践ワザ。①基本形＝RSSやGoogleアラートで集め、ChatGPT/Gemini等で要約し、メール・LINE・Slackへ ②実在ツール＝ノーコード(Zapier/Make/n8n/IFTTT、無料枠は縮小傾向でn8nセルフホストやGAS自作が現実解)とGAS×LINEの自作例、コストはAPI従量で月数十〜数百円 ③始め方＝まずFeedlyかGoogleアラートで情報源を1か所に。注意＝AI要約の幻覚(BBC検証で約半数に重大問題)→重要なら元記事確認、フィルターバブル対策、ポーリング課金。</description>
+      <itunes:summary>情報収集を『集める→AIで要約→決まった場所に届ける』の3ステップで自動化する実践ワザ。①基本形＝RSSやGoogleアラートで集め、ChatGPT/Gemini等で要約し、メール・LINE・Slackへ ②実在ツール＝ノーコード(Zapier/Make/n8n/IFTTT、無料枠は縮小傾向でn8nセルフホストやGAS自作が現実解)とGAS×LINEの自作例、コストはAPI従量で月数十〜数百円 ③始め方＝まずFeedlyかGoogleアラートで情報源を1か所に。注意＝AI要約の幻覚(BBC検証で約半数に重大問題)→重要なら元記事確認、フィルターバブル対策、ポーリング課金。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18-ainews.mp3" length="6930642" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-18-ainews.mp3</guid>
+      <itunes:duration>00:07:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
