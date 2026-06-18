@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Thu, 18 Jun 2026 19:32:06 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 19:32:06 +0900</lastBuildDate>
+    <pubDate>Fri, 19 Jun 2026 04:42:44 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 04:42:44 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞ふりかえり：ヴァイオレット・エヴァーガーデン（京アニ唯一の大賞・手紙が運ぶ愛）</title>
+      <description>2018年放送、京都アニメーションの名作アニメを深掘り。①あの作画の正体＝固定給雇用・製作委員会方式からの脱却・自社の京アニ大賞で唯一の大賞を獲った原作を自社文庫→自社アニメ化する一気通貫 ②『消えゆく職業＝自動手記人形』という設定の妙と、神回・第10話『母が娘へ50年分の手紙を遺す』に込めた“時間と死を超えて愛を運ぶ手紙” ③タイプライター1カットに1ヶ月・無表情を『眉』で演じ分ける作画のこだわりと、放火事件・コロナの2度の延期を越えて完成・興収21億円超となった劇場版。出典：京都アニメーション公式、京アニ大賞公式、ANN、ORICON ほか。</description>
+      <itunes:summary>2018年放送、京都アニメーションの名作アニメを深掘り。①あの作画の正体＝固定給雇用・製作委員会方式からの脱却・自社の京アニ大賞で唯一の大賞を獲った原作を自社文庫→自社アニメ化する一気通貫 ②『消えゆく職業＝自動手記人形』という設定の妙と、神回・第10話『母が娘へ50年分の手紙を遺す』に込めた“時間と死を超えて愛を運ぶ手紙” ③タイプライター1カットに1ヶ月・無表情を『眉』で演じ分ける作画のこだわりと、放火事件・コロナの2度の延期を越えて完成・興収21億円超となった劇場版。出典：京都アニメーション公式、京アニ大賞公式、ANN、ORICON ほか。</itunes:summary>
+      <pubDate>Fri, 19 Jun 2026 04:42:44 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-19.mp3" length="10455292" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-19.mp3</guid>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞ふりかえり：コンフィデンスマンJP（なぜ騙されに行くのが快感なのか）</title>
       <description>長澤まさみ主演・古沢良太脚本の人気シリーズを深掘り。①脚本家・古沢良太の『ウェルメイド』な構成力（リーガル・ハイ／どうする家康／元は漫画家志望でデフォルメを実写で成立させる）②なぜ騙されて気持ちいいのか＝コンゲームの一人称トリック、標的『オサカナ』を悪党に限る勧善懲悪、種明かしの様式美で結末を知っても再視聴できる③お茶の間ヒット〜映画三部作の理由（一話完結・ダー子の七変化・強敵 赤星栄介＝江口洋介・興収約29億〜30億超）。</description>
