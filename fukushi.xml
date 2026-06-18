@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Thu, 18 Jun 2026 08:00:00 +0900</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 08:00:00 +0900</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 13:29:08 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:29:08 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -18,33 +18,33 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
     <item>
-      <title>福祉ラジオ：社会福祉法人とは（第1回）</title>
-      <description>社会福祉の基礎・第1回。①所轄庁の認可制で誰でも作れず、非営利で配当も解散時の残余財産分配も不可 ②2017年改正でガバナンス強化（評議員会必置・理事会・監事・会計監査人、評議員は理事の数を超える数） ③内部留保批判から生まれた社会福祉充実残額。株式会社・NPOとの違いも。</description>
-      <itunes:summary>社会福祉の基礎・第1回。①所轄庁の認可制で誰でも作れず、非営利で配当も解散時の残余財産分配も不可 ②2017年改正でガバナンス強化（評議員会必置・理事会・監事・会計監査人、評議員は理事の数を超える数） ③内部留保批判から生まれた社会福祉充実残額。株式会社・NPOとの違いも。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18.mp3" length="3905035" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18.mp3</guid>
-      <itunes:duration>00:04:04</itunes:duration>
+      <title>福祉ラジオ：就労継続支援A型とB型の違い（なぜB型の工賃は低いのか、A型解雇問題まで）</title>
+      <description>就労継続支援を3点で深掘り。①違いは『雇用契約の有無』ただ一つ＝A型は労働者で最低賃金が効き賃金、B型は雇用契約なしで最低賃金対象外の工賃（令和6年度の全国平均はA型約9.1万円・B型約2.4万円） ②なぜB型の工賃は低いのか＝最低賃金を課すと一般就労も困難な人の居場所が消えるという制度の狙い（工賃急増は算定方法の分母変更が主因） ③2024年報酬改定でA型が直撃＝赤字事業所への減算強化で、厚労省集計では5か月で4279人解雇。出典：厚労省・福祉新聞。</description>
+      <itunes:summary>就労継続支援を3点で深掘り。①違いは『雇用契約の有無』ただ一つ＝A型は労働者で最低賃金が効き賃金、B型は雇用契約なしで最低賃金対象外の工賃（令和6年度の全国平均はA型約9.1万円・B型約2.4万円） ②なぜB型の工賃は低いのか＝最低賃金を課すと一般就労も困難な人の居場所が消えるという制度の狙い（工賃急増は算定方法の分母変更が主因） ③2024年報酬改定でA型が直撃＝赤字事業所への減算強化で、厚労省集計では5か月で4279人解雇。出典：厚労省・福祉新聞。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 13:29:08 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-ab.mp3" length="8078776" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-ab.mp3</guid>
+      <itunes:duration>00:08:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
       <title>福祉ラジオ：障害福祉サービスの全体像（介護給付と訓練等給付、なぜ手続きが違うのか）</title>
       <description>障害者総合支援法のサービス全体を3点で整理。①自立支援給付と地域生活支援事業、その中核＝介護給付（生活の世話）と訓練等給付（自立・就労の訓練）の違い ②なぜ手続きが違うのか＝介護給付は障害支援区分(80項目・区分1〜6)で『測ってから決める』、訓練等給付は暫定支給決定で『やってみてから決める』 ③支給決定の流れと応能負担（所得で決まり月額上限あり・世帯は本人＋配偶者）、グループホームは区分が要る例外、区分6が最重度。出典：厚労省・WAM NET。</description>
       <itunes:summary>障害者総合支援法のサービス全体を3点で整理。①自立支援給付と地域生活支援事業、その中核＝介護給付（生活の世話）と訓練等給付（自立・就労の訓練）の違い ②なぜ手続きが違うのか＝介護給付は障害支援区分(80項目・区分1〜6)で『測ってから決める』、訓練等給付は暫定支給決定で『やってみてから決める』 ③支給決定の流れと応能負担（所得で決まり月額上限あり・世帯は本人＋配偶者）、グループホームは区分が要る例外、区分6が最重度。出典：厚労省・WAM NET。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0900</pubDate>
+      <pubDate>Thu, 18 Jun 2026 13:26:29 +0900</pubDate>
       <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-service.mp3" length="8055788" type="audio/mpeg"/>
       <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-service.mp3</guid>
       <itunes:duration>00:08:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>福祉ラジオ：就労継続支援A型とB型の違い（なぜB型の工賃は低いのか、A型解雇問題まで）</title>
-      <description>就労継続支援を3点で深掘り。①違いは『雇用契約の有無』ただ一つ＝A型は労働者で最低賃金が効き賃金、B型は雇用契約なしで最低賃金対象外の工賃（令和6年度の全国平均はA型約9.1万円・B型約2.4万円） ②なぜB型の工賃は低いのか＝最低賃金を課すと一般就労も困難な人の居場所が消えるという制度の狙い（工賃急増は算定方法の分母変更が主因） ③2024年報酬改定でA型が直撃＝赤字事業所への減算強化で、厚労省集計では5か月で4279人解雇。出典：厚労省・福祉新聞。</description>
-      <itunes:summary>就労継続支援を3点で深掘り。①違いは『雇用契約の有無』ただ一つ＝A型は労働者で最低賃金が効き賃金、B型は雇用契約なしで最低賃金対象外の工賃（令和6年度の全国平均はA型約9.1万円・B型約2.4万円） ②なぜB型の工賃は低いのか＝最低賃金を課すと一般就労も困難な人の居場所が消えるという制度の狙い（工賃急増は算定方法の分母変更が主因） ③2024年報酬改定でA型が直撃＝赤字事業所への減算強化で、厚労省集計では5か月で4279人解雇。出典：厚労省・福祉新聞。</itunes:summary>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-ab.mp3" length="8078776" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18-ab.mp3</guid>
-      <itunes:duration>00:08:24</itunes:duration>
+      <title>福祉ラジオ：社会福祉法人とは（第1回）</title>
+      <description>社会福祉の基礎・第1回。①所轄庁の認可制で誰でも作れず、非営利で配当も解散時の残余財産分配も不可 ②2017年改正でガバナンス強化（評議員会必置・理事会・監事・会計監査人、評議員は理事の数を超える数） ③内部留保批判から生まれた社会福祉充実残額。株式会社・NPOとの違いも。</description>
+      <itunes:summary>社会福祉の基礎・第1回。①所轄庁の認可制で誰でも作れず、非営利で配当も解散時の残余財産分配も不可 ②2017年改正でガバナンス強化（評議員会必置・理事会・監事・会計監査人、評議員は理事の数を超える数） ③内部留保批判から生まれた社会福祉充実残額。株式会社・NPOとの違いも。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 10:05:54 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18.mp3" length="3905035" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-18.mp3</guid>
+      <itunes:duration>00:04:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

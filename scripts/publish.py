@@ -108,9 +108,27 @@ def load_manifest(manifest_path):
     return []
 
 
+def rfc2822_dt(dt: datetime.datetime) -> str:
+    return dt.strftime("%a, %d %b %Y %H:%M:%S +0900")
+
+
 def rfc2822(date_str: str, hour: int) -> str:
     dt = datetime.datetime.strptime(date_str, "%Y-%m-%d").replace(hour=hour, minute=0, second=0)
-    return dt.strftime("%a, %d %b %Y %H:%M:%S +0900")
+    return rfc2822_dt(dt)
+
+
+def episode_dt(e: dict, hour: int) -> datetime.datetime:
+    """各エピソードの pubDate に使う日時。
+    pubts（実際の公開時刻 ISO）があればそれを使い、無ければ date + 既定時刻にフォールバック。
+    同じ日に複数本出しても pubDate が衝突しないようにするための仕組み（衝突するとPodアプリが
+    別タイトルに古い音声を割り当てたり、古い回を最新として表示する事故が起きる）。"""
+    ts = e.get("pubts")
+    if ts:
+        try:
+            return datetime.datetime.fromisoformat(ts)
+        except ValueError:
+            pass
+    return datetime.datetime.strptime(e["date"], "%Y-%m-%d").replace(hour=hour, minute=0, second=0)
 
 
 def hms(seconds: int) -> str:
@@ -132,14 +150,14 @@ def build_feed(eps, cfg, feed_path):
             f"      <title>{escape(e['title'])}</title>\n"
             f"      <description>{escape(e['desc'])}</description>\n"
             f"      <itunes:summary>{escape(e['desc'])}</itunes:summary>\n"
-            f"      <pubDate>{rfc2822(e['date'], cfg['hour'])}</pubDate>\n"
+            f"      <pubDate>{rfc2822_dt(episode_dt(e, cfg['hour']))}</pubDate>\n"
             f'      <enclosure url="{url}" length="{e["bytes"]}" type="audio/mpeg"/>\n'
             f'      <guid isPermaLink="true">{url}</guid>\n'
             f"      <itunes:duration>{hms(e['duration'])}</itunes:duration>\n"
             f"      <itunes:explicit>false</itunes:explicit>\n"
             "    </item>"
         )
-    chan_pubdate = rfc2822(eps[0]["date"], cfg["hour"]) if eps else rfc2822("2026-06-14", cfg["hour"])
+    chan_pubdate = rfc2822_dt(episode_dt(eps[0], cfg["hour"])) if eps else rfc2822("2026-06-14", cfg["hour"])
     cover_url = f"{BASE_URL}/{cfg['cover']}"
     feed = (
         '<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -235,8 +253,10 @@ def main():
     eps.append({
         "date": date_str, "title": title, "desc": desc,
         "file": fname, "bytes": size, "duration": duration,
+        # 実際の公開時刻。同じ日に複数本出しても pubDate が衝突しないように1本ごとに固有値を持たせる。
+        "pubts": datetime.datetime.now().isoformat(timespec="seconds"),
     })
-    eps.sort(key=lambda e: e["date"], reverse=True)
+    eps.sort(key=lambda e: episode_dt(e, cfg["hour"]), reverse=True)
 
     keep, removed = eps[:MAX_EP], eps[MAX_EP:]
     for e in removed:
