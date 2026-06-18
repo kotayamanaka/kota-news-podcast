@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kota 地理ラジオ</title>
+    <link>https://kotayamanaka.github.io/kota-news-podcast/chiri/</link>
+    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
+    <pubDate>Thu, 18 Jun 2026 13:16:51 +0900</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 13:16:51 +0900</lastBuildDate>
+    <generator>kota-news-podcast</generator>
+    <itunes:author>kota</itunes:author>
+    <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/chiri-cover.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/chiri-cover.png</url><title>kota 地理ラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/chiri/</link></image>
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>地理ラジオ：吉祥寺（なぜ人気なのか、なぜ他の街は真似できないのか）</title>
+      <description>住みたい街の常連・吉祥寺を深掘り。①都会と緑の両立は数百年の偶然の積み重ね＝明暦の大火→武蔵野移住、1917年に日本初の郊外公園・井の頭公園、関東大震災の郊外移住、戦後の闇市→ハモニカ横丁、という経路依存で他の街が真似できない ②『住みたい』≠『住みやすい』＝ランキングは認知度・ブランド力の指標、調査で順位がぶれる（2024年に横浜・大宮に抜かれ3位）、地価は都内有数 ③地名の吉祥寺に寺『吉祥寺』はない（寺は文京区本駒込）。</description>
+      <itunes:summary>住みたい街の常連・吉祥寺を深掘り。①都会と緑の両立は数百年の偶然の積み重ね＝明暦の大火→武蔵野移住、1917年に日本初の郊外公園・井の頭公園、関東大震災の郊外移住、戦後の闇市→ハモニカ横丁、という経路依存で他の街が真似できない ②『住みたい』≠『住みやすい』＝ランキングは認知度・ブランド力の指標、調査で順位がぶれる（2024年に横浜・大宮に抜かれ3位）、地価は都内有数 ③地名の吉祥寺に寺『吉祥寺』はない（寺は文京区本駒込）。</itunes:summary>
+      <pubDate>Thu, 18 Jun 2026 13:16:51 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-18-kichijoji.mp3" length="7044745" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-18-kichijoji.mp3</guid>
+      <itunes:duration>00:07:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
