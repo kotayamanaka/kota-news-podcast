@@ -1,7 +1,7 @@
-# 鑑賞ふりかえりラジオ — 番組差分ルーチン（SHOW=kanshou）
+# 鑑賞作品ラジオ — 番組差分ルーチン（SHOW=kanshou）
 
 > 制作の本体手順は **RADIO_BASE.md** に従う。このファイルは**作品の選定（情報源＝Notion鑑賞記録DB）**だけを定義する。
-> scheduled-task：`kanshou-radio`（毎朝4:30頃。全番組を6時までに仕上げる方針）。配信フィード：`kanshou.xml`。
+> scheduled-task：`kanshou-radio`（毎朝4:20頃。全番組を6時までに仕上げる方針）。配信フィード：`kanshou.xml`。2026-06-19 に kota 指示で「鑑賞ふりかえりラジオ」→「鑑賞作品ラジオ」へ改名（フィードIDは購読維持のため kanshou のまま）。
 
 ## この番組の狙い
 

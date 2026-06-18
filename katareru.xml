@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kota 語れるラジオ</title>
+    <title>kota サブカルラジオ</title>
     <link>https://kotayamanaka.github.io/kota-news-podcast/katareru/</link>
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
-    <description>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Fri, 19 Jun 2026 05:28:00 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 05:28:00 +0900</lastBuildDate>
+    <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
+    <pubDate>Fri, 19 Jun 2026 08:01:56 +0900</pubDate>
+    <lastBuildDate>Fri, 19 Jun 2026 08:01:56 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
-    <itunes:summary>毎日1本、いま話題だけど実はよく知らない単語・人物・現象を1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
+    <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/katareru-cover.png"/>
-    <image><url>https://kotayamanaka.github.io/kota-news-podcast/katareru-cover.png</url><title>kota 語れるラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/katareru/</link></image>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/katareru-cover.png</url><title>kota サブカルラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/katareru/</link></image>
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
     <item>
-      <title>「ペンギンミーム」について語れるようになりたい</title>
+      <title>サブカルラジオ：ペンギンミーム（実は別系統が同時多発・国家まで巻き込んだネットミーム）</title>
       <description>2026年のSNSを埋め尽くしたペンギン。実は別系統が同時多発していました。①山へ歩く虚無ペンギンの正体は2007年のヘルツォーク作品＋ユーロビートを教会オルガンで弾いたカバー、しかも学者いわく『ただの方向音痴』②ググガガペンギンはペンギンですらなく、アークナイツの人間キャラ＋バンドリの声をAI合成した中国発キャラ③ホワイトハウスと中国国営メディアがこのペンギンで応酬し、著作権ゴネ騒動まで起きた。3つの『実は』を掘ります。</description>
       <itunes:summary>2026年のSNSを埋め尽くしたペンギン。実は別系統が同時多発していました。①山へ歩く虚無ペンギンの正体は2007年のヘルツォーク作品＋ユーロビートを教会オルガンで弾いたカバー、しかも学者いわく『ただの方向音痴』②ググガガペンギンはペンギンですらなく、アークナイツの人間キャラ＋バンドリの声をAI合成した中国発キャラ③ホワイトハウスと中国国営メディアがこのペンギンで応酬し、著作権ゴネ騒動まで起きた。3つの『実は』を掘ります。</itunes:summary>
-      <pubDate>Fri, 19 Jun 2026 05:28:00 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-19.mp3" length="2880864" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-19.mp3</guid>
-      <itunes:duration>00:08:00</itunes:duration>
+      <pubDate>Fri, 19 Jun 2026 08:01:56 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-19-penguin.mp3" length="7818387" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-19-penguin.mp3</guid>
+      <itunes:duration>00:08:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>

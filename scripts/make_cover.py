@@ -178,22 +178,21 @@ def make_katareru_cover():
     f_mono = load_font(58, bold=False)
 
     d.text((170, 128), "KOTA PRIVATE PODCAST", font=f_label, fill=(250, 246, 240, 255))
-    d.text((2150, 128), "TALK / DEEP DIVE", font=f_label, fill=pale_purple)
+    d.text((2200, 128), "SUBCULTURE", font=f_label, fill=pale_purple)
 
-    # 巨大な「?」を右上に
-    d.text((2000, 560), "?", font=f_q, fill=(124, 77, 255, 90))
+    # 巨大な「★」を右上に（サブカル＝ポップな星モチーフ。旧「?」は語れる時代の名残で違和感ありと kota 指摘 2026-06-19）
+    d.text((1940, 600), "★", font=f_q, fill=(124, 77, 255, 90))
 
     draw_tag(d, (360, 660), "毎日更新", f_tag, ink, (255, 255, 255, 255))
-    draw_tag(d, (820, 660), "1テーマ深掘り", f_tag, pale_purple, ink)
+    draw_tag(d, (820, 660), "ミーム・流行・アニメ", f_tag, pale_purple, ink)
 
-    d.text((360, 980), "語れる", font=f_title, fill=ink)
-    d.text((360, 1320), "ように", font=f_title, fill=ink)
-    d.text((360, 1660), "なりたい", font=f_title, fill=purple)
+    d.text((360, 1100), "サブカル", font=f_title, fill=ink)
+    d.text((360, 1500), "ラジオ", font=f_title, fill=purple)
 
     d.text((170, 2550), "FOR KOTA", font=f_label, fill=(250, 246, 240, 255))
     d.text((170, 2660), "ONE TOPIC, EXPLAINED", font=f_mono, fill=(188, 180, 196, 255))
     d.rounded_rectangle([2250, 2530, 2830, 2748], radius=56, fill=purple)
-    d.text((2410, 2584), "TALK", font=f_label, fill=(255, 255, 255, 255))
+    d.text((2330, 2584), "SUBCUL", font=f_label, fill=(255, 255, 255, 255))
 
     img = add_noise(img)
     img = img.convert("RGB")
@@ -211,8 +210,8 @@ GENERIC_COVERS = {
                  ["ビジネス", "ラジオ", ""], "企業と商品", "BUSINESS", "ONE TOPIC A DAY"),
     "chiri": ("chiri-cover.png", (34, 168, 120), "地",
               ["地理", "ラジオ", ""], "街と世界", "GEOGRAPHY", "PLACES & COUNTRIES"),
-    "kanshou": ("kanshou-cover.png", (228, 72, 140), "観",
-                ["鑑賞", "ふり", "かえり"], "Notion連動", "REVIEW", "FROM YOUR LOG"),
+    "kanshou": ("kanshou-cover.png", (228, 72, 140), "鑑",
+                ["鑑賞", "作品", "ラジオ"], "本・映画・アニメ", "REVIEW", "FROM YOUR LOG"),
     "fukushi": ("fukushi-cover.png", (40, 140, 220), "福",
                 ["福祉", "ラジオ", ""], "落穂会支援", "WELFARE", "STUDY TRACK"),
 }
