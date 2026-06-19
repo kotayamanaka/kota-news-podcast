@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</description>
-    <pubDate>Fri, 19 Jun 2026 03:43:00 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 03:43:00 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 03:42:31 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 03:42:31 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>AIに人間関係を覚えてもらう『パーソナルCRM』</title>
+      <description>友人や知人を忘れないための個人版CRM術。①なぜ昔の個人CRM(プラクソ/ラポーティブ)は手入力の壁で全滅し、今AIで一気に化けたのか。営業用のセールスフォースが個人の人間関係に向かない理由まで。②無料オープンソースのMonica・全自動のClay(改名Mesh、Automatticが2025年6月に買収・1.5億件の人脈データ)・リマインダー型のDexの思想の違い。③今日からの始め方(まず大事な20人・ChatGPTメモリやNotion流用)と落とし穴(プライバシーと商用利用の線引き/“気持ち悪さ”論争とADHD・当事者の救済/AIの作り話)。出典: TechCrunch, monicahq.com, me.sh, Hacker News, Wikipedia(ダンバー数)。約12分。</description>
+      <itunes:summary>友人や知人を忘れないための個人版CRM術。①なぜ昔の個人CRM(プラクソ/ラポーティブ)は手入力の壁で全滅し、今AIで一気に化けたのか。営業用のセールスフォースが個人の人間関係に向かない理由まで。②無料オープンソースのMonica・全自動のClay(改名Mesh、Automatticが2025年6月に買収・1.5億件の人脈データ)・リマインダー型のDexの思想の違い。③今日からの始め方(まず大事な20人・ChatGPTメモリやNotion流用)と落とし穴(プライバシーと商用利用の線引き/“気持ち悪さ”論争とADHD・当事者の救済/AIの作り話)。出典: TechCrunch, monicahq.com, me.sh, Hacker News, Wikipedia(ダンバー数)。約12分。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 03:42:31 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20.mp3" length="11678658" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20.mp3</guid>
+      <itunes:duration>00:12:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ライフハック：AIに一日をまるごと覚えてもらう『第二の脳（AIライフログ）』</title>
       <description>聞いた・話したことをAIに記録させ『あの件なんだっけ』と後から引ける“外づけの記憶”術。①ガジェット＝PLAUD(世界販売2位が日本)・Limitless(99ドル、創業者は補聴器が原点→2025年末Metaが買収)・Bee(49ドル、Amazonが買収)。スマホでは常時マイクが不可だからハード化した点まで解説。②なぜ今か＝2022年Whisper無料公開・文脈窓が2年で約100倍・意味検索。MicrosoftのMyLifeBits(Gordon Bell)の予言と、Narrative Clip/Google Glassの挫折史も。③今日から無料＝ChatGPT/Claudeに『返事せず全部聞いて→要点とToDoに』、夜のふりかえり、Granola/Otter。落とし穴＝録音同意と日本の法律(録れる≠使っていい)、Whisperの捏造(コーネル大研究)、貯めすぎ(Lost in the Middle)。出典: TechCrunch, Cornell Chronicle, 弁護士監修記事ほか。約9分43秒。</description>
