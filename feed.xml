@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Fri, 19 Jun 2026 05:48:32 +0900</pubDate>
-    <lastBuildDate>Fri, 19 Jun 2026 05:48:32 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 05:49:41 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 05:49:41 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-20 朝の深掘りニュース</title>
+      <description>アンソロピックのAIモデル「フェイブル5」が米輸出規制で停止／高齢者もテレビ離れ 1995年以降初／フィンランドが核兵器の全面禁止を解除／長野のホテルで高校生ら110人がウエルシュ菌食中毒／ファン・デル・ファールトが日本代表への発言を謝罪</description>
+      <itunes:summary>アンソロピックのAIモデル「フェイブル5」が米輸出規制で停止／高齢者もテレビ離れ 1995年以降初／フィンランドが核兵器の全面禁止を解除／長野のホテルで高校生ら110人がウエルシュ菌食中毒／ファン・デル・ファールトが日本代表への発言を謝罪</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 05:49:41 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-20.mp3" length="4497264" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-20.mp3</guid>
+      <itunes:duration>00:12:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-19 朝の深掘りニュース</title>
       <description>日経平均が史上初の7万円台に乗せる／飲食料品の消費税を2027年4月から1%へ引き下げる案／米イランが戦闘終結の覚書・ホルムズ海峡がきょう全面開放へ／プラスチックの可塑剤DEHPが生涯の不安につながる可能性／全米オープンゴルフ初日マキロイが単独首位</description>
