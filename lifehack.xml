@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kota ライフハックラジオ</title>
+    <title>kota テックラジオ</title>
     <link>https://kotayamanaka.github.io/kota-news-podcast/lifehack/</link>
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
-    <description>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 10:09:44 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 10:09:44 +0900</lastBuildDate>
+    <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
+    <pubDate>Sat, 20 Jun 2026 10:57:12 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:57:12 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
-    <itunes:summary>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</itunes:summary>
+    <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/lifehack-cover.png"/>
-    <image><url>https://kotayamanaka.github.io/kota-news-podcast/lifehack-cover.png</url><title>kota ライフハックラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/lifehack/</link></image>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/lifehack-cover-v2.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/lifehack-cover-v2.png</url><title>kota テックラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/lifehack/</link></image>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
     <item>
-      <title>ライフハック：LINE運用を無料OSS＋AIで自動化する（LINE Harness × Claude Code）</title>
+      <title>テックラジオ：LINE運用を無料OSS＋AIで自動化する（LINE Harness × Claude Code）</title>
       <description>月2万円級の有料LINE運用ツール(Lステップ等)の機能を、無料のオープンソース『LINE Harness』(2026年3月公開・開発 野田修一氏)で代替し、Cloudflare無料枠で友だち5000人まで月額0円にするワザ。①正体＝有料相当のステップ配信/スコアリングを無料OSSで ②Claude Code連携＝全機能がAPI化され『セミナー申込者に3日前リマインド』等を自然言語で、導入のコマンド作業もAIに肩代わり（ただし全自動は提供側の触れ込みで第三者検証は未確認）③始め方と注意＝技術ハードル高/セキュリティ自己責任でサポートなし/現役プロは『まだLステップ・エルメでいい』/LINEは自動連投禁止/『無料』の代償は保守の内製。</description>
       <itunes:summary>月2万円級の有料LINE運用ツール(Lステップ等)の機能を、無料のオープンソース『LINE Harness』(2026年3月公開・開発 野田修一氏)で代替し、Cloudflare無料枠で友だち5000人まで月額0円にするワザ。①正体＝有料相当のステップ配信/スコアリングを無料OSSで ②Claude Code連携＝全機能がAPI化され『セミナー申込者に3日前リマインド』等を自然言語で、導入のコマンド作業もAIに肩代わり（ただし全自動は提供側の触れ込みで第三者検証は未確認）③始め方と注意＝技術ハードル高/セキュリティ自己責任でサポートなし/現役プロは『まだLステップ・エルメでいい』/LINEは自動連投禁止/『無料』の代償は保守の内製。</itunes:summary>
-      <pubDate>Sat, 20 Jun 2026 10:09:44 +0900</pubDate>
-      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness.mp3" length="6940255" type="audio/mpeg"/>
-      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness.mp3</guid>
+      <pubDate>Sat, 20 Jun 2026 10:57:12 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness2.mp3" length="6933985" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness2.mp3</guid>
       <itunes:duration>00:07:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
