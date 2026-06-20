@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Sat, 20 Jun 2026 05:49:41 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 05:49:41 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 05:48:57 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 05:48:57 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-21 朝の深掘りニュース</title>
+      <description>個人開発ゲーム「めっちゃカメレオン」が発売10日で500万本／東京電力の資本提携が5陣営にしぼり込み 非公開化案も／英バーナムが補選勝利 スターマー首相に挑戦の構え／地下の菌根菌ネットワーク 世界初の全球地図／ALS患者向け 脳に埋め込むBCIが年内治験申請へ</description>
+      <itunes:summary>個人開発ゲーム「めっちゃカメレオン」が発売10日で500万本／東京電力の資本提携が5陣営にしぼり込み 非公開化案も／英バーナムが補選勝利 スターマー首相に挑戦の構え／地下の菌根菌ネットワーク 世界初の全球地図／ALS患者向け 脳に埋め込むBCIが年内治験申請へ</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 05:48:57 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-21.mp3" length="3753648" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>00:10:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-20 朝の深掘りニュース</title>
       <description>アンソロピックのAIモデル「フェイブル5」が米輸出規制で停止／高齢者もテレビ離れ 1995年以降初／フィンランドが核兵器の全面禁止を解除／長野のホテルで高校生ら110人がウエルシュ菌食中毒／ファン・デル・ファールトが日本代表への発言を謝罪</description>
