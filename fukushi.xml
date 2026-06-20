@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 14:08:01 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 14:08:01 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 14:27:52 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 14:27:52 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>福祉ラジオ：障害の認定と3つのものさし（手帳・障害支援区分・障害年金は別物）</title>
+      <description>『障害の認定』は1つでなく、目的の違う3つのものさしがあり連動しない、という学習回。①障害者手帳3種(身体=身体障害者福祉法1〜6級／療育=法律でなく国の通知ベースで自治体バラバラ・東京は愛の手帳・知的障害に法的定義なし／精神=1〜3級2年更新)、税控除・割引・雇用率カウント ②障害支援区分=福祉サービスの支給量を決める『支援の必要度』(1〜6・80項目→一次判定→市町村審査会の二次判定)。身体ベース設計で知的精神は一次判定が軽く出て引き上げ(身体約20%／知的約44%／精神約46%) ③障害年金=所得保障(基礎1〜2級/厚生1〜3級、初診日で決定)、手帳と別基準で連動せず手帳なしでも受給しうる、申請主義・地域差。出典：厚労省・日本年金機構。</description>
+      <itunes:summary>『障害の認定』は1つでなく、目的の違う3つのものさしがあり連動しない、という学習回。①障害者手帳3種(身体=身体障害者福祉法1〜6級／療育=法律でなく国の通知ベースで自治体バラバラ・東京は愛の手帳・知的障害に法的定義なし／精神=1〜3級2年更新)、税控除・割引・雇用率カウント ②障害支援区分=福祉サービスの支給量を決める『支援の必要度』(1〜6・80項目→一次判定→市町村審査会の二次判定)。身体ベース設計で知的精神は一次判定が軽く出て引き上げ(身体約20%／知的約44%／精神約46%) ③障害年金=所得保障(基礎1〜2級/厚生1〜3級、初診日で決定)、手帳と別基準で連動せず手帳なしでも受給しうる、申請主義・地域差。出典：厚労省・日本年金機構。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 14:27:52 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-nintei.mp3" length="7525398" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-nintei.mp3</guid>
+      <itunes:duration>00:07:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>福祉ラジオ：児童発達支援と放課後等デイサービス（障害児通所支援、なぜ急増し質が問われるのか）</title>
       <description>障害のある子の通所支援を学習用に整理。①違いは年齢＝児童発達支援は未就学(0〜6歳)・放課後等デイは就学中(原則6〜18歳)。児童福祉法、2012年改正で放デイ創設、2023年4月からこども家庭庁所管 ②通所受給者証で利用、障害者手帳がなくても医師意見書等で利用可(受給者証≠手帳)、応能負担(月上限0/4600/37200円)・満3歳児クラス〜就学前は無償 ③この10年で急増(放デイ約30万人・約2万か所、児発約15万人)、営利法人参入と質のばらつき・預かり中心問題→2024年改定で質を評価、移管の背景にインクルージョン。出典：こども家庭庁・厚労省。</description>
