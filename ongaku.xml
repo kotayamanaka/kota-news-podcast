@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
-    <pubDate>Sat, 20 Jun 2026 12:58:13 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 12:58:13 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 04:56:10 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:56:10 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：サザンオールスターズ（色物から国民的バンドへ、なぜ47年トップでいられるのか）</title>
+      <description>今日のアーティストは『サザンオールスターズ』。①歩み＝1978年『勝手にシンドバッド』の衝撃と『芸人です』騒動、3作目『いとしのエリー』での逆転（後にレイ・チャールズがカバーし彼の日本最大ヒットに）、2008年活動休止と桑田佳祐の食道がんを越えての復活 ②記録＝『TSUNAMI』約293万枚・第42回日本レコード大賞、ベスト盤『海のYeah!!』約359万枚（複数枚組オリコン史上最高）、2025年『THANK YOU SO MUCH』で5年代連続アルバム1位はグループ史上初 ③音楽の核＝桑田佳祐が成し遂げた『日本語ロックの発明』と、夫婦・固定メンバーゆえの再現不能性。出典：オリコン・日本レコード大賞・Wikipedia、音楽評論家スージー鈴木・言語学者の川添愛・プロデューサー亀田誠治の分析等。</description>
+      <itunes:summary>今日のアーティストは『サザンオールスターズ』。①歩み＝1978年『勝手にシンドバッド』の衝撃と『芸人です』騒動、3作目『いとしのエリー』での逆転（後にレイ・チャールズがカバーし彼の日本最大ヒットに）、2008年活動休止と桑田佳祐の食道がんを越えての復活 ②記録＝『TSUNAMI』約293万枚・第42回日本レコード大賞、ベスト盤『海のYeah!!』約359万枚（複数枚組オリコン史上最高）、2025年『THANK YOU SO MUCH』で5年代連続アルバム1位はグループ史上初 ③音楽の核＝桑田佳祐が成し遂げた『日本語ロックの発明』と、夫婦・固定メンバーゆえの再現不能性。出典：オリコン・日本レコード大賞・Wikipedia、音楽評論家スージー鈴木・言語学者の川添愛・プロデューサー亀田誠治の分析等。</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 04:56:10 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-21.mp3" length="11531536" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>00:12:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>音楽ラジオ：Creepy Nuts（世界一のDJ×日本一のラッパー、なぜ世界的に売れたのか）</title>
       <description>『Bling-Bang-Bang-Born』のクリーピーナッツを深掘り。①二人の正体＝R-指定はラップバトルUMB史上初の3連覇で日本一、DJ松永は2019年DMC世界大会優勝で世界一、なのに出会いは『ビビっていた者同士』 ②二段階ブレイク＝povo『のびしろ』で国内、2024年BBBB（マッシュル2期OP）がTikTok経由で海外先行ヒット→Spotify国内海外で同年1位は史上初・Billboard世界チャート8位・紅白初出場・レコ大優秀作品賞・翌年9冠 ③なぜ二人にしかできないか＝松永の越境トラック×R-指定の韻の掛け算、落語『業の肯定』に根ざした弱さを肯定する歌詞。出典：Billboard JAPAN・オリコン・音楽ナタリー等。</description>
