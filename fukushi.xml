@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 16:17:17 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 16:17:17 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 05:09:28 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 05:09:28 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>福祉ラジオ：合理的配慮と障害者差別解消法（2024年義務化のリアル）</title>
+      <description>2024年4月から民間事業者にも法的義務となった『合理的配慮』を学習用に深掘り。①そもそも何か＝障害者差別解消法(2013成立2016施行)の2本柱(不当な差別的取扱いの禁止／合理的配慮の提供)、なぜ事業者の責務かを『障害の社会モデル』で説明、大もとは2014年批准の障害者権利条約 ②どこまでやるか＝意思表明が出発点(本人以外・手話筆談も可)、義務は『過重な負担にならない範囲』、なんでもかなえる義務ではなく断る場合も建設的対話で代替案、配慮の3タイプ ③裏側＝雇用だけは障害者雇用促進法という別建ての縦割り、違反してもほぼ罰則なし(過料20万円は報告義務違反に対するもの)、福祉事業所自身も義務主体、認知度2022年で約24%・盲導犬ユーザーの拒否経験約48%。出典：内閣府基本方針・政府広報・厚労省ほか。</description>
+      <itunes:summary>2024年4月から民間事業者にも法的義務となった『合理的配慮』を学習用に深掘り。①そもそも何か＝障害者差別解消法(2013成立2016施行)の2本柱(不当な差別的取扱いの禁止／合理的配慮の提供)、なぜ事業者の責務かを『障害の社会モデル』で説明、大もとは2014年批准の障害者権利条約 ②どこまでやるか＝意思表明が出発点(本人以外・手話筆談も可)、義務は『過重な負担にならない範囲』、なんでもかなえる義務ではなく断る場合も建設的対話で代替案、配慮の3タイプ ③裏側＝雇用だけは障害者雇用促進法という別建ての縦割り、違反してもほぼ罰則なし(過料20万円は報告義務違反に対するもの)、福祉事業所自身も義務主体、認知度2022年で約24%・盲導犬ユーザーの拒否経験約48%。出典：内閣府基本方針・政府広報・厚労省ほか。</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 05:09:28 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-21.mp3" length="12819687" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>00:13:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>福祉ラジオ：地域移行と『親なき後』（理念は地域へ、でも受け皿がない）</title>
       <description>『施設・病院から地域へ』の理念と現実を学習用に。①地域移行＝入所施設や精神科病院から地域(GH・一人暮らし)へ、脱施設・ノーマライゼーション、精神科は2004年に『入院中心から地域生活中心へ』、支える仕組み(地域生活支援拠点・自立生活援助・重度訪問介護・地域定着支援) ②現実＝施設入所約12.7万人、精神科入院約25万人(うち1年以上が約15万人)、日本は精神科病床が先進国最多水準=社会的入院、地域移行は失速し受け皿(GH・ヘルパー)不足 ③親なき後＝親の高齢化・死後に誰が生活/お金/意思決定を支えるか、85%超が不安だが備えは6割、そしてGH建設への住民反対(NIMBY)という矛盾。出典：厚労省・日本財団。</description>
