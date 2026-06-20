@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 14:33:39 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 14:33:39 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 15:06:02 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 15:06:02 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -17,6 +17,26 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>福祉ラジオ：障害者福祉の歴史（措置から契約へ、そして優生保護法という負の歴史）</title>
+      <description>『福祉＝善』では語れない障害福祉の歴史を学習用に。①措置の時代＝行政が決める措置制度(1949年身体障害者福祉法ほか)、施設収容中心、1971年のぞみの園などコロニー(大規模入所施設)は当時は理想とされ後に隔離と批判 ②負の歴史＝旧優生保護法(1948〜1996)による強制不妊 約2万5千人(うち本人同意なし約1万6500人)、2024年に最高裁が違憲・国に賠償命令。福祉立法と優生政策が同時代に並走 ③措置から契約へ＝2003年支援費→財源難→2006年自立支援法(3障害一元化・応益負担→違憲訴訟→応能負担へ)→2013年総合支援法、2014年障害者権利条約批准・2016年差別解消法、脱施設の理念とリアル。出典：厚労省・各社報道。</description>
+      <itunes:summary>『福祉＝善』では語れない障害福祉の歴史を学習用に。①措置の時代＝行政が決める措置制度(1949年身体障害者福祉法ほか)、施設収容中心、1971年のぞみの園などコロニー(大規模入所施設)は当時は理想とされ後に隔離と批判 ②負の歴史＝旧優生保護法(1948〜1996)による強制不妊 約2万5千人(うち本人同意なし約1万6500人)、2024年に最高裁が違憲・国に賠償命令。福祉立法と優生政策が同時代に並走 ③措置から契約へ＝2003年支援費→財源難→2006年自立支援法(3障害一元化・応益負担→違憲訴訟→応能負担へ)→2013年総合支援法、2014年障害者権利条約批准・2016年差別解消法、脱施設の理念とリアル。出典：厚労省・各社報道。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 15:06:02 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-rekishi.mp3" length="7220705" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-rekishi.mp3</guid>
+      <itunes:duration>00:07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>福祉ラジオ：福祉の仕事のやりがいと燃え尽き（3つの逆説と『やりがい搾取』）</title>
+      <description>福祉現場で働く人のリアルを学習用に。①人手不足と賃金＝介護の有効求人倍率3.71倍(全産業1.16)・訪問介護14倍、賃金は全産業平均より月約8万円低く処遇改善加算で上げても差が縮まらない ②やりがい＝利用者の成長・人生に深く関わる・専門性、満足度はやりがいが最高で賃金は低い→やりがいが不満を補い人を留める ③3つの逆説＝(a)離職率は約12%で全産業より低いのに人手不足は深刻(入職者不足・需要急増)(b)やりがいが高い人ほど感情労働で燃え尽きやすい(バーンアウト＝情緒的消耗/脱人格化/達成感低下)(c)『やりがい搾取』(本田由紀)で低処遇が正当化される危うさ。出典：厚労省・介護労働実態調査ほか。</description>
+      <itunes:summary>福祉現場で働く人のリアルを学習用に。①人手不足と賃金＝介護の有効求人倍率3.71倍(全産業1.16)・訪問介護14倍、賃金は全産業平均より月約8万円低く処遇改善加算で上げても差が縮まらない ②やりがい＝利用者の成長・人生に深く関わる・専門性、満足度はやりがいが最高で賃金は低い→やりがいが不満を補い人を留める ③3つの逆説＝(a)離職率は約12%で全産業より低いのに人手不足は深刻(入職者不足・需要急増)(b)やりがいが高い人ほど感情労働で燃え尽きやすい(バーンアウト＝情緒的消耗/脱人格化/達成感低下)(c)『やりがい搾取』(本田由紀)で低処遇が正当化される危うさ。出典：厚労省・介護労働実態調査ほか。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 15:05:02 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-yarigai.mp3" length="7250798" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-yarigai.mp3</guid>
+      <itunes:duration>00:07:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>福祉ラジオ：障害福祉のお金とモラル（利用者は1割以下なのに、なぜ市場になったのか）</title>
       <description>切り口を変えて『お金とモラル』を学習用に（まじめな事業者が大多数という前提で構造の歪みを整理）。①お金の流れ＝収入の9割超が公費(自立支援給付費)、利用者負担は応能負担で上限(0〜9300〜37200円)、報酬は単価×利用日数/人数→『何人を何日通わせたか』が売上に直結 ②市場化と不正＝許認可・公費で安定し放デイ/GH/就労に営利法人が急増、報道されたGH大手『恵』の食材費過大徴収・不正請求→指定取消と連座制で約99か所廃止・約1700人に影響、A型大量閉鎖(5か月で329事業所・約5000人) ③モラルハザード＝利用者の単位化・囲い込み・重度ほど敬遠・質より量、対策(監査/連座制/減算/情報公表)と限界(監査が追いつかない・処分で困るのは本人)。出典：厚労省・各社報道。</description>
