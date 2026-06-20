@@ -210,6 +210,8 @@ GENERIC_COVERS = {
                  ["ビジネス", "ラジオ", ""], "企業と商品", "BUSINESS", "ONE TOPIC A DAY"),
     "chiri": ("chiri-cover.png", (34, 168, 120), "地",
               ["地理", "ラジオ", ""], "街と世界", "GEOGRAPHY", "PLACES & COUNTRIES"),
+    "ongaku": ("ongaku-cover.png", (216, 49, 72), "音",
+               ["音楽", "ラジオ", ""], "日本の音楽アーティスト", "MUSIC", "J-MUSIC DEEP DIVE"),
     "kanshou": ("kanshou-cover.png", (228, 72, 140), "鑑",
                 ["鑑賞", "作品", "ラジオ"], "本・映画・アニメ", "REVIEW", "FROM YOUR LOG"),
     "fukushi": ("fukushi-cover.png", (40, 140, 220), "福",

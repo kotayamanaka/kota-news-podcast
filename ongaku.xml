@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kota 音楽ラジオ</title>
+    <link>https://kotayamanaka.github.io/kota-news-podcast/ongaku/</link>
+    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
+    <pubDate>Sat, 20 Jun 2026 12:58:13 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 12:58:13 +0900</lastBuildDate>
+    <generator>kota-news-podcast</generator>
+    <itunes:author>kota</itunes:author>
+    <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/ongaku-cover.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/ongaku-cover.png</url><title>kota 音楽ラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/ongaku/</link></image>
+    <itunes:category text="Music"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：Creepy Nuts（世界一のDJ×日本一のラッパー、なぜ世界的に売れたのか）</title>
+      <description>『Bling-Bang-Bang-Born』のクリーピーナッツを深掘り。①二人の正体＝R-指定はラップバトルUMB史上初の3連覇で日本一、DJ松永は2019年DMC世界大会優勝で世界一、なのに出会いは『ビビっていた者同士』 ②二段階ブレイク＝povo『のびしろ』で国内、2024年BBBB（マッシュル2期OP）がTikTok経由で海外先行ヒット→Spotify国内海外で同年1位は史上初・Billboard世界チャート8位・紅白初出場・レコ大優秀作品賞・翌年9冠 ③なぜ二人にしかできないか＝松永の越境トラック×R-指定の韻の掛け算、落語『業の肯定』に根ざした弱さを肯定する歌詞。出典：Billboard JAPAN・オリコン・音楽ナタリー等。</description>
+      <itunes:summary>『Bling-Bang-Bang-Born』のクリーピーナッツを深掘り。①二人の正体＝R-指定はラップバトルUMB史上初の3連覇で日本一、DJ松永は2019年DMC世界大会優勝で世界一、なのに出会いは『ビビっていた者同士』 ②二段階ブレイク＝povo『のびしろ』で国内、2024年BBBB（マッシュル2期OP）がTikTok経由で海外先行ヒット→Spotify国内海外で同年1位は史上初・Billboard世界チャート8位・紅白初出場・レコ大優秀作品賞・翌年9冠 ③なぜ二人にしかできないか＝松永の越境トラック×R-指定の韻の掛け算、落語『業の肯定』に根ざした弱さを肯定する歌詞。出典：Billboard JAPAN・オリコン・音楽ナタリー等。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 12:58:13 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-20-creepynuts.mp3" length="7277966" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-20-creepynuts.mp3</guid>
+      <itunes:duration>00:07:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

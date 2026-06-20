@@ -87,6 +87,18 @@ SHOWS = {
         "category": "Society & Culture",
         "default_title": "地理ラジオ（{date}）",
     },
+    "ongaku": {
+        "ep_subdir": "ongaku/episodes",
+        "feed_path": "ongaku.xml",
+        "manifest": "ongaku_episodes.json",
+        "meta": "_meta_ongaku.json",
+        "cover": "ongaku-cover.png",
+        "hour": 7,
+        "channel_title": "kota 音楽ラジオ",
+        "channel_desc": "毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。",
+        "category": "Music",
+        "default_title": "音楽ラジオ（{date}）",
+    },
     "kanshou": {
         "ep_subdir": "kanshou/episodes",
         "feed_path": "kanshou.xml",
