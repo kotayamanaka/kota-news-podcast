@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 15:06:02 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 15:06:02 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 15:15:19 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 15:15:19 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -17,6 +17,26 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>福祉ラジオ：強度行動障害（支援の最前線、なぜ『作られてしまう』のか）</title>
+      <description>障害者支援の最前線『強度行動障害』を学習用に。①これは『障害名』でなく『状態像』＝自傷・他害・こだわり・睡眠の乱れ等が高頻度で起き特別な支援が要る状態、重度知的＋自閉スペクトラム症に多く、適切な環境で大きく改善する(支援対象のべ約6.9万人) ②本人の特性(見通しの持ちにくさ・感覚過敏・コミュ困難)×環境のミスマッチで起きる→困った行動を抑えるのでなく環境を整える(氷山モデル・構造化・絵カード・強みに着目)、チームで支援を統一、重度訪問介護/行動援護/支援者養成研修/2024年集中的支援加算 ③課題＝受け入れ先がなく入院や在宅に滞留、虐待・身体拘束と隣り合わせ(施設従事者虐待被害の約3割)、親なき後、そして不適切な対応で『作られてしまう』＝環境と支援の質の問題。出典：厚労省・国リハ。</description>
+      <itunes:summary>障害者支援の最前線『強度行動障害』を学習用に。①これは『障害名』でなく『状態像』＝自傷・他害・こだわり・睡眠の乱れ等が高頻度で起き特別な支援が要る状態、重度知的＋自閉スペクトラム症に多く、適切な環境で大きく改善する(支援対象のべ約6.9万人) ②本人の特性(見通しの持ちにくさ・感覚過敏・コミュ困難)×環境のミスマッチで起きる→困った行動を抑えるのでなく環境を整える(氷山モデル・構造化・絵カード・強みに着目)、チームで支援を統一、重度訪問介護/行動援護/支援者養成研修/2024年集中的支援加算 ③課題＝受け入れ先がなく入院や在宅に滞留、虐待・身体拘束と隣り合わせ(施設従事者虐待被害の約3割)、親なき後、そして不適切な対応で『作られてしまう』＝環境と支援の質の問題。出典：厚労省・国リハ。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 15:15:19 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-kyoudo.mp3" length="7192702" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-kyoudo.mp3</guid>
+      <itunes:duration>00:07:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>福祉ラジオ：福祉の人材と専門性（資格≠専門性、なぜサビ管は足りないのか）</title>
+      <description>障害福祉の人材・採用・資格を学習用に。①主な資格＝社会福祉士/精神保健福祉士/介護福祉士の『三福祉士』は名称独占の国家資格(資格なしでも業務自体は可)、サービス管理責任者(サビ管)・児童発達支援管理責任者・相談支援専門員は実務経験＋研修の任用資格で事業所に必置 ②専門性とは＝資格≠専門性、アセスメント・関係構築・意思決定支援・チームは現場のOJTで育つ、無資格でも働ける職種が多く『資格はあるが実践力は別/無資格だが熟練』の逆転が普通 ③採用のリアル＝人手不足(不足事業所5割超・求人倍率3倍超)で無資格未経験歓迎、必置のサビ管が運営の生命線で取り合い→名義貸しのグレー(違反)、外国人材、専門性が賃金に反映されにくい・段階研修のハードル・育つ前に離職・キャリアパスの見えにくさ。出典：厚労省・WAM・自治体。</description>
+      <itunes:summary>障害福祉の人材・採用・資格を学習用に。①主な資格＝社会福祉士/精神保健福祉士/介護福祉士の『三福祉士』は名称独占の国家資格(資格なしでも業務自体は可)、サービス管理責任者(サビ管)・児童発達支援管理責任者・相談支援専門員は実務経験＋研修の任用資格で事業所に必置 ②専門性とは＝資格≠専門性、アセスメント・関係構築・意思決定支援・チームは現場のOJTで育つ、無資格でも働ける職種が多く『資格はあるが実践力は別/無資格だが熟練』の逆転が普通 ③採用のリアル＝人手不足(不足事業所5割超・求人倍率3倍超)で無資格未経験歓迎、必置のサビ管が運営の生命線で取り合い→名義貸しのグレー(違反)、外国人材、専門性が賃金に反映されにくい・段階研修のハードル・育つ前に離職・キャリアパスの見えにくさ。出典：厚労省・WAM・自治体。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 15:14:19 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-jinzai.mp3" length="6665656" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-jinzai.mp3</guid>
+      <itunes:duration>00:06:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>福祉ラジオ：障害者福祉の歴史（措置から契約へ、そして優生保護法という負の歴史）</title>
       <description>『福祉＝善』では語れない障害福祉の歴史を学習用に。①措置の時代＝行政が決める措置制度(1949年身体障害者福祉法ほか)、施設収容中心、1971年のぞみの園などコロニー(大規模入所施設)は当時は理想とされ後に隔離と批判 ②負の歴史＝旧優生保護法(1948〜1996)による強制不妊 約2万5千人(うち本人同意なし約1万6500人)、2024年に最高裁が違憲・国に賠償命令。福祉立法と優生政策が同時代に並走 ③措置から契約へ＝2003年支援費→財源難→2006年自立支援法(3障害一元化・応益負担→違憲訴訟→応能負担へ)→2013年総合支援法、2014年障害者権利条約批准・2016年差別解消法、脱施設の理念とリアル。出典：厚労省・各社報道。</description>
