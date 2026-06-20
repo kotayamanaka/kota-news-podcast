@@ -2,26 +2,137 @@
   {
     "date": "2026-06-18",
     "theme": "話すだけでAIに仕事を片付けてもらう音声ファースト術",
-    "keywords": ["音声入力", "AI", "Superwhisper", "Wispr Flow", "Aqua Voice", "文字起こし", "清書", "自動仕分け", "Thomas Frank", "Notion自動投入", "Zapier", "Todoist", "ハルシネーション", "機密情報"]
+    "keywords": [
+      "音声入力",
+      "AI",
+      "Superwhisper",
+      "Wispr Flow",
+      "Aqua Voice",
+      "文字起こし",
+      "清書",
+      "自動仕分け",
+      "Thomas Frank",
+      "Notion自動投入",
+      "Zapier",
+      "Todoist",
+      "ハルシネーション",
+      "機密情報"
+    ]
   },
   {
     "date": "2026-06-18",
     "theme": "自分の資料をAIに音声解説させる（NotebookLM音声概要）",
-    "keywords": ["NotebookLM", "音声概要", "Audio Overview", "Google", "ポッドキャスト風", "2人のAIホスト", "PDF YouTube URL", "2025年 日本語対応", "無料1日3回", "ながら聞き", "幻覚 元資料確認", "漢字誤読", "インタラクティブモード 英語のみ"]
+    "keywords": [
+      "NotebookLM",
+      "音声概要",
+      "Audio Overview",
+      "Google",
+      "ポッドキャスト風",
+      "2人のAIホスト",
+      "PDF YouTube URL",
+      "2025年 日本語対応",
+      "無料1日3回",
+      "ながら聞き",
+      "幻覚 元資料確認",
+      "漢字誤読",
+      "インタラクティブモード 英語のみ"
+    ]
   },
   {
     "date": "2026-06-18",
     "theme": "AIで毎日の情報収集を自動化（RSS→AI要約→配信）",
-    "keywords": ["情報収集自動化", "RSS", "Googleアラート", "AI要約", "ChatGPT Gemini", "Zapier Make n8n IFTTT", "GAS自作", "LINE Messaging API", "Feedly Leo", "API従量課金", "ハルシネーション BBC検証", "フィルターバブル", "ポーリング課金"]
+    "keywords": [
+      "情報収集自動化",
+      "RSS",
+      "Googleアラート",
+      "AI要約",
+      "ChatGPT Gemini",
+      "Zapier Make n8n IFTTT",
+      "GAS自作",
+      "LINE Messaging API",
+      "Feedly Leo",
+      "API従量課金",
+      "ハルシネーション BBC検証",
+      "フィルターバブル",
+      "ポーリング課金"
+    ]
   },
   {
     "date": "2026-06-19",
     "theme": "AIに一日をまるごと覚えてもらう『第二の脳（AIライフログ）』",
-    "keywords": ["AIライフログ", "第二の脳", "PLAUD プラウド", "Limitless リミットレス", "Dan Siroker 補聴器", "Rewind", "Bee ビー", "Meta買収", "Amazon買収", "常時録音 ペンダント", "スマホOSはマイク常時オン不可", "Whisper 2022無料公開 68万時間", "ロングコンテキスト 意味検索 100倍", "MyLifeBits Gordon Bell 予言", "Narrative Clip 2016倒産", "Google Glass 2015終了 Glasshole", "ChatGPT 返事せず全部聞いて 要点ToDo", "夜のふりかえり ジャーナリング", "Granola Otter 無料枠", "録音同意 bystander 日本の秘密録音 名誉毀損", "Whisper捏造 Cornell", "Lost in the Middle 真ん中3割劣化"]
+    "keywords": [
+      "AIライフログ",
+      "第二の脳",
+      "PLAUD プラウド",
+      "Limitless リミットレス",
+      "Dan Siroker 補聴器",
+      "Rewind",
+      "Bee ビー",
+      "Meta買収",
+      "Amazon買収",
+      "常時録音 ペンダント",
+      "スマホOSはマイク常時オン不可",
+      "Whisper 2022無料公開 68万時間",
+      "ロングコンテキスト 意味検索 100倍",
+      "MyLifeBits Gordon Bell 予言",
+      "Narrative Clip 2016倒産",
+      "Google Glass 2015終了 Glasshole",
+      "ChatGPT 返事せず全部聞いて 要点ToDo",
+      "夜のふりかえり ジャーナリング",
+      "Granola Otter 無料枠",
+      "録音同意 bystander 日本の秘密録音 名誉毀損",
+      "Whisper捏造 Cornell",
+      "Lost in the Middle 真ん中3割劣化"
+    ]
   },
   {
     "date": "2026-06-20",
     "theme": "AIに人間関係を覚えてもらう『パーソナルCRM』",
-    "keywords": ["パーソナルCRM", "PRM", "人間関係 外づけ記憶", "Monica モニカ OSS 無料 メール連携なし", "Clay クレイ 改名 Mesh メッシュ", "Automattic 2025-06買収 1.5億件 アイデンティティ層", "Nexus AIアシスタント", "Dex デックス リマインダー特化", "Plaxo プラクソ Sean Parker", "Rapportive LinkedIn買収 2020終了 利用率低い", "手入力の壁 続かない 負のループ", "CRM情報1年で正確さ9%", "営業CRM セールスフォース ハブスポット ミスマッチ", "ダンバー数 150 Robin Dunbar", "ChatGPTメモリ流用 2025過去会話横断", "Notion パーソナルCRM テンプレ", "最重要20人ルール", "GDPR household exemption 商用でグレー", "気持ち悪さ論争 transactional", "ADHD object permanence 救済", "ハルシネーション 正しく見える捏造", "Simon Willison メモリ批判"]
+    "keywords": [
+      "パーソナルCRM",
+      "PRM",
+      "人間関係 外づけ記憶",
+      "Monica モニカ OSS 無料 メール連携なし",
+      "Clay クレイ 改名 Mesh メッシュ",
+      "Automattic 2025-06買収 1.5億件 アイデンティティ層",
+      "Nexus AIアシスタント",
+      "Dex デックス リマインダー特化",
+      "Plaxo プラクソ Sean Parker",
+      "Rapportive LinkedIn買収 2020終了 利用率低い",
+      "手入力の壁 続かない 負のループ",
+      "CRM情報1年で正確さ9%",
+      "営業CRM セールスフォース ハブスポット ミスマッチ",
+      "ダンバー数 150 Robin Dunbar",
+      "ChatGPTメモリ流用 2025過去会話横断",
+      "Notion パーソナルCRM テンプレ",
+      "最重要20人ルール",
+      "GDPR household exemption 商用でグレー",
+      "気持ち悪さ論争 transactional",
+      "ADHD object permanence 救済",
+      "ハルシネーション 正しく見える捏造",
+      "Simon Willison メモリ批判"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "theme": "LINE運用を無料OSS＋AIで自動化（LINE Harness × Claude Code）",
+    "keywords": [
+      "LINE Harness",
+      "ラインハーネス",
+      "オープンソース MIT",
+      "2026年3月公開",
+      "野田修一 Shudesu",
+      "Cloudflare無料枠 5000人 0円",
+      "Lステップ 月2万円 年26万",
+      "エルメ UTAGE 代替",
+      "ステップ配信 スコアリング",
+      "API公開 MCP",
+      "Claude Code 自然言語操作",
+      "導入ハードル Node.js Git",
+      "セキュリティ自己責任 サポートなし",
+      "現役プロ まだLステップでいい 伊藤一晃",
+      "LINE自動連投禁止 規約",
+      "無料の代償 保守内製"
+    ]
   }
 ]

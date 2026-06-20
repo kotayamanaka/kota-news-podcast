@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 03:42:31 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 03:42:31 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 10:09:44 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 10:09:44 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、生活や健康をちょっと進化させる実践ワザを紹介。とくにAIを使った工夫を実際にやっている人の事例を調べ、すぐ真似できる形で届ける、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ライフハック：LINE運用を無料OSS＋AIで自動化する（LINE Harness × Claude Code）</title>
+      <description>月2万円級の有料LINE運用ツール(Lステップ等)の機能を、無料のオープンソース『LINE Harness』(2026年3月公開・開発 野田修一氏)で代替し、Cloudflare無料枠で友だち5000人まで月額0円にするワザ。①正体＝有料相当のステップ配信/スコアリングを無料OSSで ②Claude Code連携＝全機能がAPI化され『セミナー申込者に3日前リマインド』等を自然言語で、導入のコマンド作業もAIに肩代わり（ただし全自動は提供側の触れ込みで第三者検証は未確認）③始め方と注意＝技術ハードル高/セキュリティ自己責任でサポートなし/現役プロは『まだLステップ・エルメでいい』/LINEは自動連投禁止/『無料』の代償は保守の内製。</description>
+      <itunes:summary>月2万円級の有料LINE運用ツール(Lステップ等)の機能を、無料のオープンソース『LINE Harness』(2026年3月公開・開発 野田修一氏)で代替し、Cloudflare無料枠で友だち5000人まで月額0円にするワザ。①正体＝有料相当のステップ配信/スコアリングを無料OSSで ②Claude Code連携＝全機能がAPI化され『セミナー申込者に3日前リマインド』等を自然言語で、導入のコマンド作業もAIに肩代わり（ただし全自動は提供側の触れ込みで第三者検証は未確認）③始め方と注意＝技術ハードル高/セキュリティ自己責任でサポートなし/現役プロは『まだLステップ・エルメでいい』/LINEは自動連投禁止/『無料』の代償は保守の内製。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 10:09:44 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness.mp3" length="6940255" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-20-lineharness.mp3</guid>
+      <itunes:duration>00:07:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>AIに人間関係を覚えてもらう『パーソナルCRM』</title>
       <description>友人や知人を忘れないための個人版CRM術。①なぜ昔の個人CRM(プラクソ/ラポーティブ)は手入力の壁で全滅し、今AIで一気に化けたのか。営業用のセールスフォースが個人の人間関係に向かない理由まで。②無料オープンソースのMonica・全自動のClay(改名Mesh、Automatticが2025年6月に買収・1.5億件の人脈データ)・リマインダー型のDexの思想の違い。③今日からの始め方(まず大事な20人・ChatGPTメモリやNotion流用)と落とし穴(プライバシーと商用利用の線引き/“気持ち悪さ”論争とADHD・当事者の救済/AIの作り話)。出典: TechCrunch, monicahq.com, me.sh, Hacker News, Wikipedia(ダンバー数)。約12分。</description>
