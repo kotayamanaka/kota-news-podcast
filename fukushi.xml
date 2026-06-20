@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fukushi.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 05:04:04 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 05:04:04 +0900</lastBuildDate>
+    <pubDate>Sat, 20 Jun 2026 13:15:32 +0900</pubDate>
+    <lastBuildDate>Sat, 20 Jun 2026 13:15:32 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>落穂会支援に向けて、障害者支援（障害福祉サービス・制度・現場実務）の知識を体系的に1テーマずつ積み上げる、kota専用の学習音声番組。</itunes:summary>
@@ -17,6 +17,26 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>福祉ラジオ：生活介護（重い障害のある人の日中の居場所、なぜB型と違うのか）</title>
+      <description>障害福祉サービスの『生活介護』を学習用に整理。①介護給付の日中活動＝常時介護が必要な人に昼間、介護＋創作/生産活動。対象は原則 障害支援区分3以上(50歳以上は区分2以上)で重度向けという役割分担 ②就労継続支援B型との違い＝主眼が『働く訓練』か『日中の生活・活動・介護』か、工賃ルール(B型は平均工賃月3000円以上・実績報告)の有無、区分要件の有無 ③送迎・食事と家族のレスパイト、利用者は月約30万人・事業所約1.3万か所、2024年改定で報酬が提供時間で変動。短期入所等との組み合わせも。出典：厚労省・WAM NET。</description>
+      <itunes:summary>障害福祉サービスの『生活介護』を学習用に整理。①介護給付の日中活動＝常時介護が必要な人に昼間、介護＋創作/生産活動。対象は原則 障害支援区分3以上(50歳以上は区分2以上)で重度向けという役割分担 ②就労継続支援B型との違い＝主眼が『働く訓練』か『日中の生活・活動・介護』か、工賃ルール(B型は平均工賃月3000円以上・実績報告)の有無、区分要件の有無 ③送迎・食事と家族のレスパイト、利用者は月約30万人・事業所約1.3万か所、2024年改定で報酬が提供時間で変動。短期入所等との組み合わせも。出典：厚労省・WAM NET。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 13:15:32 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-seikatsukaigo.mp3" length="6725006" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-seikatsukaigo.mp3</guid>
+      <itunes:duration>00:07:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>福祉ラジオ：グループホーム（共同生活援助）地域で暮らす住まい、なぜ急増しているのか</title>
+      <description>障害福祉サービスの『共同生活援助（グループホーム）』を学習用に整理。①訓練等給付＝地域のアパート等で原則10人以下、世話人の支援で共同生活(主に夜間・休日)。3類型(介護サービス包括型/外部サービス利用型/日中サービス支援型)、2022年改正で自立への通過点も明確化 ②例外＝訓練等給付なのに介護を受ける人は区分認定が必要・区分が重いほど報酬増、家賃補助(補足給付 国の上限月1万円) ③地域移行・『親なき後』の受け皿で利用者約17万人・15年で約3.5倍、営利法人参入が最多に、重度ほど敬遠される逆転や質の課題、サテライト型による自立の橋渡し。出典：厚労省・WAM NET。</description>
+      <itunes:summary>障害福祉サービスの『共同生活援助（グループホーム）』を学習用に整理。①訓練等給付＝地域のアパート等で原則10人以下、世話人の支援で共同生活(主に夜間・休日)。3類型(介護サービス包括型/外部サービス利用型/日中サービス支援型)、2022年改正で自立への通過点も明確化 ②例外＝訓練等給付なのに介護を受ける人は区分認定が必要・区分が重いほど報酬増、家賃補助(補足給付 国の上限月1万円) ③地域移行・『親なき後』の受け皿で利用者約17万人・15年で約3.5倍、営利法人参入が最多に、重度ほど敬遠される逆転や質の課題、サテライト型による自立の橋渡し。出典：厚労省・WAM NET。</itunes:summary>
+      <pubDate>Sat, 20 Jun 2026 13:14:32 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-grouphome.mp3" length="6453750" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fukushi/episodes/2026-06-20-grouphome.mp3</guid>
+      <itunes:duration>00:06:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>福祉ラジオ：生活介護（障害福祉で給付費が最大のサービス、なぜ重い人ほど報酬が高いのか、18歳と65歳の2つの壁）</title>
       <description>障害のある人の日中の暮らしを丸ごと支える『生活介護』を3点で深掘り。①常時介護を要する人（原則 障害支援区分3以上、50歳以上は区分2以上）向けの日中活動サービスで、入浴・排せつ・食事の介護に創作・生産活動を組み合わせ、就労移行支援と違って利用期限がない居場所。利用者は月約30万人・全国約1万3000か所、年間給付費は約9085億円で障害福祉サービス単独で最大の費目（2024年）②なぜ重い人ほど報酬が高いのか＝人員配置が平均区分に連動（6対1→5対1→区分5以上で3対1）し、区分6は区分2以下の約2.2倍。軽度は要件で原則対象外。工賃は月約4000円でB型(約1.7万円)とは性格が違う③なぜ巨大か＝特別支援学校卒業生の6割超が福祉施設へ進む最大の受け皿（肢体不自由は85.6%）。落とし穴は医療的ケア対応事業所が約2割しかない『18歳の壁』、介護保険優先による『65歳の壁』(浅田訴訟)、実施率約94%の送迎の人手不足。2024年改定でサービス提供時間別報酬と入浴支援加算を新設。出典：厚労省・文科省・障害者白書。</description>
