@@ -12,8 +12,8 @@
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/kanshou-cover.png"/>
-    <image><url>https://kotayamanaka.github.io/kota-news-podcast/kanshou-cover.png</url><title>kota 鑑賞作品ラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/kanshou/</link></image>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/kanshou-cover-v2.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/kanshou-cover-v2.png</url><title>kota 鑑賞作品ラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/kanshou/</link></image>
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
