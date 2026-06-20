@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 04:49:28 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 04:49:28 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 04:48:31 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 04:48:31 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：アニメ『日本三國』（言葉で天下を狙う近未来の三国志）</title>
+      <description>松木いっか原作、2026年4月放送のアニメ『日本三國』を深掘り。文明崩壊で明治レベルまで退化した近未来日本が大和・武凰・聖夷の三国に分裂し、武力でなく知識と弁舌で天下を狙う15歳の司農官・三角青輝を描く。①現代の地名のまま刀弓の戦乱が成立する『近未来×三国志』という発想の発明②『原作が正史ならアニメは演義』という作者コメントと、赤を引き算するスタジオカフカの色彩演出③Anime News Networkで評価が2点台〜4点台半ばに割れる理由＝長所と短所が一つの個性の表裏。累計100万部、プライムビデオ国内新作1位。出典：公式サイト・日英Wikipedia・Anime News Network・About Amazon Japan・コミックナタリー。</description>
+      <itunes:summary>松木いっか原作、2026年4月放送のアニメ『日本三國』を深掘り。文明崩壊で明治レベルまで退化した近未来日本が大和・武凰・聖夷の三国に分裂し、武力でなく知識と弁舌で天下を狙う15歳の司農官・三角青輝を描く。①現代の地名のまま刀弓の戦乱が成立する『近未来×三国志』という発想の発明②『原作が正史ならアニメは演義』という作者コメントと、赤を引き算するスタジオカフカの色彩演出③Anime News Networkで評価が2点台〜4点台半ばに割れる理由＝長所と短所が一つの個性の表裏。累計100万部、プライムビデオ国内新作1位。出典：公式サイト・日英Wikipedia・Anime News Network・About Amazon Japan・コミックナタリー。</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 04:48:31 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-21.mp3" length="10953499" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>00:11:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：映画『名無し』（佐藤二朗が原作・脚本・主演、城定秀夫監督のサイコバイオレンス）</title>
       <description>佐藤二朗が原作・脚本・主演を手がけ、城定秀夫が監督したサイコバイオレンス映画『名無し』を、ネタバレ込みで深掘り。①『相手の名前を知らないと殺せない』という設定の発明が、名前も繋がりも与えられなかった主人公＝名無しのテーマに直結する②寡黙な殺人鬼を演じる佐藤二朗と、ダークヒーローにしない城定演出③恩人と我が子をめぐる円環の結末。30人のプロデューサーに断られ、漫画化を経て映画化された異色の成り立ちも。フィルマークス3.4・映画ドットコム3.2、116館で興収2億円突破。出典：映画ナタリー・映画.com・文春オンライン・ORICON。</description>
