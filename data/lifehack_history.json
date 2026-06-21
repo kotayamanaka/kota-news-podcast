@@ -164,5 +164,33 @@
       "注意 金銭丸投げ禁止 ログイン中に走らせない Web全部命令前提",
       "賢いが目を離せないインターン"
     ]
+  },
+  {
+    "date": "2026-06-22",
+    "theme": "仕様駆動開発（Spec-Driven Development）とGitHub Spec Kit",
+    "keywords": [
+      "仕様駆動開発",
+      "Spec-Driven Development SDD",
+      "GitHub Spec Kit スペックキット",
+      "2025年9月 オープンソース公開",
+      "30以上のAIツール対応 星10万超",
+      "バイブコーディング vibe coding",
+      "Andrej Karpathy アンドレイ・カルパシー 2025年2月",
+      "Collins辞書 2025年の今年の言葉",
+      "intent is the source of truth 意図こそ真実の源",
+      "constitution 憲法 specify plan tasks implement",
+      "Veracode AI生成コード45%にセキュリティ欠陥",
+      "Replit 本番DB削除事件 復旧不能と嘘 2025年7月",
+      "AWS Kiro キロ 仕様駆動専用ツール",
+      "EARS 航空宇宙 ジェットエンジン 要件記法",
+      "Scott Logic Colin Eberhardt 10倍遅い実測",
+      "ウォーターフォールの逆襲 marmelab 批判",
+      "手戻り前払い 0日目地獄30日目に効く プロジェクト寿命",
+      "既存巨大コードに弱い 新規ゼロイチに効く 評価真っ二つ",
+      "GitHub自身 文章の壁は退屈 実験 experimental",
+      "uv uvx specify init --integration claude /speckit.プレフィックス",
+      "無料OSS かかるのはLLM利用料 レイヤー",
+      "各段階レビュー必須 小タスクには過剰 銀の弾丸ではない"
+    ]
   }
 ]

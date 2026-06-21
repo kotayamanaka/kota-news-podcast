@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 21 Jun 2026 03:50:59 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 03:50:59 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 03:47:42 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:47:42 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：仕様駆動開発とGitHub Spec Kit — AIに、いきなりコードを書かせない</title>
+      <description>AIに思いつきで作らせる『バイブコーディング』を卒業する流儀、仕様駆動開発(Spec-Driven Development)とGitHubのオープンソース『Spec Kit』を解説。①なぜノリ書きは破綻するのか＝意図こそ真実の源。Veracode調べでAI生成コードの45%にセキュリティ欠陥、Replitの本番DB削除事件。constitution→specify→plan→tasks→implementの段階。②本音の実力＝2025年9月公開・30以上のツール対応・星10万超、AWSのKiroと航空宇宙由来のEARS記法、CTOが実測『10倍遅い』と手戻り前払い論、『ウォーターフォールの逆襲』批判、新規には効くが巨大既存には弱い、GitHub自身が『実験』と明言。③始め方＝無料OSSでかかるのはLLM代だけ。uv→specify init→/speckit.の3ステップ、各段階レビュー必須。出典：GitHub公式Blog/README、AWS Kiro、Scott Logic、marmelab ほか。</description>
+      <itunes:summary>AIに思いつきで作らせる『バイブコーディング』を卒業する流儀、仕様駆動開発(Spec-Driven Development)とGitHubのオープンソース『Spec Kit』を解説。①なぜノリ書きは破綻するのか＝意図こそ真実の源。Veracode調べでAI生成コードの45%にセキュリティ欠陥、Replitの本番DB削除事件。constitution→specify→plan→tasks→implementの段階。②本音の実力＝2025年9月公開・30以上のツール対応・星10万超、AWSのKiroと航空宇宙由来のEARS記法、CTOが実測『10倍遅い』と手戻り前払い論、『ウォーターフォールの逆襲』批判、新規には効くが巨大既存には弱い、GitHub自身が『実験』と明言。③始め方＝無料OSSでかかるのはLLM代だけ。uv→specify init→/speckit.の3ステップ、各段階レビュー必須。出典：GitHub公式Blog/README、AWS Kiro、Scott Logic、marmelab ほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 03:47:42 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-22.mp3" length="10954753" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:11:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：AIブラウザ — 「要約して」だけで乗っ取られる新世代の光と影</title>
       <description>ページを開いて操作まで代行する『AIブラウザ』(Perplexity Comet/OpenAI Atlas/Chrome内Gemini/Edge)を深掘り。①何ができて今どれが無料か＝要約・タブ横断は実用、本丸は代わりに手を動かすエージェントモード。Cometは月200ドル限定から数か月で無料化、各社『見るのは無料・操作は有料/米国限定』の二段構え。②なぜ可能か＝ログイン済み状態が強みで認証突破不要、座標頼みのRPAやスクレイピングが詰まった壁を越える。大手殺到はネットの入口争奪で、Googleは広告共食いのジレンマを抱える。③落とし穴＝プロンプトインジェクション。Braveの実証で『要約して』だけでメールとワンタイムパスワード流出、OpenAIも『未解決』と公言、LayerX検証でAtlasは危険サイトの9割超を素通し。出典：Brave、OpenAI、LayerX、McKinsey、The Verge等。</description>
