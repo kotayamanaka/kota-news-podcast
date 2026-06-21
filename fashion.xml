@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kota ファッションラジオ</title>
+    <link>https://kotayamanaka.github.io/kota-news-podcast/fashion/</link>
+    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
+    <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 07:00:00 +0900</lastBuildDate>
+    <generator>kota-news-podcast</generator>
+    <itunes:author>kota</itunes:author>
+    <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/fashion-cover.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/fashion-cover.png</url><title>kota ファッションラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/fashion/</link></image>
+    <itunes:category text="Arts"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+
+  </channel>
+</rss>

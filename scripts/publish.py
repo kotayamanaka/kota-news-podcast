@@ -135,6 +135,18 @@ SHOWS = {
         "category": "Arts",
         "default_title": "酒ラジオ（{date}）",
     },
+    "fashion": {
+        "ep_subdir": "fashion/episodes",
+        "feed_path": "fashion.xml",
+        "manifest": "fashion_episodes.json",
+        "meta": "_meta_fashion.json",
+        "cover": "fashion-cover.png",
+        "hour": 7,
+        "channel_title": "kota ファッションラジオ",
+        "channel_desc": "毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。",
+        "category": "Arts",
+        "default_title": "ファッションラジオ（{date}）",
+    },
 }
 
 

@@ -218,6 +218,8 @@ GENERIC_COVERS = {
                 ["福祉", "ラジオ", ""], "落穂会支援", "WELFARE", "STUDY TRACK"),
     "sake": ("sake-cover.png", (124, 38, 52), "酒",
              ["酒", "ラジオ", ""], "銘柄を語る", "SAKE & SPIRITS", "ONE BOTTLE A DAY"),
+    "fashion": ("fashion-cover.png", (28, 28, 32), "服",
+                ["ファッ", "ション", "ラジオ"], "ブランドを語る", "MODE & STYLE", "BRAND STORIES"),
 }
 
 

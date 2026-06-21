@@ -15,6 +15,7 @@
 | kanshou | 鑑賞ふりかえりラジオ | Notion鑑賞記録DB | KANSHOU_ROUTINE.md |
 | fukushi | 福祉ラジオ | 福祉知識を体系的にWeb調査 | FUKUSHI_ROUTINE.md |
 | sake | 酒ラジオ | お酒の銘柄・商品をWeb調査 | SAKE_ROUTINE.md |
+| fashion | ファッションラジオ | ファッションブランドをWeb調査 | FASHION_ROUTINE.md |
 
 ---
 
