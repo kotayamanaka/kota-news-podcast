@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Sun, 21 Jun 2026 04:48:31 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 04:48:31 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 04:58:37 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:58:37 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『大豆田とわ子と三人の元夫』（会話とセリフで魅せた2021年の傑作ドラマ）</title>
+      <description>坂元裕二脚本・松たか子主演の2021年ドラマ（カンテレ・フジ系火曜21時、全10話）を、人に語れるように深掘り。①ストーリーより登場人物のやりとりとセリフを見せる『脱ストーリー』の会話劇と、それを支えた坂元×松たか子×プロデューサー佐野亜裕美の座組②松たか子が歌い毎話ラッパーが替わる主題歌『プレゼンス』（STUTS）の革新③親友かごめの死と『ひとりでも幸せになれる』という不在のテーマ。視聴率は6%前後ながら配信と賞レースで評価され、坂元裕二は2年後カンヌ脚本賞へ。出典：日英Wikipedia・リアルサウンド・柴那典／碓井広義（Yahoo!ニュース）・WEBザテレビジョン・カンテレ公式ほか。</description>
+      <itunes:summary>坂元裕二脚本・松たか子主演の2021年ドラマ（カンテレ・フジ系火曜21時、全10話）を、人に語れるように深掘り。①ストーリーより登場人物のやりとりとセリフを見せる『脱ストーリー』の会話劇と、それを支えた坂元×松たか子×プロデューサー佐野亜裕美の座組②松たか子が歌い毎話ラッパーが替わる主題歌『プレゼンス』（STUTS）の革新③親友かごめの死と『ひとりでも幸せになれる』という不在のテーマ。視聴率は6%前後ながら配信と賞レースで評価され、坂元裕二は2年後カンヌ脚本賞へ。出典：日英Wikipedia・リアルサウンド・柴那典／碓井広義（Yahoo!ニュース）・WEBザテレビジョン・カンテレ公式ほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 04:58:37 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-22.mp3" length="11580438" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:12:03</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：アニメ『日本三國』（言葉で天下を狙う近未来の三国志）</title>
       <description>松木いっか原作、2026年4月放送のアニメ『日本三國』を深掘り。文明崩壊で明治レベルまで退化した近未来日本が大和・武凰・聖夷の三国に分裂し、武力でなく知識と弁舌で天下を狙う15歳の司農官・三角青輝を描く。①現代の地名のまま刀弓の戦乱が成立する『近未来×三国志』という発想の発明②『原作が正史ならアニメは演義』という作者コメントと、赤を引き算するスタジオカフカの色彩演出③Anime News Networkで評価が2点台〜4点台半ばに割れる理由＝長所と短所が一つの個性の表裏。累計100万部、プライムビデオ国内新作1位。出典：公式サイト・日英Wikipedia・Anime News Network・About Amazon Japan・コミックナタリー。</description>
