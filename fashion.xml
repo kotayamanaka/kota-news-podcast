@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 21 Jun 2026 22:20:46 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 22:20:46 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 03:21:10 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:21:10 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>エルメス（2026-06-22）</title>
+      <description>ラグジュアリーの頂点、エルメスを深掘り。1837年にティエリ・エルメスが開いた馬具工房が出自で、自動車の普及で訪れた危機を孫エミール=モーリスがバッグへの業態転換とジッパー独占で乗り越えた歴史、グレース・ケリーとケリーバッグ／ジェーン・バーキンと機内で生まれたバーキンの物語、そして創業家200人超の会社支配ゆえに品薄経営・値引きゼロ・職人養成を数十年貫け、LVMHの買収も退け2025年4月に時価総額で逆転した「真似できない構造」までを解説。出典：エルメス公式IR、Sotheby's、Business of Fashion、CBS 60 Minutes、Bloomberg、Wikipedia。</description>
+      <itunes:summary>ラグジュアリーの頂点、エルメスを深掘り。1837年にティエリ・エルメスが開いた馬具工房が出自で、自動車の普及で訪れた危機を孫エミール=モーリスがバッグへの業態転換とジッパー独占で乗り越えた歴史、グレース・ケリーとケリーバッグ／ジェーン・バーキンと機内で生まれたバーキンの物語、そして創業家200人超の会社支配ゆえに品薄経営・値引きゼロ・職人養成を数十年貫け、LVMHの買収も退け2025年4月に時価総額で逆転した「真似できない構造」までを解説。出典：エルメス公式IR、Sotheby's、Business of Fashion、CBS 60 Minutes、Bloomberg、Wikipedia。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 03:21:10 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-22.mp3" length="13143187" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:13:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>シャネル（2026-06-17）</title>
       <description>孤児院で育ったガブリエル・ココ・シャネルが、コルセットから女性を解放した革命の物語。No.5香水、2.55バッグ、ツイードジャケット、ダブルCロゴの由来、そしてカール・ラガーフェルドによる再生と「物語と職人技は金で買えない」という模倣困難性を解説。出典：Wikipedia・Britannica・CHANEL公式・WWDほか。</description>
