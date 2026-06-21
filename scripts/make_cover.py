@@ -216,6 +216,8 @@ GENERIC_COVERS = {
                 ["鑑賞", "作品", "ラジオ"], "本・映画・アニメ", "REVIEW", "FROM YOUR LOG"),
     "fukushi": ("fukushi-cover.png", (40, 140, 220), "福",
                 ["福祉", "ラジオ", ""], "落穂会支援", "WELFARE", "STUDY TRACK"),
+    "sake": ("sake-cover.png", (124, 38, 52), "酒",
+             ["酒", "ラジオ", ""], "銘柄を語る", "SAKE & SPIRITS", "ONE BOTTLE A DAY"),
 }
 
 

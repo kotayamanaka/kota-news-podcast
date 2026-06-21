@@ -123,6 +123,18 @@ SHOWS = {
         "category": "Society & Culture",
         "default_title": "福祉ラジオ（{date}）",
     },
+    "sake": {
+        "ep_subdir": "sake/episodes",
+        "feed_path": "sake.xml",
+        "manifest": "sake_episodes.json",
+        "meta": "_meta_sake.json",
+        "cover": "sake-cover.png",
+        "hour": 7,
+        "channel_title": "kota 酒ラジオ",
+        "channel_desc": "毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。",
+        "category": "Arts",
+        "default_title": "酒ラジオ（{date}）",
+    },
 }
 
 
