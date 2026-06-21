@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Sun, 21 Jun 2026 05:48:57 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 05:48:57 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 05:45:54 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:45:54 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-22 朝の深掘りニュース</title>
+      <description>W杯日本4-0チュニジア 上田2発で日本人初の1試合2得点／日経平均7万1250円で史上最高値 週間上げ幅は過去最大／イラン「ホルムズ海峡封鎖」宣言と米軍の真っ向否定／スペースXがAIコーディングのカーソルを6兆円で買収／脳は何歳でも良くなる 4000人3年の研究</description>
+      <itunes:summary>W杯日本4-0チュニジア 上田2発で日本人初の1試合2得点／日経平均7万1250円で史上最高値 週間上げ幅は過去最大／イラン「ホルムズ海峡封鎖」宣言と米軍の真っ向否定／スペースXがAIコーディングのカーソルを6兆円で買収／脳は何歳でも良くなる 4000人3年の研究</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 05:45:54 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-22.mp3" length="3678768" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:10:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-21 朝の深掘りニュース</title>
       <description>個人開発ゲーム「めっちゃカメレオン」が発売10日で500万本／東京電力の資本提携が5陣営にしぼり込み 非公開化案も／英バーナムが補選勝利 スターマー首相に挑戦の構え／地下の菌根菌ネットワーク 世界初の全球地図／ALS患者向け 脳に埋め込むBCIが年内治験申請へ</description>
