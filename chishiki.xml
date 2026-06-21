@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Sat, 20 Jun 2026 04:14:26 +0900</pubDate>
-    <lastBuildDate>Sat, 20 Jun 2026 04:14:26 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 04:30:17 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:30:17 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：ニトリ（安いのに、なぜ儲かるのか）</title>
+      <description>企業特集はニトリ。①企画から製造・物流・販売まで自前で握る『製造物流IT小売業』が、中間マージンを消して粗利5割超を生む仕組み ②1972年の米国視察から50年かけて積み上げた自社工場と自前物流ゆえに、大塚家具やイケアが真似できなかった理由 ③36期連続増収増益を途切れさせた円安という試練と、2032年3000店・3兆円の夢。出典はニトリHD決算短信・IR、日本経済新聞、流通ニュース、東洋経済、似鳥昭雄氏の発言ほか。</description>
+      <itunes:summary>企業特集はニトリ。①企画から製造・物流・販売まで自前で握る『製造物流IT小売業』が、中間マージンを消して粗利5割超を生む仕組み ②1972年の米国視察から50年かけて積み上げた自社工場と自前物流ゆえに、大塚家具やイケアが真似できなかった理由 ③36期連続増収増益を途切れさせた円安という試練と、2032年3000店・3兆円の夢。出典はニトリHD決算短信・IR、日本経済新聞、流通ニュース、東洋経済、似鳥昭雄氏の発言ほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 04:30:17 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-22.mp3" length="11251086" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:11:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：コンビニ業界（なぜセブンだけ強いのか、本部は何で儲けているのか）</title>
       <description>業界特集はコンビニ。①約5万7000店・11兆円市場を3強が寡占する構造と、本家アメリカを日本が買収した逆転劇 ②セブンの強さの正体＝ドミナント出店・1日70台を9台にした共同配送・専用工場の囲い込み・単品管理という他社が真似できない好循環 ③5.3兆円は本部の売上ではない件、コンビニ会計とフランチャイズ、通行料ビジネスのセブン銀行、飽和と海外。出典は各社IR・公正取引委員会・日本経済新聞ほか。</description>
