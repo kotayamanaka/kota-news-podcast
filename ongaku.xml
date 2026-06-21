@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
-    <pubDate>Sun, 21 Jun 2026 04:56:10 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 04:56:10 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 04:55:13 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:55:13 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：Mrs. GREEN APPLE（絶頂で止まり、最強で帰ってきたバンド）</title>
+      <description>今日のアーティストは『Mrs. GREEN APPLE』。①歩み＝人気上り調子の2020年に自ら活動休止「フェーズ1完結」、2022年に3人で再始動した独特の章立て ②記録と理由＝日本レコード大賞をケセラセラ・ライラック・ダーリンで3年連続受賞（バンド史上初）、ビルボードジャパン年間アーティスト1位の連覇、J-POP初の国内累計100億ストリーム。なぜ売れたか＝『間口の広さ』と『奥行きの深さ』の両取り（嵐以来と分析） ③強さの源＝大森元貴さん一人に作詞作曲から世界観・演出まで集約された作家性と、サブスク時代を見据えた曲作り。出典：Billboard JAPAN、博報堂DY×日経クロストレンド、美術手帖ほか。</description>
+      <itunes:summary>今日のアーティストは『Mrs. GREEN APPLE』。①歩み＝人気上り調子の2020年に自ら活動休止「フェーズ1完結」、2022年に3人で再始動した独特の章立て ②記録と理由＝日本レコード大賞をケセラセラ・ライラック・ダーリンで3年連続受賞（バンド史上初）、ビルボードジャパン年間アーティスト1位の連覇、J-POP初の国内累計100億ストリーム。なぜ売れたか＝『間口の広さ』と『奥行きの深さ』の両取り（嵐以来と分析） ③強さの源＝大森元貴さん一人に作詞作曲から世界観・演出まで集約された作家性と、サブスク時代を見据えた曲作り。出典：Billboard JAPAN、博報堂DY×日経クロストレンド、美術手帖ほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 04:55:13 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-22.mp3" length="10599070" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:11:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>音楽ラジオ：サザンオールスターズ（色物から国民的バンドへ、なぜ47年トップでいられるのか）</title>
       <description>今日のアーティストは『サザンオールスターズ』。①歩み＝1978年『勝手にシンドバッド』の衝撃と『芸人です』騒動、3作目『いとしのエリー』での逆転（後にレイ・チャールズがカバーし彼の日本最大ヒットに）、2008年活動休止と桑田佳祐の食道がんを越えての復活 ②記録＝『TSUNAMI』約293万枚・第42回日本レコード大賞、ベスト盤『海のYeah!!』約359万枚（複数枚組オリコン史上最高）、2025年『THANK YOU SO MUCH』で5年代連続アルバム1位はグループ史上初 ③音楽の核＝桑田佳祐が成し遂げた『日本語ロックの発明』と、夫婦・固定メンバーゆえの再現不能性。出典：オリコン・日本レコード大賞・Wikipedia、音楽評論家スージー鈴木・言語学者の川添愛・プロデューサー亀田誠治の分析等。</description>
