@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 14 Jun 2026 07:00:00 +0900</pubDate>
-    <lastBuildDate>Sun, 14 Jun 2026 07:00:00 +0900</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 21:55:20 +0900</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:55:20 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,15 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
-
+    <item>
+      <title>サッポロ生ビール黒ラベル（2026-06-21）</title>
+      <description>酒ラジオ第1回はサッポロ生ビール黒ラベル。①名前と歴史（正式名は元「サッポロびん生」、ラベルの黒さからお客さんが付けた愛称が1989年に正式名へ。一度終売しかけてファンの声で復活した物語と、ラベルの星＝五稜星の由来）②造り（岡山大学と協働で生んだ、風味を劣化させる酵素を持たない大麦／大麦もホップも自社育種する強み／後味が約20秒で引く設計＝飲み飽きしない理由）③味わいと飲み方（麦のうまみと爽やかな後味のバランス、ヱビスとの違い、ザ・パーフェクト黒ラベルの3つのC）。出典：サッポロビール公式・サッポロHD・Wikipedia ほか。</description>
+      <itunes:summary>酒ラジオ第1回はサッポロ生ビール黒ラベル。①名前と歴史（正式名は元「サッポロびん生」、ラベルの黒さからお客さんが付けた愛称が1989年に正式名へ。一度終売しかけてファンの声で復活した物語と、ラベルの星＝五稜星の由来）②造り（岡山大学と協働で生んだ、風味を劣化させる酵素を持たない大麦／大麦もホップも自社育種する強み／後味が約20秒で引く設計＝飲み飽きしない理由）③味わいと飲み方（麦のうまみと爽やかな後味のバランス、ヱビスとの違い、ザ・パーフェクト黒ラベルの3つのC）。出典：サッポロビール公式・サッポロHD・Wikipedia ほか。</itunes:summary>
+      <pubDate>Sun, 21 Jun 2026 21:55:20 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-21.mp3" length="14341476" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-21.mp3</guid>
+      <itunes:duration>00:14:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
