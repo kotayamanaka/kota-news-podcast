@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 21 Jun 2026 22:20:46 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 22:20:46 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 03:33:23 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 03:33:23 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>山崎 — 1億円ボトルの正体、ミズナラ樽が生むジャパニーズウイスキーの凄み</title>
+      <description>酒ラジオ・ウイスキー回はサントリーのシングルモルト『山崎』。①1923年・鳥井信治郎の挑戦と「失敗が資産に化けた」白札の物語、②白檀や伽羅を思わせるミズナラ樽の香りと、希少性・時間という他国に真似できない理由、③ジム・マレー97.5点で世界一に輝いた評価、飲み方と品薄の背景。先月の山崎50年・約1億円落札（Bonhams香港）も。出典：サントリー公式、Wikipedia、TIME、Bonhamsほか。</description>
+      <itunes:summary>酒ラジオ・ウイスキー回はサントリーのシングルモルト『山崎』。①1923年・鳥井信治郎の挑戦と「失敗が資産に化けた」白札の物語、②白檀や伽羅を思わせるミズナラ樽の香りと、希少性・時間という他国に真似できない理由、③ジム・マレー97.5点で世界一に輝いた評価、飲み方と品薄の背景。先月の山崎50年・約1億円落札（Bonhams香港）も。出典：サントリー公式、Wikipedia、TIME、Bonhamsほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 03:33:23 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-22.mp3" length="10137225" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:10:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>いいちこ（2026-06-18）</title>
       <description>大分・三和酒類の麦焼酎『いいちこ』を3つの視点で深掘り。名前は大分弁の「いいですよ」で約1200通の公募から誕生、麦麹と減圧・常圧蒸留のブレンドが生むすっきりした味わい、商品を写さない河北秀也の風景ポスターまで。出典：Wikipedia、いいちこブランドサイト（三和酒類）。</description>
