@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Sun, 21 Jun 2026 05:35:10 +0900</pubDate>
-    <lastBuildDate>Sun, 21 Jun 2026 05:35:10 +0900</lastBuildDate>
+    <pubDate>Mon, 22 Jun 2026 05:34:29 +0900</pubDate>
+    <lastBuildDate>Mon, 22 Jun 2026 05:34:29 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>川越 — 火事が生んだ「小江戸」、住民が守った黒い町並み</title>
+      <description>駅と周辺地域は埼玉・川越。あの蔵造りは江戸の遺産ではなく明治の大火が起点です。①太田道灌が江戸城と同年に築いた双子の城と、新河岸川の舟運で「江戸の台所」になった経緯（藩主8人が老中・大老級、九十九曲りの土木の知恵）②1893年の大火で生まれた蔵造りを、衰退の末に住民が「町づくり規範」で守り直し1999年に重伝建になった逆転の物語（空襲俗説の否定も）③焼き芋の『栗より美味い十三里』のダジャレ、関東大震災が生んだ菓子屋横丁、バラバラな3つの駅。出典は川越市・総務省・文化庁・Wikipediaほか。</description>
+      <itunes:summary>駅と周辺地域は埼玉・川越。あの蔵造りは江戸の遺産ではなく明治の大火が起点です。①太田道灌が江戸城と同年に築いた双子の城と、新河岸川の舟運で「江戸の台所」になった経緯（藩主8人が老中・大老級、九十九曲りの土木の知恵）②1893年の大火で生まれた蔵造りを、衰退の末に住民が「町づくり規範」で守り直し1999年に重伝建になった逆転の物語（空襲俗説の否定も）③焼き芋の『栗より美味い十三里』のダジャレ、関東大震災が生んだ菓子屋横丁、バラバラな3つの駅。出典は川越市・総務省・文化庁・Wikipediaほか。</itunes:summary>
+      <pubDate>Mon, 22 Jun 2026 05:34:29 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-22.mp3" length="13221345" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-22.mp3</guid>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>世界の国：スイス（なぜ資源も海もない山国が世界一豊かなのか／武装中立の素顔）</title>
       <description>世界の国はスイス。①4つの公用語が共存する「意志による国民」と、国名をラテン語にし首都を大都市から外す“えこひいきしない”設計 ②中立で二度の大戦を避け資本の避難所になった話と、高い人件費・小さな市場という制約が高付加価値を強制した好循環＝時計（クォーツショックからの高級化）と製薬（特許が無くコピーで地力を蓄えバーゼルで発明力に転化）、他国が真似できない理由 ③全国民分を超える核シェルター（カバー率107%）、橋に爆薬を仕込んだ国家要塞、徴兵制、女性参政権1971年まで、赤十字の旗。すべて『武装中立』で一本につながる。出典はスイス連邦政府・swissinfo・UBS・スイス時計協会ほか。</description>
