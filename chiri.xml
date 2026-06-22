@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Mon, 22 Jun 2026 05:34:29 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 05:34:29 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 05:24:29 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 05:24:29 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>シンガポール — 望まれずに生まれた国が、世界トップクラスの富を築くまで</title>
+      <description>世界の国はシンガポール。東京23区ほどの島国で、資源も水もなく、1965年にマレーシアから126対0で追放されて生まれた国が、なぜ一人あたりGDP世界トップ3の豊かさに至ったのか。①涙の独立までの建国史（テマセク〜ラッフルズの自由港〜昭南島）②弱点を武器に変えた仕掛け（マラッカ海峡と世界2位の港・汚職ゼロと高給・持ち家9割の国防論理・水を作るNEWater）と『なぜ他国は真似できないのか』③ガム禁止や車のCOE・庭園都市・『死刑つきディズニーランド』まで、罰金大国の光と影。出典はシンガポール政府(PUB/HDB/NLB)・IMF・World Bank・UNESCOほか。</description>
+      <itunes:summary>世界の国はシンガポール。東京23区ほどの島国で、資源も水もなく、1965年にマレーシアから126対0で追放されて生まれた国が、なぜ一人あたりGDP世界トップ3の豊かさに至ったのか。①涙の独立までの建国史（テマセク〜ラッフルズの自由港〜昭南島）②弱点を武器に変えた仕掛け（マラッカ海峡と世界2位の港・汚職ゼロと高給・持ち家9割の国防論理・水を作るNEWater）と『なぜ他国は真似できないのか』③ガム禁止や車のCOE・庭園都市・『死刑つきディズニーランド』まで、罰金大国の光と影。出典はシンガポール政府(PUB/HDB/NLB)・IMF・World Bank・UNESCOほか。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 05:24:29 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-23.mp3" length="12996483" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-23.mp3</guid>
+      <itunes:duration>00:13:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>川越 — 火事が生んだ「小江戸」、住民が守った黒い町並み</title>
       <description>駅と周辺地域は埼玉・川越。あの蔵造りは江戸の遺産ではなく明治の大火が起点です。①太田道灌が江戸城と同年に築いた双子の城と、新河岸川の舟運で「江戸の台所」になった経緯（藩主8人が老中・大老級、九十九曲りの土木の知恵）②1893年の大火で生まれた蔵造りを、衰退の末に住民が「町づくり規範」で守り直し1999年に重伝建になった逆転の物語（空襲俗説の否定も）③焼き芋の『栗より美味い十三里』のダジャレ、関東大震災が生んだ菓子屋横丁、バラバラな3つの駅。出典は川越市・総務省・文化庁・Wikipediaほか。</description>
