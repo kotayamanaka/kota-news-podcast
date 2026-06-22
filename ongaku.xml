@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
-    <pubDate>Mon, 22 Jun 2026 04:55:13 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 04:55:13 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 04:55:36 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 04:55:36 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：Mr.Children（ミスチル・国民的バンドの正体）</title>
+      <description>今日のアーティストは『Mr.Children』。①歩み＝高校軽音から1992年デビュー、CROSS ROADのロングヒット、イノセントワールド・トゥモローネバーノウズの大ブレイク、1997年活動休止と終わりなき旅での復帰、2002年の病からの再起。30年メンバー無交代 ②記録となぜ売れたか＝1位シングル32作・1位アルバム21作（男性歴代2位）、名もなき詩の初週120万枚=史上初の初週ミリオン。プロデューサー小林武史との分担、ノンタイアップのシーソーゲーム180万枚が示した曲の力、J-POPの文法になった理由 ③なぜ刺さるか＝桜井和寿の弱さ・矛盾を書く歌詞と、Kan Sanoが分析する和音の妙、言葉×編曲×演奏の三位一体。出典：Wikipedia各曲ページ、オリコン、Real Sound、関ジャムほか。</description>
+      <itunes:summary>今日のアーティストは『Mr.Children』。①歩み＝高校軽音から1992年デビュー、CROSS ROADのロングヒット、イノセントワールド・トゥモローネバーノウズの大ブレイク、1997年活動休止と終わりなき旅での復帰、2002年の病からの再起。30年メンバー無交代 ②記録となぜ売れたか＝1位シングル32作・1位アルバム21作（男性歴代2位）、名もなき詩の初週120万枚=史上初の初週ミリオン。プロデューサー小林武史との分担、ノンタイアップのシーソーゲーム180万枚が示した曲の力、J-POPの文法になった理由 ③なぜ刺さるか＝桜井和寿の弱さ・矛盾を書く歌詞と、Kan Sanoが分析する和音の妙、言葉×編曲×演奏の三位一体。出典：Wikipedia各曲ページ、オリコン、Real Sound、関ジャムほか。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 04:55:36 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-23.mp3" length="11024134" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-23.mp3</guid>
+      <itunes:duration>00:11:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>音楽ラジオ：Mrs. GREEN APPLE（絶頂で止まり、最強で帰ってきたバンド）</title>
       <description>今日のアーティストは『Mrs. GREEN APPLE』。①歩み＝人気上り調子の2020年に自ら活動休止「フェーズ1完結」、2022年に3人で再始動した独特の章立て ②記録と理由＝日本レコード大賞をケセラセラ・ライラック・ダーリンで3年連続受賞（バンド史上初）、ビルボードジャパン年間アーティスト1位の連覇、J-POP初の国内累計100億ストリーム。なぜ売れたか＝『間口の広さ』と『奥行きの深さ』の両取り（嵐以来と分析） ③強さの源＝大森元貴さん一人に作詞作曲から世界観・演出まで集約された作家性と、サブスク時代を見据えた曲作り。出典：Billboard JAPAN、博報堂DY×日経クロストレンド、美術手帖ほか。</description>
