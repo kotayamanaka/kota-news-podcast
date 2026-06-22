@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Mon, 22 Jun 2026 03:47:42 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 03:47:42 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 03:48:48 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:48:48 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：キーボードで全部呼び出すAIランチャー、Raycast for Windows</title>
+      <description>Macで人気のキーボード起点ランチャーRaycastが2025年11月にWindows版を公開。本体無料・ベータ中はAIも無料。①Alt+Spaceで検索窓を呼び出し、アプリ起動・クリップボード履歴・拡張機能（React/TypeScript製、数千）で『探して操作する』まで一気に。②なぜ創業から5年もMac専用だったか——Windowsに使える全体ファイル索引が無く、RustでNTFSの管理台帳を直読みする索引エンジンを自作。土台はOSごとにネイティブ、画面はWeb技術で共通という二層構成。③始め方（winget install raycast）と注意点：まだベータでMac版にない機能あり（クラウド同期/メモ等）、AI入力はRaycastサーバー経由で外部AIに転送＝機密は入れない、無料の対抗馬PowerToys・Flow Launcher。出典：Raycast公式ブログ/技術ディープダイブ/公式pricing・マニュアル、TechCrunch。</description>
+      <itunes:summary>Macで人気のキーボード起点ランチャーRaycastが2025年11月にWindows版を公開。本体無料・ベータ中はAIも無料。①Alt+Spaceで検索窓を呼び出し、アプリ起動・クリップボード履歴・拡張機能（React/TypeScript製、数千）で『探して操作する』まで一気に。②なぜ創業から5年もMac専用だったか——Windowsに使える全体ファイル索引が無く、RustでNTFSの管理台帳を直読みする索引エンジンを自作。土台はOSごとにネイティブ、画面はWeb技術で共通という二層構成。③始め方（winget install raycast）と注意点：まだベータでMac版にない機能あり（クラウド同期/メモ等）、AI入力はRaycastサーバー経由で外部AIに転送＝機密は入れない、無料の対抗馬PowerToys・Flow Launcher。出典：Raycast公式ブログ/技術ディープダイブ/公式pricing・マニュアル、TechCrunch。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 03:48:48 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-23.mp3" length="13218420" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-23.mp3</guid>
+      <itunes:duration>00:13:46</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：仕様駆動開発とGitHub Spec Kit — AIに、いきなりコードを書かせない</title>
       <description>AIに思いつきで作らせる『バイブコーディング』を卒業する流儀、仕様駆動開発(Spec-Driven Development)とGitHubのオープンソース『Spec Kit』を解説。①なぜノリ書きは破綻するのか＝意図こそ真実の源。Veracode調べでAI生成コードの45%にセキュリティ欠陥、Replitの本番DB削除事件。constitution→specify→plan→tasks→implementの段階。②本音の実力＝2025年9月公開・30以上のツール対応・星10万超、AWSのKiroと航空宇宙由来のEARS記法、CTOが実測『10倍遅い』と手戻り前払い論、『ウォーターフォールの逆襲』批判、新規には効くが巨大既存には弱い、GitHub自身が『実験』と明言。③始め方＝無料OSSでかかるのはLLM代だけ。uv→specify init→/speckit.の3ステップ、各段階レビュー必須。出典：GitHub公式Blog/README、AWS Kiro、Scott Logic、marmelab ほか。</description>

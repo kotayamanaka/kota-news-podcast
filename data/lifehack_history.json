@@ -192,5 +192,33 @@
       "無料OSS かかるのはLLM利用料 レイヤー",
       "各段階レビュー必須 小タスクには過剰 銀の弾丸ではない"
     ]
+  },
+  {
+    "date": "2026-06-23",
+    "theme": "キーボードで全部呼び出すAIランチャー、Raycast for Windows",
+    "keywords": [
+      "Raycast レイキャスト",
+      "ランチャー キーボード起点 Alt+Space",
+      "2025年11月20日 Windows公開ベータ 本体無料",
+      "Raycast 2.0 2026年5月14日 再設計ベータ",
+      "創業2020 ロンドン Thomas Paul Mann Petr Nikolaev 元Facebook",
+      "2024年9月 シリーズB 30M Atomico GitHub/Shopify/Vercel CEO個人出資",
+      "クリップボード履歴 無料3ヶ月 スニペット Quicklinks ウィンドウ管理",
+      "拡張機能 React TypeScript 数千 Windows300本",
+      "探すで止まるSpotlight vs 探して操作する 拡張ストア",
+      "なぜWindows5年 動かすのは簡単feel rightが難しい",
+      "Windowsに全体ファイル索引なし Rustで自作 NTFS MFT直読み 数秒で索引化",
+      "二層構成 OSごとネイティブ土台＋WebView共通フロント Electron不使用",
+      "Quick AI ベータ無料 GPT-5 mini Tabで引用付き回答",
+      "AIチャット MCP Windows対応 v0.65 2026-06-18",
+      "winget install raycast Microsoft Store Win10/11",
+      "Pro 年8ドル/月 Advanced AI +8ドル",
+      "AI入力クラウド Raycastサーバー経由 機密入れるな",
+      "無料の対抗 PowerToys Run Flow Launcher 軽い",
+      "拡張サンドボックスなし 公式が悪意拡張あり得ると自認",
+      "メモリ食い Flowの2-3倍 350-450MB",
+      "日本語UI未対応 Ctrl+Space IME競合",
+      "Macユーザーが里帰り 逆転現象 XDAレビュー"
+    ]
   }
 ]
