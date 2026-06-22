@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Mon, 22 Jun 2026 03:33:23 +0900</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2026 03:33:23 +0900</lastBuildDate>
+    <pubDate>Tue, 23 Jun 2026 03:36:22 +0900</pubDate>
+    <lastBuildDate>Tue, 23 Jun 2026 03:36:22 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>獺祭 — 倒産寸前から世界一へ、米を四分の一まで磨く酒</title>
+      <description>酒ラジオ・日本酒回は山口・旭酒造の純米大吟醸「獺祭（だっさい）」。①名前の由来（地名「獺越」＋正岡子規の号「獺祭書屋主人」）とどん底からの逆転劇、②お米を23パーセントまで磨く理由と、他蔵が真似できない「米・手間・仕組み」3つの壁（山田錦、賞金4千万円の酒米コンテスト、杜氏なしのデータ醸造、12階建ての酒蔵）、③味わい（45は華やか・二割三分はクリア）と公式推奨の飲み方、「お願いです。高く買わないでください」の新聞広告。出典：獺祭公式・SAKETIMES・日経・ITmedia ほか。</description>
+      <itunes:summary>酒ラジオ・日本酒回は山口・旭酒造の純米大吟醸「獺祭（だっさい）」。①名前の由来（地名「獺越」＋正岡子規の号「獺祭書屋主人」）とどん底からの逆転劇、②お米を23パーセントまで磨く理由と、他蔵が真似できない「米・手間・仕組み」3つの壁（山田錦、賞金4千万円の酒米コンテスト、杜氏なしのデータ醸造、12階建ての酒蔵）、③味わい（45は華やか・二割三分はクリア）と公式推奨の飲み方、「お願いです。高く買わないでください」の新聞広告。出典：獺祭公式・SAKETIMES・日経・ITmedia ほか。</itunes:summary>
+      <pubDate>Tue, 23 Jun 2026 03:36:22 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-23.mp3" length="9086475" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-23.mp3</guid>
+      <itunes:duration>00:09:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>山崎 — 1億円ボトルの正体、ミズナラ樽が生むジャパニーズウイスキーの凄み</title>
       <description>酒ラジオ・ウイスキー回はサントリーのシングルモルト『山崎』。①1923年・鳥井信治郎の挑戦と「失敗が資産に化けた」白札の物語、②白檀や伽羅を思わせるミズナラ樽の香りと、希少性・時間という他国に真似できない理由、③ジム・マレー97.5点で世界一に輝いた評価、飲み方と品薄の背景。先月の山崎50年・約1億円落札（Bonhams香港）も。出典：サントリー公式、Wikipedia、TIME、Bonhamsほか。</description>
