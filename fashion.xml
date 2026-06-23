@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Tue, 23 Jun 2026 03:26:05 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 03:26:05 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 03:17:42 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:17:42 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ステューシー（2026-06-24）</title>
+      <description>ストリートウェアの元祖ステューシーを深掘り。サーフボード職人ショーン・ステューシーが自分のボードに書いた手書きサインがロゴになった創業の物語（おまけのTシャツが本業を追い越した理由、会計士フランク・シナトラ・ジュニアとの法人化、1996年の離脱）、ワールドツアーTに込めた「ストリートはハイファッションと対等」という宣言とカルチャー混合の哲学、そして『インターナショナル・ステューシー・トライブ』が示す“後発が金で買えない元祖の強さ”を3つのポイントで。シュプリームのジェビアや藤原ヒロシとの系譜も。出典：英語版Wikipedia、Complex『Oral History of Stüssy』、Stüssy公式、UCLA等。</description>
+      <itunes:summary>ストリートウェアの元祖ステューシーを深掘り。サーフボード職人ショーン・ステューシーが自分のボードに書いた手書きサインがロゴになった創業の物語（おまけのTシャツが本業を追い越した理由、会計士フランク・シナトラ・ジュニアとの法人化、1996年の離脱）、ワールドツアーTに込めた「ストリートはハイファッションと対等」という宣言とカルチャー混合の哲学、そして『インターナショナル・ステューシー・トライブ』が示す“後発が金で買えない元祖の強さ”を3つのポイントで。シュプリームのジェビアや藤原ヒロシとの系譜も。出典：英語版Wikipedia、Complex『Oral History of Stüssy』、Stüssy公式、UCLA等。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 03:17:42 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-24.mp3" length="11591305" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-24.mp3</guid>
+      <itunes:duration>00:12:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>アディダス（2026-06-23）</title>
       <description>世界2位のスポーツブランド、アディダスを深掘り。実の兄弟ダスラーが決裂してアディダスとプーマに分かれた創業の物語（兄弟が眠る「首の曲がった町」、1936年ベルリン五輪のジェシー・オーエンス、1954年ベルンの奇跡）、補強テープが起源の三本線・カルフからの買収逸話・スタンスミス／Run-D.M.C.「My Adidas」の名作秘話、そしてW杯公式球を1970年テルスターから作り続ける「関係と実績の資本」というブランド力の正体、イージー契約解消からの復活までを3つのポイントで。出典：adidas公式・FIFA・ギネス世界記録・各社IR・大手メディア。</description>
