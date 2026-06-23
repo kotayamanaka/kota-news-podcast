@@ -220,5 +220,33 @@
       "日本語UI未対応 Ctrl+Space IME競合",
       "Macユーザーが里帰り 逆転現象 XDAレビュー"
     ]
+  },
+  {
+    "date": "2026-06-24",
+    "theme": "自分の声を持つAIをつくる 音声クローン（voice cloning）入門",
+    "keywords": [
+      "音声クローン voice cloning",
+      "話者埋め込み speaker embedding 声の指紋 ベクトル",
+      "話者照合 speaker verification 由来 オッケーグーグル",
+      "昔は連結合成 録音断片つなぎ合わせ 録り直し必要",
+      "音声を言語モデル化 次の音を予測",
+      "Microsoft VALL-E 2023 3秒 6万時間 LibriLight",
+      "VALL-E 2 2024 人間並み human parity 非公開",
+      "OpenAI Voice Engine 15秒 一般非公開",
+      "instant clone 教育された推測 vs professional 30分〜数時間",
+      "Fish Audio 10秒 無料は個人利用のみ 商用は有料 日本語対応",
+      "ElevenLabs 1〜2分 商用月6ドル PVC本人確認 月11ドル(通常22)",
+      "OSS GPT-SoVITS RVC XTTS GPU Colab",
+      "日本語 高低アクセント 橋/箸 雨/飴 ピッチが最大の目印",
+      "海外製は日本語データ少なく不自然 CoeFont VOICEVOX",
+      "3分超で品質低下 静かな部屋 1人",
+      "Shell Game 2024 Evan Ratliff 自分の声クローン Apple/Economist年間ベスト",
+      "香港Arup 2024 2560万ドル 約38億円 ディープフェイクビデオ会議 全員ニセ",
+      "FTC 2023 家族の声 祖父母詐欺 警告",
+      "偽バイデン ロボコール 2024 FCC違法宣言 600万ドル罰金提案 制作は路上マジシャン150ドル",
+      "津田健次郎 2026 TikTok提訴 国内初級 声の無断AI模倣",
+      "伊藤忠×日本俳優連合 声を守るDB 電子透かし 声紋 2500人",
+      "電子透かし 規制 完全には防げない 自分か許可した声だけ"
+    ]
   }
 ]
