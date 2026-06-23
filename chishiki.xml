@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Tue, 23 Jun 2026 04:17:52 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 04:17:52 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 04:32:37 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:32:37 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：経営者・永守重信（プレハブ4人から世界一のモーター企業へ）</title>
+      <description>経営者特集は日本電産（現ニデック）創業者・永守重信。①自宅プレハブ・4人で創業し、米3Mへの売り込み実績を日本に逆輸入して信用をゼロから築いた話 ②リストラせず買収先を1年ほどで黒字化する『回るもの、動くもの』M&amp;A——三協精機の再建を例に、なぜ可能か/なぜ他社に真似できないか（スピード・属人性・高粗利の自己強化ループ）まで ③早飯試験・大声試験、私財100億円超の大学改革と『京大を抜く』宣言、そして後継問題と引き際の難しさ。出典：ニデック公式社史・IR、日経、東洋経済、ダイヤモンド。</description>
+      <itunes:summary>経営者特集は日本電産（現ニデック）創業者・永守重信。①自宅プレハブ・4人で創業し、米3Mへの売り込み実績を日本に逆輸入して信用をゼロから築いた話 ②リストラせず買収先を1年ほどで黒字化する『回るもの、動くもの』M&amp;A——三協精機の再建を例に、なぜ可能か/なぜ他社に真似できないか（スピード・属人性・高粗利の自己強化ループ）まで ③早飯試験・大声試験、私財100億円超の大学改革と『京大を抜く』宣言、そして後継問題と引き際の難しさ。出典：ニデック公式社史・IR、日経、東洋経済、ダイヤモンド。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 04:32:37 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-24.mp3" length="9757300" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-24.mp3</guid>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：フリクション（消えるペンは「消えていない」）</title>
       <description>商品特集はパイロットのフリクション。①こすると消えるのは錯覚で、温度で色を透明にしているだけ——メタモインキの3成分（色のもと・相手役・温度で働く仲介役）が手をつなぎ、離す仕組み ②紅葉から着想し特許1975年、おもちゃとして30年生き延びた技術がなぜ他社に真似できなかったのか（カプセルの微細化・温度設計のトレードオフ・三菱鉛筆との特許争いと2018年和解） ③日本より先に欧州で売れた逆輸入ヒットと、改ざんできるがゆえの公的書類NG問題。出典はパイロット公式、nippon.com、JAF、日経ほか。世界累計50億本。</description>
