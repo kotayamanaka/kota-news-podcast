@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
-    <pubDate>Tue, 23 Jun 2026 04:55:36 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 04:55:36 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 04:52:19 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:52:19 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：Vaundy（バウンディ・設計とデザインで国民的になった人）</title>
+      <description>今日のアーティストは『Vaundy』。①歩み＝2019年YouTube投稿から出発、東京フラッシュで注目、2020年の怪獣の花唄が2年半後の2022年紅白初出場で全国へ。2026年に男性ソロ史上最年少の4大ドームツアー ②数字となぜ聴かれるか＝怪獣の花唄がストリーミング累計10億回をソロ史上最年少で達成、11億回は日本史上3曲目、1億回超え18曲はソロ最多。5秒のつかみと『わざとズラす』中毒性の設計 ③なぜ真似できないか＝作詞作曲編曲は本人単独、ビジュアルもディレクションで統括。日本大学芸術学部デザイン学科出身で『ポップスはデザイン』、2ndアルバムreplicaは卒業制作・ケース原型をCADで自作、レプリカ哲学。出典：Billboard JAPAN、日本経済新聞、日経クロストレンド、カドブン、日本大学新聞ほか。</description>
+      <itunes:summary>今日のアーティストは『Vaundy』。①歩み＝2019年YouTube投稿から出発、東京フラッシュで注目、2020年の怪獣の花唄が2年半後の2022年紅白初出場で全国へ。2026年に男性ソロ史上最年少の4大ドームツアー ②数字となぜ聴かれるか＝怪獣の花唄がストリーミング累計10億回をソロ史上最年少で達成、11億回は日本史上3曲目、1億回超え18曲はソロ最多。5秒のつかみと『わざとズラす』中毒性の設計 ③なぜ真似できないか＝作詞作曲編曲は本人単独、ビジュアルもディレクションで統括。日本大学芸術学部デザイン学科出身で『ポップスはデザイン』、2ndアルバムreplicaは卒業制作・ケース原型をCADで自作、レプリカ哲学。出典：Billboard JAPAN、日本経済新聞、日経クロストレンド、カドブン、日本大学新聞ほか。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 04:52:19 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-24.mp3" length="10787151" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-06-24.mp3</guid>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>音楽ラジオ：Mr.Children（ミスチル・国民的バンドの正体）</title>
       <description>今日のアーティストは『Mr.Children』。①歩み＝高校軽音から1992年デビュー、CROSS ROADのロングヒット、イノセントワールド・トゥモローネバーノウズの大ブレイク、1997年活動休止と終わりなき旅での復帰、2002年の病からの再起。30年メンバー無交代 ②記録となぜ売れたか＝1位シングル32作・1位アルバム21作（男性歴代2位）、名もなき詩の初週120万枚=史上初の初週ミリオン。プロデューサー小林武史との分担、ノンタイアップのシーソーゲーム180万枚が示した曲の力、J-POPの文法になった理由 ③なぜ刺さるか＝桜井和寿の弱さ・矛盾を書く歌詞と、Kan Sanoが分析する和音の妙、言葉×編曲×演奏の三位一体。出典：Wikipedia各曲ページ、オリコン、Real Sound、関ジャムほか。</description>
