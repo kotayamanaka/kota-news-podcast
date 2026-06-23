@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Tue, 23 Jun 2026 04:58:47 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 04:58:47 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 04:51:23 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:51:23 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『アオアシ』（必殺技のないサッカー漫画はなぜ一番面白いのか）</title>
+      <description>小林有吾のサッカー漫画『アオアシ』(週刊ビッグコミックスピリッツ・2015〜2025・全40巻・累計2400万部)を、人に語れるように深掘り。①誰も描かなかったJユース育成を正面から描いた新しさと『主人公に点を取らせない』という覚悟②全体を見渡す俯瞰の才能と、FWから左サイドバックへのコンバートの妙(モデルはバルセロナのシャビ)③戦術書・ビジネス書としてまで読まれる仕組み(中村憲剛らプロの太鼓判、Jリーグ公式教材、DHBR特集)。マンガ大賞2017第4位・第65回小学館漫画賞受賞。2022年NHK Eテレでアニメ化、シーズン2が2026年秋予定。出典:日英Wikipedia・Number Web・Jリーグ公式・ダイヤモンド ハーバード ビジネス レビュー・愛媛FC公式ほか。</description>
+      <itunes:summary>小林有吾のサッカー漫画『アオアシ』(週刊ビッグコミックスピリッツ・2015〜2025・全40巻・累計2400万部)を、人に語れるように深掘り。①誰も描かなかったJユース育成を正面から描いた新しさと『主人公に点を取らせない』という覚悟②全体を見渡す俯瞰の才能と、FWから左サイドバックへのコンバートの妙(モデルはバルセロナのシャビ)③戦術書・ビジネス書としてまで読まれる仕組み(中村憲剛らプロの太鼓判、Jリーグ公式教材、DHBR特集)。マンガ大賞2017第4位・第65回小学館漫画賞受賞。2022年NHK Eテレでアニメ化、シーズン2が2026年秋予定。出典:日英Wikipedia・Number Web・Jリーグ公式・ダイヤモンド ハーバード ビジネス レビュー・愛媛FC公式ほか。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 04:51:23 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-24.mp3" length="13512663" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-24.mp3</guid>
+      <itunes:duration>00:14:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『異世界おじさん』シーズン1（すれ違いの笑い・セガ公認・受難の放送史）</title>
       <description>2022年放送のアニメ『異世界おじさん』(原作:殆ど死んでいる/制作:アトリエ・ポンテダルク/全13話)を、人に語れるように深掘り。①ツンデレ概念を知らないまま異世界へ行ったおじさんが好意を悪意と誤解する『ドラマティック・アイロニー』の構造②原作の伏せ字を本家が公式に公認した稀有なセガ愛(2019年メガドラミニ→2021年公認・ソニックコラボ)③コロナで3度延期し主人公さながら受難した放送史。Anime News Networkの2022年ベストアニメ第4位、原作は150万部→555万部へ。出典:日英Wikipedia・Anime News Network・KADOKAWA公式/PR TIMES・コミックナタリー・ファミ通ほか。</description>
