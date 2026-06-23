@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Tue, 23 Jun 2026 03:36:22 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 03:36:22 +0900</lastBuildDate>
+    <pubDate>Wed, 24 Jun 2026 03:32:42 +0900</pubDate>
+    <lastBuildDate>Wed, 24 Jun 2026 03:32:42 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>黒霧島 — 平成生まれの芋焼酎が、王者いいちこを抜いた理由</title>
+      <description>酒ラジオ・焼酎回は宮崎・霧島酒造の芋焼酎「黒霧島（くろきりしま）」。①名前の「黒」は黒麹のこと、創業の味への原点回帰として1998年に誕生し、十数年で麦焼酎いいちこ（三和酒類）を抜き2012年に焼酎売上日本一へ、②黒麹のクエン酸が腐敗を防ぎ南九州でも安定大量生産できる仕組みと、黄金千貫・霧島裂罅水という土地に縛られた強み、③「トロッとキリッと」の味わいと、お湯割り・黒ッキリボールの楽しみ方。出典：霧島酒造公式・日本経済新聞・西日本新聞ほか。</description>
+      <itunes:summary>酒ラジオ・焼酎回は宮崎・霧島酒造の芋焼酎「黒霧島（くろきりしま）」。①名前の「黒」は黒麹のこと、創業の味への原点回帰として1998年に誕生し、十数年で麦焼酎いいちこ（三和酒類）を抜き2012年に焼酎売上日本一へ、②黒麹のクエン酸が腐敗を防ぎ南九州でも安定大量生産できる仕組みと、黄金千貫・霧島裂罅水という土地に縛られた強み、③「トロッとキリッと」の味わいと、お湯割り・黒ッキリボールの楽しみ方。出典：霧島酒造公式・日本経済新聞・西日本新聞ほか。</itunes:summary>
+      <pubDate>Wed, 24 Jun 2026 03:32:42 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-24.mp3" length="11490158" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-24.mp3</guid>
+      <itunes:duration>00:11:58</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>獺祭 — 倒産寸前から世界一へ、米を四分の一まで磨く酒</title>
       <description>酒ラジオ・日本酒回は山口・旭酒造の純米大吟醸「獺祭（だっさい）」。①名前の由来（地名「獺越」＋正岡子規の号「獺祭書屋主人」）とどん底からの逆転劇、②お米を23パーセントまで磨く理由と、他蔵が真似できない「米・手間・仕組み」3つの壁（山田錦、賞金4千万円の酒米コンテスト、杜氏なしのデータ醸造、12階建ての酒蔵）、③味わい（45は華やか・二割三分はクリア）と公式推奨の飲み方、「お願いです。高く買わないでください」の新聞広告。出典：獺祭公式・SAKETIMES・日経・ITmedia ほか。</description>
