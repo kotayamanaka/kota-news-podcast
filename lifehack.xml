@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 24 Jun 2026 03:54:05 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 03:54:05 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 08:45:37 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:45:37 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：ナノバナナ — 写真をAIに『会話で』直してもらう</title>
+      <description>Googleの画像AI『ナノバナナ』(Gemini 2.5 Flash Image)と進化版ナノバナナ・プロ(Gemini 3 Pro Image)を3本立てで。①なぜ会話で部分修正できるのか — 言葉と画像を一つの頭で扱い、元画像を保持して『服だけ』を意味で狙い撃ちし、世界の物理知識で絵の辻褄を合わせる仕組み（LMArenaで覆面のまま1位）。②今日から真似できる使い方 — 古い写真の修復・カラー化、自撮り1枚から証明写真、撮り直しなしの商品写真、日本語の文字も描ける図解づくり。③始め方と注意点 — Geminiアプリで無料、SynthID電子透かし、図解の中身は鵜呑み禁止、学習設定・他者の権利・偽画像の悪用。出典：Google公式ブログ/DeepMind/LMArena ほか。</description>
+      <itunes:summary>Googleの画像AI『ナノバナナ』(Gemini 2.5 Flash Image)と進化版ナノバナナ・プロ(Gemini 3 Pro Image)を3本立てで。①なぜ会話で部分修正できるのか — 言葉と画像を一つの頭で扱い、元画像を保持して『服だけ』を意味で狙い撃ちし、世界の物理知識で絵の辻褄を合わせる仕組み（LMArenaで覆面のまま1位）。②今日から真似できる使い方 — 古い写真の修復・カラー化、自撮り1枚から証明写真、撮り直しなしの商品写真、日本語の文字も描ける図解づくり。③始め方と注意点 — Geminiアプリで無料、SynthID電子透かし、図解の中身は鵜呑み禁止、学習設定・他者の権利・偽画像の悪用。出典：Google公式ブログ/DeepMind/LMArena ほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 08:45:37 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-25.mp3" length="11967050" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：自分の声を持つAIをつくる 音声クローン入門</title>
       <description>数秒の声で本人そっくりの音声を作る『音声クローン』を、仕組み・作り方・落とし穴の3本立てで。①声を数字のベクトル=声の指紋に圧縮する話者埋め込みの仕組み（MS VALL-Eは3秒、OpenAI Voice Engineは15秒、ただし非公開）。②今日試せるツール（Fish Audioは10秒・無料で体験/ElevenLabsは1〜2分・商用月6ドル〜・本格版は本人確認付き、日本語の高低アクセントの壁、日本語特化のCoeFont・VOICEVOX）。③なりすまし詐欺の現実（香港Arupで約38億円を奪ったディープフェイク会議、偽バイデンのロボコールにFCCが違法宣言、声優・津田健次郎さんのTikTok提訴、伊藤忠×日本俳優連合の声を守るDB）。便利さと両刃の剣を正直に。出典：arXiv、ElevenLabs/Fish Audio公式、FTC/FCC、CNN、日経。</description>
