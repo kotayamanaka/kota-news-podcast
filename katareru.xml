@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Tue, 23 Jun 2026 05:40:37 +0900</pubDate>
-    <lastBuildDate>Tue, 23 Jun 2026 05:40:37 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 08:48:22 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 08:48:22 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>「水はやべぇだろ」について語れるようになりたい</title>
+      <description>2026年上半期トレンド・コトバ部門10位の「水はやべぇだろ」を3つの視点で深掘り。①お酒をかけ返しながら『水はやべぇだろ』と怒る言行不一致の面白さと、ベイビーさんの生い立ちという二段構え②台本なしで世界8位・韓国TOP10初の快挙はなぜ起きたか（フィクション経由で輸入済みの日本ヤンキー像×実在の二重の珍しさ）③木村花さん事件後の逆風をなぜ乗り越えられたのか＝元ヤンキーという出演者母集団と3年の制作。元ネタはNetflix『ラヴ上等』。出典：マイナビ/Netflix公式/ダ・ヴィンチWeb/CINRA/WWDJAPANほか。</description>
+      <itunes:summary>2026年上半期トレンド・コトバ部門10位の「水はやべぇだろ」を3つの視点で深掘り。①お酒をかけ返しながら『水はやべぇだろ』と怒る言行不一致の面白さと、ベイビーさんの生い立ちという二段構え②台本なしで世界8位・韓国TOP10初の快挙はなぜ起きたか（フィクション経由で輸入済みの日本ヤンキー像×実在の二重の珍しさ）③木村花さん事件後の逆風をなぜ乗り越えられたのか＝元ヤンキーという出演者母集団と3年の制作。元ネタはNetflix『ラヴ上等』。出典：マイナビ/Netflix公式/ダ・ヴィンチWeb/CINRA/WWDJAPANほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 08:48:22 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-25.mp3" length="11403641" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:11:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>「モナキ」について語れるようになりたい</title>
       <description>「ほんまやで☆なんでやねん☆しらんけど」で大バズり、平均年齢33歳のおじさん4人組「モナキ」を3つの視点で深掘り。①デビュー前にSNS総再生13億回・人気で会場が中止、振り付けが顔にかぶらずTikTokフィルターが外れない投稿設計②純烈リーダー酒井一圭の「ボツ曲拾い」とSNS全振り戦略、プレイヤーを降りたから攻められた逆転③純烈にしか作れない『やり直し』の物語と、10年かけた草の根の畑。出典：Wikipedia/デイリースポーツ/スポーツ報知/Mikiki/東スポほか。</description>
