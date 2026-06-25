@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Wed, 24 Jun 2026 04:51:23 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 04:51:23 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 09:09:43 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:09:43 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『教場 リユニオン』（木村拓哉の鬼教官と、配信×劇場の異例戦略）</title>
+      <description>木村拓哉主演「教場」シリーズ集大成の映画『教場 リユニオン』（2026・前編Netflix配信／後編劇場）を、人に語れるように深掘り。①白髪・義眼・無表情で『風間そのもの』と評される木村の演技論②原作（長岡弘樹、2013年・週刊文春ミステリーベスト10国内1位、シリーズ累計130万部超）が発明した『警察学校＝ふるい落とす場』という設定の緊張感③前編Netflix・後編劇場という異例の公開戦略がなぜ成立したか（フジ×Netflix契約・アジアで通じるスター・既存シリーズのファン基盤）。後編レクイエムは約10日で興収12.8億円・動員92万人。出典：映画.com・Filmarks・公式サイト・ORICON・PR TIMESほか。</description>
+      <itunes:summary>木村拓哉主演「教場」シリーズ集大成の映画『教場 リユニオン』（2026・前編Netflix配信／後編劇場）を、人に語れるように深掘り。①白髪・義眼・無表情で『風間そのもの』と評される木村の演技論②原作（長岡弘樹、2013年・週刊文春ミステリーベスト10国内1位、シリーズ累計130万部超）が発明した『警察学校＝ふるい落とす場』という設定の緊張感③前編Netflix・後編劇場という異例の公開戦略がなぜ成立したか（フジ×Netflix契約・アジアで通じるスター・既存シリーズのファン基盤）。後編レクイエムは約10日で興収12.8億円・動員92万人。出典：映画.com・Filmarks・公式サイト・ORICON・PR TIMESほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 09:09:43 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-25.mp3" length="12036013" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:12:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『アオアシ』（必殺技のないサッカー漫画はなぜ一番面白いのか）</title>
       <description>小林有吾のサッカー漫画『アオアシ』(週刊ビッグコミックスピリッツ・2015〜2025・全40巻・累計2400万部)を、人に語れるように深掘り。①誰も描かなかったJユース育成を正面から描いた新しさと『主人公に点を取らせない』という覚悟②全体を見渡す俯瞰の才能と、FWから左サイドバックへのコンバートの妙(モデルはバルセロナのシャビ)③戦術書・ビジネス書としてまで読まれる仕組み(中村憲剛らプロの太鼓判、Jリーグ公式教材、DHBR特集)。マンガ大賞2017第4位・第65回小学館漫画賞受賞。2022年NHK Eテレでアニメ化、シーズン2が2026年秋予定。出典:日英Wikipedia・Number Web・Jリーグ公式・ダイヤモンド ハーバード ビジネス レビュー・愛媛FC公式ほか。</description>
