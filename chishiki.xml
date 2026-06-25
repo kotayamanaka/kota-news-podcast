@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Wed, 24 Jun 2026 04:32:37 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 04:32:37 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 09:06:26 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:06:26 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：総合商社――なぜ日本にしかない？バフェットが惚れた理由</title>
+      <description>業界特集は『総合商社』。①なぜ日本にしか育たなかったのか（鎖国・後発・資本市場の未発達と、三菱＝九十九商会・三井物産・近江商人系の伊藤忠/丸紅という起源）②『商社不要論』からの逆転――口銭=仲介から事業投資のオーナーへ。住友の銅事件や双日・豊田通商への再編も ③なぜ他国は真似できないのか＆ウォーレン・バフェットが五大商社に惚れ込んだ理由（140年の参入障壁、円建て調達と配当の妙味）。商社マンの年収・就活人気にも。出典：各社IR、日本貿易会、日経・東洋経済、バークシャー株主書簡ほか。</description>
+      <itunes:summary>業界特集は『総合商社』。①なぜ日本にしか育たなかったのか（鎖国・後発・資本市場の未発達と、三菱＝九十九商会・三井物産・近江商人系の伊藤忠/丸紅という起源）②『商社不要論』からの逆転――口銭=仲介から事業投資のオーナーへ。住友の銅事件や双日・豊田通商への再編も ③なぜ他国は真似できないのか＆ウォーレン・バフェットが五大商社に惚れ込んだ理由（140年の参入障壁、円建て調達と配当の妙味）。商社マンの年収・就活人気にも。出典：各社IR、日本貿易会、日経・東洋経済、バークシャー株主書簡ほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 09:06:26 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-25.mp3" length="12275504" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:12:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：経営者・永守重信（プレハブ4人から世界一のモーター企業へ）</title>
       <description>経営者特集は日本電産（現ニデック）創業者・永守重信。①自宅プレハブ・4人で創業し、米3Mへの売り込み実績を日本に逆輸入して信用をゼロから築いた話 ②リストラせず買収先を1年ほどで黒字化する『回るもの、動くもの』M&amp;A——三協精機の再建を例に、なぜ可能か/なぜ他社に真似できないか（スピード・属人性・高粗利の自己強化ループ）まで ③早飯試験・大声試験、私財100億円超の大学改革と『京大を抜く』宣言、そして後継問題と引き際の難しさ。出典：ニデック公式社史・IR、日経、東洋経済、ダイヤモンド。</description>
