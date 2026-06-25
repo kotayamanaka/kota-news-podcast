@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 24 Jun 2026 03:17:42 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 03:17:42 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 09:55:16 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:55:16 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>コム・デ・ギャルソン｜服を習わなかった人が常識を壊し続けた話</title>
+      <description>あの赤いハートのロゴでおなじみ、コム・デ・ギャルソン。創業者・川久保玲は服飾を学ばず独学で出発し、1981年パリで「黒の衝撃」を起こした。①素人だからこそ常識を壊せた創業の物語 ②世界一売れるハートのPLAYを本人はデザインしていないという哲学 ③前衛で格を作り身近なラインで稼ぐ二段構えと、なぜ他が真似できないのか。出典：Wikipedia(英/日)、メトロポリタン美術館、Hypebeast、Highsnobiety、System誌ほか。</description>
+      <itunes:summary>あの赤いハートのロゴでおなじみ、コム・デ・ギャルソン。創業者・川久保玲は服飾を学ばず独学で出発し、1981年パリで「黒の衝撃」を起こした。①素人だからこそ常識を壊せた創業の物語 ②世界一売れるハートのPLAYを本人はデザインしていないという哲学 ③前衛で格を作り身近なラインで稼ぐ二段構えと、なぜ他が真似できないのか。出典：Wikipedia(英/日)、メトロポリタン美術館、Hypebeast、Highsnobiety、System誌ほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 09:55:16 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-25.mp3" length="12202779" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:12:42</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ステューシー（2026-06-24）</title>
       <description>ストリートウェアの元祖ステューシーを深掘り。サーフボード職人ショーン・ステューシーが自分のボードに書いた手書きサインがロゴになった創業の物語（おまけのTシャツが本業を追い越した理由、会計士フランク・シナトラ・ジュニアとの法人化、1996年の離脱）、ワールドツアーTに込めた「ストリートはハイファッションと対等」という宣言とカルチャー混合の哲学、そして『インターナショナル・ステューシー・トライブ』が示す“後発が金で買えない元祖の強さ”を3つのポイントで。シュプリームのジェビアや藤原ヒロシとの系譜も。出典：英語版Wikipedia、Complex『Oral History of Stüssy』、Stüssy公式、UCLA等。</description>
