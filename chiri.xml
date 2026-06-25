@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Thu, 25 Jun 2026 09:28:38 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 09:28:38 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 05:28:00 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:28:00 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>下北沢 — 地図にない街、迷路が文化を生んだ理由</title>
+      <description>駅と周辺地域シリーズは東京・世田谷の下北沢。実は『下北沢』という住所は存在せず、正式には北沢・代沢です。①なぜ道が迷路になったのか（明治まで農村→関東大震災と鉄道で約20年で急速宅地化→区画整理されず→戦後闇市、補助54号線は住民反対で長く未実施）②なぜ演劇・古着・音楽の街になったのか（元俳優・本多一夫の飲食帝国が本多劇場グループ約8劇場に化け、地盤が弱く小区画で大資本が入れないからこそ個人店が連鎖した逆説）③小田急の地下化（2013年・踏切9か所廃止）と『再開発と言わなかった』支援型開発の下北線路街。出典: 世田谷区公式、本多劇場グループ、小田急電鉄、Time Out、英語版Wikipedia ほか。</description>
+      <itunes:summary>駅と周辺地域シリーズは東京・世田谷の下北沢。実は『下北沢』という住所は存在せず、正式には北沢・代沢です。①なぜ道が迷路になったのか（明治まで農村→関東大震災と鉄道で約20年で急速宅地化→区画整理されず→戦後闇市、補助54号線は住民反対で長く未実施）②なぜ演劇・古着・音楽の街になったのか（元俳優・本多一夫の飲食帝国が本多劇場グループ約8劇場に化け、地盤が弱く小区画で大資本が入れないからこそ個人店が連鎖した逆説）③小田急の地下化（2013年・踏切9か所廃止）と『再開発と言わなかった』支援型開発の下北線路街。出典: 世田谷区公式、本多劇場グループ、小田急電鉄、Time Out、英語版Wikipedia ほか。</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 05:28:00 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-26.mp3" length="11890563" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-26.mp3</guid>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>アイスランド — 立地を武器に変えてきた島</title>
       <description>世界の国シリーズはアイスランド。北海道よりやや広い土地に宮崎市ほどの人口39万人。①大西洋中央海嶺とホットスポットが重なる地質が地熱・水力ほぼ100%の電力を生み、輸出できない電気を『電気の缶詰』アルミに変えて売る仕組み（3工場で国の電力の8割）②王も軍隊も警察もないのに300年回ったアルシング＝世界最古級の議会と、千年変わらない言葉（コンピューター＝トルヴァ＝数を予言する巫女）③冷戦の地図を武器にタラ戦争で大英帝国に勝ち、2008年は銀行家36人を投獄、噴火という災害すら観光に変えた現代史。出典: Wikipedia（Iceland hotspot/Cod Wars/2008金融危機/Tourism）、Statistics Iceland、Energy in Iceland ほか。</description>
