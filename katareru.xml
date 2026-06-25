@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Thu, 25 Jun 2026 08:48:22 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 08:48:22 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 05:52:09 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 05:52:09 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>「夜の踊り子ミーム」について語れるようになりたい</title>
+      <description>サカナクションの14年前の楽曲『夜の踊り子』が世界的バズで自己最高記録を更新。①ミームの本当の主役は曲ではなくインドネシアの伝統ボートレース『パチュ・ジャルール』と船首で踊る少年（役名トガッ・ルアン、軽いから子どもが担う）②火付け役は日本でも欧米でもなく韓国で、国外再生の約8割が韓国という逆輸入構造③なぜ14年前の曲が初のストリーミング1位を取れたのか＝楽曲の地力と、本家・山口一郎が『漕ぎ手役』でバズに乗っかりコントロールを手放した決断。出典：オリコン/Billboard JAPAN/Japan Times/モデルプレス/Pacu Jalur関連報道ほか。</description>
+      <itunes:summary>サカナクションの14年前の楽曲『夜の踊り子』が世界的バズで自己最高記録を更新。①ミームの本当の主役は曲ではなくインドネシアの伝統ボートレース『パチュ・ジャルール』と船首で踊る少年（役名トガッ・ルアン、軽いから子どもが担う）②火付け役は日本でも欧米でもなく韓国で、国外再生の約8割が韓国という逆輸入構造③なぜ14年前の曲が初のストリーミング1位を取れたのか＝楽曲の地力と、本家・山口一郎が『漕ぎ手役』でバズに乗っかりコントロールを手放した決断。出典：オリコン/Billboard JAPAN/Japan Times/モデルプレス/Pacu Jalur関連報道ほか。</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 05:52:09 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-26.mp3" length="11338439" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-26.mp3</guid>
+      <itunes:duration>00:11:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>「水はやべぇだろ」について語れるようになりたい</title>
       <description>2026年上半期トレンド・コトバ部門10位の「水はやべぇだろ」を3つの視点で深掘り。①お酒をかけ返しながら『水はやべぇだろ』と怒る言行不一致の面白さと、ベイビーさんの生い立ちという二段構え②台本なしで世界8位・韓国TOP10初の快挙はなぜ起きたか（フィクション経由で輸入済みの日本ヤンキー像×実在の二重の珍しさ）③木村花さん事件後の逆風をなぜ乗り越えられたのか＝元ヤンキーという出演者母集団と3年の制作。元ネタはNetflix『ラヴ上等』。出典：マイナビ/Netflix公式/ダ・ヴィンチWeb/CINRA/WWDJAPANほか。</description>
