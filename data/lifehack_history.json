@@ -274,5 +274,32 @@
       "学習利用はアクティビティ設定でオフ可 他者の権利は守られない",
       "悪用 偽身分証 印 Aadhaar PAN 著名人ディープフェイク"
     ]
+  },
+  {
+    "date": "2026-06-26",
+    "theme": "AIに仕事を投げて寝て待つ：非同期・並列のクラウドAIコーディングエージェント",
+    "keywords": [
+      "非同期コーディングエージェント",
+      "バックグラウンドエージェント",
+      "投げて放っておく fire-and-forget",
+      "マイクロVM Firecracker 0.125秒 5MB未満 使い捨て作業部屋",
+      "E2B cloud sandbox",
+      "自走ループ 計画-編集-テスト-自己修正 tool use long context",
+      "SWE-bench 2023末1.96% 2024年33-49% 2025末80%超",
+      "データ汚染 カンニング 商用コードは2割",
+      "成果物はプルリクで人間のレビュー門に乗る 自分のPRは自分で承認できない",
+      "GitHub Copilot coding agent issueアサイン Project Padawan 月10ドルPro",
+      "OpenAI Codex クラウド版2025-05-16 並列 ChatGPT Free含む",
+      "Google Jules 無料1日15件 同時3 Gemini",
+      "Cursor background/cloud agents",
+      "Claude Code on the web 2025-10-20",
+      "Devin Cognition 世界初のAIソフトウェアエンジニア 2024-03 月500→20ドル96%減 Windsurf買収",
+      "Stephen Toub .NET runtime 飛行機で9PR 1時間20件夜22レビュー 878提出535マージ67.9%",
+      "copilot-instructions整備で成功率38→69% 準備がモデルより効く",
+      "METR 2025 体感20%速いが実測19%遅い 16人 後続研究で-4%に縮小",
+      "Veracode 2025 AI生成コード45%にセキュリティ欠陥",
+      "レビュー渋滞 PR倍増 レビュー時間91%増 Faros",
+      "向くタスク 小さく明確 テスト ボイラープレート 向かない 曖昧 大規模リファクタ 設計"
+    ]
   }
 ]

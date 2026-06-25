@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Thu, 25 Jun 2026 08:45:37 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 08:45:37 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 04:14:34 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:14:34 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：AIに仕事を投げて、寝て待つ — 非同期コーディングエージェント</title>
+      <description>エディタの横で一緒に書くのではなく、用件を一つ投げて立ち去る『非同期コーディングエージェント』を3本立てで。①なぜ可能か — 使い捨てのマイクロVM(Firecrackerは0.125秒・5MB未満)で作業部屋を量産して並列化、AIが自分でテストして直す自走ループ、SWE-benchが2%→8割、成果物はプルリクで人間のレビュー門に乗る。②実例 — マイクロソフト.NETのStephen Toubが飛行機で9件、10ヶ月で878提出535マージ(約68%)、指示書整備で成功率38→69%／Jules・Codex・Copilot・Cursor・Devin(月500→20ドル)。③注意点と始め方 — METRの『体感は速いが実測19%遅い』、ベンチと現場の開き、Veracodeでは生成コードの45%に脆弱性、レビュー渋滞／無料Julesは1日15件、Copilotは月10ドル、小タスク・指示書・人間レビューの3コツ。出典：AWS Firecracker/METR/Veracode/Microsoft .NET Blog/Google Jules/GitHub ほか。</description>
+      <itunes:summary>エディタの横で一緒に書くのではなく、用件を一つ投げて立ち去る『非同期コーディングエージェント』を3本立てで。①なぜ可能か — 使い捨てのマイクロVM(Firecrackerは0.125秒・5MB未満)で作業部屋を量産して並列化、AIが自分でテストして直す自走ループ、SWE-benchが2%→8割、成果物はプルリクで人間のレビュー門に乗る。②実例 — マイクロソフト.NETのStephen Toubが飛行機で9件、10ヶ月で878提出535マージ(約68%)、指示書整備で成功率38→69%／Jules・Codex・Copilot・Cursor・Devin(月500→20ドル)。③注意点と始め方 — METRの『体感は速いが実測19%遅い』、ベンチと現場の開き、Veracodeでは生成コードの45%に脆弱性、レビュー渋滞／無料Julesは1日15件、Copilotは月10ドル、小タスク・指示書・人間レビューの3コツ。出典：AWS Firecracker/METR/Veracode/Microsoft .NET Blog/Google Jules/GitHub ほか。</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 04:14:34 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-26.mp3" length="13936474" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-26.mp3</guid>
+      <itunes:duration>00:14:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：ナノバナナ — 写真をAIに『会話で』直してもらう</title>
       <description>Googleの画像AI『ナノバナナ』(Gemini 2.5 Flash Image)と進化版ナノバナナ・プロ(Gemini 3 Pro Image)を3本立てで。①なぜ会話で部分修正できるのか — 言葉と画像を一つの頭で扱い、元画像を保持して『服だけ』を意味で狙い撃ちし、世界の物理知識で絵の辻褄を合わせる仕組み（LMArenaで覆面のまま1位）。②今日から真似できる使い方 — 古い写真の修復・カラー化、自撮り1枚から証明写真、撮り直しなしの商品写真、日本語の文字も描ける図解づくり。③始め方と注意点 — Geminiアプリで無料、SynthID電子透かし、図解の中身は鵜呑み禁止、学習設定・他者の権利・偽画像の悪用。出典：Google公式ブログ/DeepMind/LMArena ほか。</description>
