@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Thu, 25 Jun 2026 09:06:26 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 09:06:26 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 04:28:14 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 04:28:14 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：オリエンタルランド――世界で唯一「ディズニー資本ゼロ」のディズニー</title>
+      <description>企業特集は『オリエンタルランド』。①なぜ東京ディズニーリゾートだけ世界で唯一ディズニー本社が1円も出資していないのか――1979年・ウォルト没後の低迷期に結ばれたノーリスクのライセンス契約と、その後パリで直接出資して大苦戦した対比 ②海の埋め立てから始まった誕生史――バラの買い付けがきっかけ、漁業権交渉、富士山麓の三菱地所との誘致競争 ③客を減らしながら過去最高益を出す客単価経営（変動価格制・有料優先入場・約3200億円のファンタジースプリングス）。出典：OLC決算短信・有価証券報告書、香港立法会調査ノート、JBpress、ログミーFinanceほか。</description>
+      <itunes:summary>企業特集は『オリエンタルランド』。①なぜ東京ディズニーリゾートだけ世界で唯一ディズニー本社が1円も出資していないのか――1979年・ウォルト没後の低迷期に結ばれたノーリスクのライセンス契約と、その後パリで直接出資して大苦戦した対比 ②海の埋め立てから始まった誕生史――バラの買い付けがきっかけ、漁業権交渉、富士山麓の三菱地所との誘致競争 ③客を減らしながら過去最高益を出す客単価経営（変動価格制・有料優先入場・約3200億円のファンタジースプリングス）。出典：OLC決算短信・有価証券報告書、香港立法会調査ノート、JBpress、ログミーFinanceほか。</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 04:28:14 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-26.mp3" length="13845358" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-26.mp3</guid>
+      <itunes:duration>00:14:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：総合商社――なぜ日本にしかない？バフェットが惚れた理由</title>
       <description>業界特集は『総合商社』。①なぜ日本にしか育たなかったのか（鎖国・後発・資本市場の未発達と、三菱＝九十九商会・三井物産・近江商人系の伊藤忠/丸紅という起源）②『商社不要論』からの逆転――口銭=仲介から事業投資のオーナーへ。住友の銅事件や双日・豊田通商への再編も ③なぜ他国は真似できないのか＆ウォーレン・バフェットが五大商社に惚れ込んだ理由（140年の参入障壁、円建て調達と配当の妙味）。商社マンの年収・就活人気にも。出典：各社IR、日本貿易会、日経・東洋経済、バークシャー株主書簡ほか。</description>
