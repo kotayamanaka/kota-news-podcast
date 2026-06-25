@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 24 Jun 2026 03:32:42 +0900</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 03:32:42 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jun 2026 09:43:53 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jun 2026 09:43:53 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ドン・ペリニヨン — 「星を飲んでいる」は後世の作り話。修道士の正体と、あえて損を引き受ける贅沢</title>
+      <description>酒ラジオ・ワイン回は、高級シャンパンの代名詞「ドン・ペリニヨン」（モエ・エ・シャンドン）。①名前の主は実在の修道士だが「シャンパンの発明者」は神話で、本人はむしろ泡を嫌っていた話、②出来の悪い年は造らないヴィンテージ主義と、なぜ他社は真似できないのか、③複数の飲み頃を生むプレニチュード（P1〜P3）と味わい・楽しみ方。出典：Wikipedia、VinePair、Decanter、MHD、Fine Wine Library ほか。</description>
+      <itunes:summary>酒ラジオ・ワイン回は、高級シャンパンの代名詞「ドン・ペリニヨン」（モエ・エ・シャンドン）。①名前の主は実在の修道士だが「シャンパンの発明者」は神話で、本人はむしろ泡を嫌っていた話、②出来の悪い年は造らないヴィンテージ主義と、なぜ他社は真似できないのか、③複数の飲み頃を生むプレニチュード（P1〜P3）と味わい・楽しみ方。出典：Wikipedia、VinePair、Decanter、MHD、Fine Wine Library ほか。</itunes:summary>
+      <pubDate>Thu, 25 Jun 2026 09:43:53 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-25.mp3" length="10463233" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-25.mp3</guid>
+      <itunes:duration>00:10:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>黒霧島 — 平成生まれの芋焼酎が、王者いいちこを抜いた理由</title>
       <description>酒ラジオ・焼酎回は宮崎・霧島酒造の芋焼酎「黒霧島（くろきりしま）」。①名前の「黒」は黒麹のこと、創業の味への原点回帰として1998年に誕生し、十数年で麦焼酎いいちこ（三和酒類）を抜き2012年に焼酎売上日本一へ、②黒麹のクエン酸が腐敗を防ぎ南九州でも安定大量生産できる仕組みと、黄金千貫・霧島裂罅水という土地に縛られた強み、③「トロッとキリッと」の味わいと、お湯割り・黒ッキリボールの楽しみ方。出典：霧島酒造公式・日本経済新聞・西日本新聞ほか。</description>
