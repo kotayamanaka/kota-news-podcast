@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Thu, 25 Jun 2026 09:09:43 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jun 2026 09:09:43 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jun 2026 06:42:14 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:42:14 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『風間公親 教場0』（鬼教官の義眼は、いつ生まれたか）</title>
+      <description>木村拓哉主演、2023年フジ月9の前日譚ドラマ『風間公親―教場0―』を人に語れるように深掘り。①なぜタイトルが「0」なのか＝刑事指導官時代、新人を数日で取り換える『風間道場』と、原作（長岡弘樹の連作短編）を風間という軸で再構成した作り②義眼の起源を描く衝撃の第6話＝森山未來演じる十崎の千枚通しで風間が右目を失う瞬間と、2026年映画版へ続く伏線③木村の連ドラ歴代最低の平均世帯9.8%なのに映画化まで伸びた謎＝『刑事ドラマの顔をした学園ドラマ』という金八型の構造（主役＝新人は入れ替え可・軸は風間だけ）とTVer3000万回超の配信力。出典：Wikipedia・映画.com・ORICON・MANTANWEB・ザテレビジョン・TVer公式・リアルサウンドほか。</description>
+      <itunes:summary>木村拓哉主演、2023年フジ月9の前日譚ドラマ『風間公親―教場0―』を人に語れるように深掘り。①なぜタイトルが「0」なのか＝刑事指導官時代、新人を数日で取り換える『風間道場』と、原作（長岡弘樹の連作短編）を風間という軸で再構成した作り②義眼の起源を描く衝撃の第6話＝森山未來演じる十崎の千枚通しで風間が右目を失う瞬間と、2026年映画版へ続く伏線③木村の連ドラ歴代最低の平均世帯9.8%なのに映画化まで伸びた謎＝『刑事ドラマの顔をした学園ドラマ』という金八型の構造（主役＝新人は入れ替え可・軸は風間だけ）とTVer3000万回超の配信力。出典：Wikipedia・映画.com・ORICON・MANTANWEB・ザテレビジョン・TVer公式・リアルサウンドほか。</itunes:summary>
+      <pubDate>Fri, 26 Jun 2026 06:42:14 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-26.mp3" length="12378322" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-26.mp3</guid>
+      <itunes:duration>00:12:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『教場 リユニオン』（木村拓哉の鬼教官と、配信×劇場の異例戦略）</title>
       <description>木村拓哉主演「教場」シリーズ集大成の映画『教場 リユニオン』（2026・前編Netflix配信／後編劇場）を、人に語れるように深掘り。①白髪・義眼・無表情で『風間そのもの』と評される木村の演技論②原作（長岡弘樹、2013年・週刊文春ミステリーベスト10国内1位、シリーズ累計130万部超）が発明した『警察学校＝ふるい落とす場』という設定の緊張感③前編Netflix・後編劇場という異例の公開戦略がなぜ成立したか（フジ×Netflix契約・アジアで通じるスター・既存シリーズのファン基盤）。後編レクイエムは約10日で興収12.8億円・動員92万人。出典：映画.com・Filmarks・公式サイト・ORICON・PR TIMESほか。</description>
