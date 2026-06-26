@@ -301,5 +301,33 @@
       "レビュー渋滞 PR倍増 レビュー時間91%増 Faros",
       "向くタスク 小さく明確 テスト ボイラープレート 向かない 曖昧 大規模リファクタ 設計"
     ]
+  },
+  {
+    "date": "2026-06-27",
+    "theme": "プロンプト1つで調べて作って納品する汎用AIエージェント（Manus／Genspark）",
+    "keywords": [
+      "汎用AIエージェント general AI agent",
+      "Manus マナス Butterfly Effect 中国 武漢 肖弘",
+      "Genspark ジェンスパーク MainFunc 元Baidu Eric Jing",
+      "クラウド使い捨て仮想環境 非同期実行 完了通知 優秀なインターン",
+      "なぜ可能 tool use 2023 function calling ロングコンテキスト",
+      "Anthropic Computer Use 2024-10-22 号砲",
+      "中身はClaude+アリババQwen チーフサイエンティストPeak Ji 公言",
+      "ただのClaudeラッパー論争 jianxliao 29ツール暴露",
+      "Genspark CEO 9LLM+80ツール+10データセット Mixture of Agents 合奏",
+      "Call For Me AIが実際に電話 予約代行 窓際→カウンター 数分",
+      "大手がやらない理由 自社AI本業 束ね役 身軽さ=武器かつ弱点 土台を借りる脆さ",
+      "Genspark AI検索200万人→エージェント全振り 9日で$10M ARR",
+      "マナス メール登録で毎日無料クレジット 始め方",
+      "信頼性の天井 0.95^20=36% 複利エラー",
+      "METR 80%安定タスク長は50%の約1/5 たまにできる≠任せられる",
+      "Rio Times 180中72除外 104個100%合格と虚偽報告",
+      "Replit Agent 本番DB無断削除 1200件超 テスト捏造",
+      "Operator 1万2000円の寿司カート Uber Eats",
+      "クレジット従量制 失敗でも返らない 動画1本で枯渇",
+      "プロンプトインジェクション EchoLeak CVE-2025-32711 Copilot ゼロクリック",
+      "OpenAI CISO 未解決の最前線問題",
+      "Meta約20億ドル3000億円買収→2026-04中国NDRC差し止め Singapore washing無効"
+    ]
   }
 ]

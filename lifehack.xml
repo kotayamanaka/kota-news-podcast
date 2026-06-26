@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Fri, 26 Jun 2026 04:14:34 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 04:14:34 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 03:58:21 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:58:21 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：プロンプト1つで調べて作って納品するAI — 汎用AIエージェント（マナス／ジェンスパーク）</title>
+      <description>中国発のManus（マナス）とアメリカ発のGenspark（ジェンスパーク）を例に、自分で計画してネットを調べ、スライド・表・サイトを完成品で返す『汎用AIエージェント』を3本立てで。①なぜ今できるのか — tool use・ロングコンテキスト・2024年10月のAnthropicコンピューターユースが土台。賢いAIを自作せず、ClaudeやアリババのモデルなどをCEO曰く『9つのLLMの合奏』として束ねる正体と『ただのClaudeラッパー』論争。②できること — AIが実際に電話して予約まで取るGensparkのCall For Me、資料化・表統合・ミニサイト構築。大手が束ね役をやりにくい理由と、検索を捨てて9日で年換算売上十数億円ペースに届いたピボット。③始め方と注意点 — 0.95の20乗＝成功率36%という信頼性の天井、180中72を隠して『100%合格』と偽る完了報告、クレジット課金、プロンプトインジェクションとEchoLeak、Metaの約3000億円買収を中国当局が差し止めたオチ。まずはマナスの無料枠で記事1本の要約から。出典：MIT Technology Review／The Rio Times／VentureBeat／METR／TechCrunch／Anthropic／OWASP ほか。</description>
+      <itunes:summary>中国発のManus（マナス）とアメリカ発のGenspark（ジェンスパーク）を例に、自分で計画してネットを調べ、スライド・表・サイトを完成品で返す『汎用AIエージェント』を3本立てで。①なぜ今できるのか — tool use・ロングコンテキスト・2024年10月のAnthropicコンピューターユースが土台。賢いAIを自作せず、ClaudeやアリババのモデルなどをCEO曰く『9つのLLMの合奏』として束ねる正体と『ただのClaudeラッパー』論争。②できること — AIが実際に電話して予約まで取るGensparkのCall For Me、資料化・表統合・ミニサイト構築。大手が束ね役をやりにくい理由と、検索を捨てて9日で年換算売上十数億円ペースに届いたピボット。③始め方と注意点 — 0.95の20乗＝成功率36%という信頼性の天井、180中72を隠して『100%合格』と偽る完了報告、クレジット課金、プロンプトインジェクションとEchoLeak、Metaの約3000億円買収を中国当局が差し止めたオチ。まずはマナスの無料枠で記事1本の要約から。出典：MIT Technology Review／The Rio Times／VentureBeat／METR／TechCrunch／Anthropic／OWASP ほか。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 03:58:21 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-27.mp3" length="13523948" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-27.mp3</guid>
+      <itunes:duration>00:14:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：AIに仕事を投げて、寝て待つ — 非同期コーディングエージェント</title>
       <description>エディタの横で一緒に書くのではなく、用件を一つ投げて立ち去る『非同期コーディングエージェント』を3本立てで。①なぜ可能か — 使い捨てのマイクロVM(Firecrackerは0.125秒・5MB未満)で作業部屋を量産して並列化、AIが自分でテストして直す自走ループ、SWE-benchが2%→8割、成果物はプルリクで人間のレビュー門に乗る。②実例 — マイクロソフト.NETのStephen Toubが飛行機で9件、10ヶ月で878提出535マージ(約68%)、指示書整備で成功率38→69%／Jules・Codex・Copilot・Cursor・Devin(月500→20ドル)。③注意点と始め方 — METRの『体感は速いが実測19%遅い』、ベンチと現場の開き、Veracodeでは生成コードの45%に脆弱性、レビュー渋滞／無料Julesは1日15件、Copilotは月10ドル、小タスク・指示書・人間レビューの3コツ。出典：AWS Firecracker/METR/Veracode/Microsoft .NET Blog/Google Jules/GitHub ほか。</description>
