@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Fri, 26 Jun 2026 03:15:38 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 03:15:38 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 03:14:01 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 03:14:01 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ルイ・ヴィトン｜歩いてパリへ来た少年と、コピー対策が生んだ世界一のマーク</title>
+      <description>今日のブランドはルイ・ヴィトン。①貧しい少年が約470kmを歩いてパリへ来て皇后の荷造り係になり、平らなトランクで旅を変えた創業の物語 ②モノグラムもノエもスピーディも『困りごとの解決』から生まれた名作の話と、日本の家紋に着想したコピー対策の柄 ③セールせず直営で売り、LVMHとアルノーの資本に支えられ、世界一コピーされても価値が落ちない理由。出典：ルイ・ヴィトン公式、Wikipedia(英/日)、WWD、Fortune、Snopesほか。</description>
+      <itunes:summary>今日のブランドはルイ・ヴィトン。①貧しい少年が約470kmを歩いてパリへ来て皇后の荷造り係になり、平らなトランクで旅を変えた創業の物語 ②モノグラムもノエもスピーディも『困りごとの解決』から生まれた名作の話と、日本の家紋に着想したコピー対策の柄 ③セールせず直営で売り、LVMHとアルノーの資本に支えられ、世界一コピーされても価値が落ちない理由。出典：ルイ・ヴィトン公式、Wikipedia(英/日)、WWD、Fortune、Snopesほか。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 03:14:01 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-27.mp3" length="11109398" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-27.mp3</guid>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>バーバリー｜塹壕で生まれたトレンチ、裏地から育ったチェック、真似できない歴史</title>
       <description>英国の老舗バーバリーを深掘り。①1879年に防水なのに蒸れないギャバジンを発明し、第一次大戦の塹壕で軍用コートからトレンチコートが生まれた創業の物語 ②もとはトレンチの裏地だったバーバリー・チェックが偶然から表の主役になった逆転劇とエクエストリアン・ナイトのロゴ ③探検家・軍・王室の物語が積み上げた『160年は金で買えない』ブランド力と、チェック大衆化の危機からの復活。出典：Burberry公式、Wikipedia(英/日)、Sotheby's、Heddels、CNBCほか。</description>
