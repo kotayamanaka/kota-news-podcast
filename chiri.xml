@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Fri, 26 Jun 2026 05:28:00 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 05:28:00 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 05:19:43 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:19:43 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ノルウェー — フィヨルドが生んだ富、使わず積む石油マネー、EV世界一の正体</title>
+      <description>世界の国シリーズはノルウェー。人口560万の小国がなぜ世界最大2兆ドルのオイルファンドを持てたのか。①氷河が削ったフィヨルドが水力・海運・漁業・観光を同時に生む『富の母』構造（海岸線は島込み10万km・地球2周半、養殖サケの世界の約半分）②石油十戒と財政ルールで『資源の呪い』を避けた理由＝石油発見前から豊かで制度が成熟していたこと、ベネズエラ・ナイジェリアとの対比③新車の96%がEVになった30年がかりの政策と、財布・安いクリーン電力・小さな人口・高所得という他国が真似しにくい前提。締めはスヴァールバル世界種子貯蔵庫。出典: NBIM、Norskpetroleum、IEA、Electrek、Wikipedia ほか。</description>
+      <itunes:summary>世界の国シリーズはノルウェー。人口560万の小国がなぜ世界最大2兆ドルのオイルファンドを持てたのか。①氷河が削ったフィヨルドが水力・海運・漁業・観光を同時に生む『富の母』構造（海岸線は島込み10万km・地球2周半、養殖サケの世界の約半分）②石油十戒と財政ルールで『資源の呪い』を避けた理由＝石油発見前から豊かで制度が成熟していたこと、ベネズエラ・ナイジェリアとの対比③新車の96%がEVになった30年がかりの政策と、財布・安いクリーン電力・小さな人口・高所得という他国が真似しにくい前提。締めはスヴァールバル世界種子貯蔵庫。出典: NBIM、Norskpetroleum、IEA、Electrek、Wikipedia ほか。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 05:19:43 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-27.mp3" length="13616735" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-27.mp3</guid>
+      <itunes:duration>00:14:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>下北沢 — 地図にない街、迷路が文化を生んだ理由</title>
       <description>駅と周辺地域シリーズは東京・世田谷の下北沢。実は『下北沢』という住所は存在せず、正式には北沢・代沢です。①なぜ道が迷路になったのか（明治まで農村→関東大震災と鉄道で約20年で急速宅地化→区画整理されず→戦後闇市、補助54号線は住民反対で長く未実施）②なぜ演劇・古着・音楽の街になったのか（元俳優・本多一夫の飲食帝国が本多劇場グループ約8劇場に化け、地盤が弱く小区画で大資本が入れないからこそ個人店が連鎖した逆説）③小田急の地下化（2013年・踏切9か所廃止）と『再開発と言わなかった』支援型開発の下北線路街。出典: 世田谷区公式、本多劇場グループ、小田急電鉄、Time Out、英語版Wikipedia ほか。</description>
