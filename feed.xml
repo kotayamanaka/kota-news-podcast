@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Fri, 26 Jun 2026 06:01:18 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 06:01:18 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 05:49:07 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:49:07 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-06-27 朝の深掘りニュース</title>
+      <description>サッカー日本代表が決勝トーナメント進出・1回戦はブラジル／新米3000円割れ目前、コメが一転して過剰に／アップルがMac・iPadを値上げ、真因はAIメモリ需要／偽薬と知っていても高齢者の記憶が改善／ソニーaiboが国内販売終了</description>
+      <itunes:summary>サッカー日本代表が決勝トーナメント進出・1回戦はブラジル／新米3000円割れ目前、コメが一転して過剰に／アップルがMac・iPadを値上げ、真因はAIメモリ需要／偽薬と知っていても高齢者の記憶が改善／ソニーaiboが国内販売終了</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 05:49:07 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-27.mp3" length="4168080" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-06-27.mp3</guid>
+      <itunes:duration>00:11:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-26 朝の深掘りニュース</title>
       <description>ベネズエラでM7地震2連発・100年ぶり大災害／ノーベル賞のAI研究者ジャンパーがグーグルからアンソロピックへ／除草剤グリホサートが薬剤耐性菌を増やす可能性／皇室典範改正案まとまる・皇族数確保へ／映画「Michael」命日に応援上映と洋画初の副音声付上映</description>
