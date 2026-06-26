@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Fri, 26 Jun 2026 04:28:14 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 04:28:14 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 04:22:01 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 04:22:01 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：レゴ――60年同じ規格を守る『堀』、倒産危機からの復活、世界最大のタイヤメーカーの顔</title>
+      <description>商品特集は『レゴ』。売上で世界最大の玩具メーカー。①1958年のブロックが今も噛み合うクラッチパワーと製造精度（100万個に不良18個）がなぜ堀になるのか――特許切れ後もメガブロックが勝てず、レゴ自身が再生プラでクラッチパワーを再現できなかった皮肉 ②2004年に純損失約400億円・倒産寸前まで行った多角化の失敗と、クヌッドストープによる選択と集中での再建、スター・ウォーズと大人ファンによるV字回復 ③世界最大のタイヤメーカー・1997年の海洋流出・NASA木星探査機ジュノーまでの意外な顔と過去最高益の今。出典：レゴ公式決算、Wikipedia、ギネス世界記録、カナダ最高裁判決（Kirkbi v Ritvik）、CNN、Wharton。</description>
+      <itunes:summary>商品特集は『レゴ』。売上で世界最大の玩具メーカー。①1958年のブロックが今も噛み合うクラッチパワーと製造精度（100万個に不良18個）がなぜ堀になるのか――特許切れ後もメガブロックが勝てず、レゴ自身が再生プラでクラッチパワーを再現できなかった皮肉 ②2004年に純損失約400億円・倒産寸前まで行った多角化の失敗と、クヌッドストープによる選択と集中での再建、スター・ウォーズと大人ファンによるV字回復 ③世界最大のタイヤメーカー・1997年の海洋流出・NASA木星探査機ジュノーまでの意外な顔と過去最高益の今。出典：レゴ公式決算、Wikipedia、ギネス世界記録、カナダ最高裁判決（Kirkbi v Ritvik）、CNN、Wharton。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 04:22:01 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-27.mp3" length="9707145" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-06-27.mp3</guid>
+      <itunes:duration>00:10:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：オリエンタルランド――世界で唯一「ディズニー資本ゼロ」のディズニー</title>
       <description>企業特集は『オリエンタルランド』。①なぜ東京ディズニーリゾートだけ世界で唯一ディズニー本社が1円も出資していないのか――1979年・ウォルト没後の低迷期に結ばれたノーリスクのライセンス契約と、その後パリで直接出資して大苦戦した対比 ②海の埋め立てから始まった誕生史――バラの買い付けがきっかけ、漁業権交渉、富士山麓の三菱地所との誘致競争 ③客を減らしながら過去最高益を出す客単価経営（変動価格制・有料優先入場・約3200億円のファンタジースプリングス）。出典：OLC決算短信・有価証券報告書、香港立法会調査ノート、JBpress、ログミーFinanceほか。</description>
