@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Sat, 27 Jun 2026 05:19:43 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 05:19:43 +0900</lastBuildDate>
+    <pubDate>Sat, 27 Jun 2026 15:47:58 +0900</pubDate>
+    <lastBuildDate>Sat, 27 Jun 2026 15:47:58 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>高輪ゲートウェイ — 公募130位の駅名、その正体は江戸の玄関口、足元に眠る日本最古級の鉄道遺構</title>
+      <description>駅と周辺地域シリーズは高輪ゲートウェイ。山手線49年ぶりの新駅を深掘り。①なぜ品川のすぐ隣に駅と街が生まれたのか＝旧田町車両基地の跡地に、上野東京ライン開業で空いた約10ヘクタールをJR東日本が単独保有していたから一気に再開発できた構造。②公募1位『高輪』8000票を蹴って130位・36票の『高輪ゲートウェイ』が選ばれ4万人が反対署名した一件と、その名前の正体＝江戸の南の玄関口『高輪大木戸』。③再開発工事で出土した日本最古級の鉄道遺構『高輪築堤』と、土台に転用された江戸城の石垣や未完成の第七台場の石。締めは徒歩5分の泉岳寺・赤穂浪士。出典: JR東日本、港区、文化庁、nippon.com、日経、Wikipedia ほか。</description>
+      <itunes:summary>駅と周辺地域シリーズは高輪ゲートウェイ。山手線49年ぶりの新駅を深掘り。①なぜ品川のすぐ隣に駅と街が生まれたのか＝旧田町車両基地の跡地に、上野東京ライン開業で空いた約10ヘクタールをJR東日本が単独保有していたから一気に再開発できた構造。②公募1位『高輪』8000票を蹴って130位・36票の『高輪ゲートウェイ』が選ばれ4万人が反対署名した一件と、その名前の正体＝江戸の南の玄関口『高輪大木戸』。③再開発工事で出土した日本最古級の鉄道遺構『高輪築堤』と、土台に転用された江戸城の石垣や未完成の第七台場の石。締めは徒歩5分の泉岳寺・赤穂浪士。出典: JR東日本、港区、文化庁、nippon.com、日経、Wikipedia ほか。</itunes:summary>
+      <pubDate>Sat, 27 Jun 2026 15:47:58 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-27-takanawa.mp3" length="14550456" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-06-27-takanawa.mp3</guid>
+      <itunes:duration>00:15:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ノルウェー — フィヨルドが生んだ富、使わず積む石油マネー、EV世界一の正体</title>
       <description>世界の国シリーズはノルウェー。人口560万の小国がなぜ世界最大2兆ドルのオイルファンドを持てたのか。①氷河が削ったフィヨルドが水力・海運・漁業・観光を同時に生む『富の母』構造（海岸線は島込み10万km・地球2周半、養殖サケの世界の約半分）②石油十戒と財政ルールで『資源の呪い』を避けた理由＝石油発見前から豊かで制度が成熟していたこと、ベネズエラ・ナイジェリアとの対比③新車の96%がEVになった30年がかりの政策と、財布・安いクリーン電力・小さな人口・高所得という他国が真似しにくい前提。締めはスヴァールバル世界種子貯蔵庫。出典: NBIM、Norskpetroleum、IEA、Electrek、Wikipedia ほか。</description>
