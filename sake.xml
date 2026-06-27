@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sat, 27 Jun 2026 18:38:01 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 18:38:01 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 03:28:39 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:28:39 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ジャックダニエル — バーボンじゃない『テネシーウイスキー』の秘密</title>
+      <description>誰もが店で見かける黒い四角ボトル、ジャックダニエル。実はバーボンではなく『テネシーウイスキー』です。3つのポイントで深掘り。①歴史：創業者ジャックに造りを教えたのは奴隷として生まれた黒人蒸留職人ニアレスト・グリーンで、2016年にブランドが公式に認め、米国初の黒人マスターディスティラーとされる。蒸溜所のあるムーア郡は今も禁酒郡で、造る町で酒が買えないという皮肉。②造り：バーボンの条件＋サトウカエデの木炭で磨くチャコール・メローイング（リンカーン・カウンティ・プロセス）。味を『足さず引く』工程で、なぜ他社はやらないのか。③味と楽しみ方：酵母由来のバナナ香、ジャックコーク、ジェントルマン・ジャック、シナトラの逸話。出典：Jack Daniel's公式、Brown-Forman、テネシー大学研究、Smithsonian、Wikipedia ほか。約12分。</description>
+      <itunes:summary>誰もが店で見かける黒い四角ボトル、ジャックダニエル。実はバーボンではなく『テネシーウイスキー』です。3つのポイントで深掘り。①歴史：創業者ジャックに造りを教えたのは奴隷として生まれた黒人蒸留職人ニアレスト・グリーンで、2016年にブランドが公式に認め、米国初の黒人マスターディスティラーとされる。蒸溜所のあるムーア郡は今も禁酒郡で、造る町で酒が買えないという皮肉。②造り：バーボンの条件＋サトウカエデの木炭で磨くチャコール・メローイング（リンカーン・カウンティ・プロセス）。味を『足さず引く』工程で、なぜ他社はやらないのか。③味と楽しみ方：酵母由来のバナナ香、ジャックコーク、ジェントルマン・ジャック、シナトラの逸話。出典：Jack Daniel's公式、Brown-Forman、テネシー大学研究、Smithsonian、Wikipedia ほか。約12分。</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 03:28:39 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-28.mp3" length="11766012" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-06-28.mp3</guid>
+      <itunes:duration>00:12:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【特集】日本の大手ビール4社くらべ — アサヒ・サッポロ・キリン・サントリー</title>
       <description>酒ラジオ初の特集回。誰もが知る大手4社を3つの切り口で比較。①出自と業界構造：アサヒとサッポロは元・大日本麦酒で、戦後の財閥解体で割られた『双子』。なぜ4社体制が続くのか（歴史・酒税・製造免許2000klの壁）。②味の作り分け：麦芽100%で『足す』ヱビス／プレモル、副原料と318号酵母で『引く』スーパードライ、二番搾りを捨ててクリアにする一番搾り。③ブランドの個性：『黒ラベル』は消費者がつけた愛称、恵比寿は商品名が街の名になった逆転、第三の男の発車メロディ。出典：各社公式（アサヒ・サッポロ・キリン・サントリー）、国税庁、日本経済新聞、Wikipedia ほか。約13分。</description>
