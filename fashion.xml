@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sat, 27 Jun 2026 03:14:01 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 03:14:01 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 03:16:54 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 03:16:54 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ニューバランス｜ニワトリから生まれた、目利きが選ぶ「N」の正体</title>
+      <description>今日のブランドはニューバランス。①創業1906年、もとは土踏まずの矯正具屋で、社名はニワトリの足が由来という創業の物語（1960年トラックスター→1972年ジム・デービスがボストンマラソンの日に買収）②型番文化と、史上初の100ドルランニングシューズ990、米英の自社工場、グレー信仰 ③スターに頼らず『誰の推薦も受けない』哲学と、非上場ゆえの長期戦略。クリス・デービスの予算反転とテディ・サンティス起用で『ダッドシューズ』から逆転し売上を4年で2倍に。出典：Wikipedia、Hypebeast、Sneaker Freaker、Highsnobiety、ニューバランス公式ほか。</description>
+      <itunes:summary>今日のブランドはニューバランス。①創業1906年、もとは土踏まずの矯正具屋で、社名はニワトリの足が由来という創業の物語（1960年トラックスター→1972年ジム・デービスがボストンマラソンの日に買収）②型番文化と、史上初の100ドルランニングシューズ990、米英の自社工場、グレー信仰 ③スターに頼らず『誰の推薦も受けない』哲学と、非上場ゆえの長期戦略。クリス・デービスの予算反転とテディ・サンティス起用で『ダッドシューズ』から逆転し売上を4年で2倍に。出典：Wikipedia、Hypebeast、Sneaker Freaker、Highsnobiety、ニューバランス公式ほか。</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 03:16:54 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-28.mp3" length="10663853" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-28.mp3</guid>
+      <itunes:duration>00:11:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ルイ・ヴィトン｜歩いてパリへ来た少年と、コピー対策が生んだ世界一のマーク</title>
       <description>今日のブランドはルイ・ヴィトン。①貧しい少年が約470kmを歩いてパリへ来て皇后の荷造り係になり、平らなトランクで旅を変えた創業の物語 ②モノグラムもノエもスピーディも『困りごとの解決』から生まれた名作の話と、日本の家紋に着想したコピー対策の柄 ③セールせず直営で売り、LVMHとアルノーの資本に支えられ、世界一コピーされても価値が落ちない理由。出典：ルイ・ヴィトン公式、Wikipedia(英/日)、WWD、Fortune、Snopesほか。</description>
