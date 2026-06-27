@@ -329,5 +329,33 @@
       "OpenAI CISO 未解決の最前線問題",
       "Meta約20億ドル3000億円買収→2026-04中国NDRC差し止め Singapore washing無効"
     ]
+  },
+  {
+    "date": "2026-06-28",
+    "theme": "AIが勝手に整理する自分専用ブックマーク保管庫 Karakeep（旧Hoarder）",
+    "keywords": [
+      "Karakeep カラキープ 旧Hoarder ホーダー",
+      "2025-04改名 名称衝突回避 アラビア語karakeeb がらくた由来",
+      "Mohamed Bassem 個人開発 AGPL GitHub2万6千star TypeScript",
+      "セルフホスト AIブックマーク あとで読む read-later",
+      "機能 リンク/メモ/画像/PDF フルページアーカイブ RSS OCR AI自動タグ AI要約",
+      "セマンティック検索 意味で検索 embedding 埋め込み ベクトル 距離",
+      "word2vec 2013 Google Mikolov 原型",
+      "全文検索Meilisearch フランスMeili社 OSS タイポ許容 と 埋め込み別系統を併用",
+      "embedding激安 text-embedding-3-small 100万トークン0.02ドル",
+      "ローカル無料埋め込み Ollama nomic-embed-text オフライン 課金ゼロ",
+      "Docker Compose web/chrome/meilisearch クラウド版Free$0 Pro$4",
+      "拡張Chrome/Firefox/Safari スマホiOS/Android",
+      "Pocket 2025-07-08終了 発表5-22 Mozilla2017初買収 原名ReadItLater2007 文脈ごと消える",
+      "Omnivore 2024-10 ElevenLabs買収 約17日猶予 OSSでもホスティング消滅",
+      "Google Reader 2013終了",
+      "畳む理由 保存して満足し戻らない エンゲージメント低 広告/月額成立しにくい",
+      "セルフホストは消えない コストを自ハードに内部化 撤退主体が存在しない 大手安心は逆",
+      "プライバシー両面 クラウドAI=外部送信 ローカルAI=外に出ない",
+      "落とし穴 保守/バックアップ自己責任 DATA_DIR設定ミスでデータ消失例 Discussion917",
+      "公開セキュリティ 2015末Shodan無認証DB3万5千件露出 2020Meow攻撃 自動破壊 VPN/認証必須",
+      "AI要約ハルシネーション Vectara最優秀でも1-2% Apple Intelligence通知誤要約事故2024末-2025",
+      "収集家の錯覚 Collectors Fallacy Tietze2014 knowing about≠knowing 87%短文 積読 永田希"
+    ]
   }
 ]
