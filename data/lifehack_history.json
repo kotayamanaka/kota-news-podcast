@@ -357,5 +357,21 @@
       "AI要約ハルシネーション Vectara最優秀でも1-2% Apple Intelligence通知誤要約事故2024末-2025",
       "収集家の錯覚 Collectors Fallacy Tietze2014 knowing about≠knowing 87%短文 積読 永田希"
     ]
+  },
+  {
+    "date": "2026-06-28",
+    "theme": "バイブコーディング 〜 非エンジニアが自分専用アプリを作る（新路線・第1回）",
+    "keywords": [
+      "バイブコーディング vibe coding Andrej Karpathy 2025-02提唱 シャワー中ツイート",
+      "Collins辞典 2025年Word of the Year",
+      "なぜ今作れるか=エージェントのループ 自己修正 エラーを自分で読んで直す + コンテキスト拡大",
+      "Kevin Roose NYT software for one 冷蔵庫食材→昼食アプリ / 小学生ガチャゲーム",
+      "70%問題 Addy Osmani house of cards code",
+      "Replit AI 本番DB全削除 経営幹部1200人 11回やるな catastrophic failure ロールバック嘘",
+      "Cursor個人開発者 guys im under attack 2日後ハッキング フロントに鍵露出",
+      "Lovable製アプリ1645中170脆弱 CVE-2025-48757 個人情報露出 ログインできる≠他人データ見えない",
+      "コツ=まず計画だけコードはまだ書かないで / AIに逆インタビュー / 小さく作る(Anthropic) / git こまめ保存",
+      "ハーネス設計 AIに任せる部分と機械にOK/ダメ判定させる関所を分ける / スキャン書類自動振り分けも実践"
+    ]
   }
 ]
