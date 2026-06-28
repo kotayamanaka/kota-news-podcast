@@ -206,6 +206,8 @@ def make_katareru_cover():
 GENERIC_COVERS = {
     "lifehack": ("lifehack-cover-v2.png", (0, 176, 148), "技",
                  ["テック", "ラジオ", ""], "AI・ツール・ガジェット", "TECH", "AI & TOOLS"),
+    "gaishoku": ("gaishoku-cover.png", (200, 70, 45), "外",
+                 ["外食", "ラジオ", ""], "チェーンを語る", "DINE", "ONE CHAIN A DAY"),
     "chishiki": ("chishiki-cover.png", (238, 158, 28), "商",
                  ["ビジネス", "ラジオ", ""], "企業と商品", "BUSINESS", "ONE TOPIC A DAY"),
     "chiri": ("chiri-cover.png", (34, 168, 120), "地",

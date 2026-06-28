@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>kota 外食ラジオ</title>
+    <link>https://kotayamanaka.github.io/kota-news-podcast/gaishoku/</link>
+    <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/gaishoku.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>毎日1本、外食・飲食チェーン（ファストフード・回転寿司・ファミレス・牛丼・カフェなど）を1つ深掘りし、その成り立ち・ビジネスの仕組み・名物・強みを、語れるレベルまで解説する、kota専用の音声番組。</description>
+    <pubDate>Sun, 28 Jun 2026 16:10:31 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:10:31 +0900</lastBuildDate>
+    <generator>kota-news-podcast</generator>
+    <itunes:author>kota</itunes:author>
+    <itunes:summary>毎日1本、外食・飲食チェーン（ファストフード・回転寿司・ファミレス・牛丼・カフェなど）を1つ深掘りし、その成り立ち・ビジネスの仕組み・名物・強みを、語れるレベルまで解説する、kota専用の音声番組。</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://kotayamanaka.github.io/kota-news-podcast/gaishoku-cover.png"/>
+    <image><url>https://kotayamanaka.github.io/kota-news-podcast/gaishoku-cover.png</url><title>kota 外食ラジオ</title><link>https://kotayamanaka.github.io/kota-news-podcast/gaishoku/</link></image>
+    <itunes:category text="Business"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>外食ラジオ：サイゼリヤ 〜 なぜあの値段を守れるのか</title>
+      <description>飲食チェーンを1つ深掘りする外食ラジオ、第1回はサイゼリヤ。300円のミラノ風ドリア、100円台のグラスワイン。値上げの時代になぜあの価格を守れるのかを3本立てで。①始まりは火事 — 物理学科出身の創業者・正垣泰彦が1967年に本八幡で開いた洋食店が、開店2年もたたず酔客の喧嘩で全焼。母の『よかったね、もう一回やりなさい』で再起し、イタリア料理へ。全品7割引で2時間待ちの行列に。②なぜ潰れないのか＝『製造直販業』 — 飲食店ではなく製造業。自社農場・自社工場・自前物流で中間マージンを消す。ミラノ風ドリアの白ソースはオーストラリアの自社工場で現地の牛乳から、レタスは福島の自社農場で種から品種改良(18代目)。厨房に包丁もコンロもほぼなく、作業はビデオで秒単位に分解(掃除機を捨ててモップにした物理の逸話)。そして核心 — なぜ他は真似できないか。大手ほど『今さら上流に行けない』中、サイゼは十数店の頃に農場を買った『順番の逆転』。③意外な顔 — 『おいしいから売れるのではない、売れているのがおいしい料理だ』という数字で考える哲学。利益の柱は実は中国中心のアジア(年により日本の3倍超)。締めに名物『間違い探し』の小ネタ。出典：サイゼリヤ公式IR・決算、日本経済新聞、ダイヤモンド、正垣泰彦の著書・発言、日本生産性本部ほか。</description>
+      <itunes:summary>飲食チェーンを1つ深掘りする外食ラジオ、第1回はサイゼリヤ。300円のミラノ風ドリア、100円台のグラスワイン。値上げの時代になぜあの価格を守れるのかを3本立てで。①始まりは火事 — 物理学科出身の創業者・正垣泰彦が1967年に本八幡で開いた洋食店が、開店2年もたたず酔客の喧嘩で全焼。母の『よかったね、もう一回やりなさい』で再起し、イタリア料理へ。全品7割引で2時間待ちの行列に。②なぜ潰れないのか＝『製造直販業』 — 飲食店ではなく製造業。自社農場・自社工場・自前物流で中間マージンを消す。ミラノ風ドリアの白ソースはオーストラリアの自社工場で現地の牛乳から、レタスは福島の自社農場で種から品種改良(18代目)。厨房に包丁もコンロもほぼなく、作業はビデオで秒単位に分解(掃除機を捨ててモップにした物理の逸話)。そして核心 — なぜ他は真似できないか。大手ほど『今さら上流に行けない』中、サイゼは十数店の頃に農場を買った『順番の逆転』。③意外な顔 — 『おいしいから売れるのではない、売れているのがおいしい料理だ』という数字で考える哲学。利益の柱は実は中国中心のアジア(年により日本の3倍超)。締めに名物『間違い探し』の小ネタ。出典：サイゼリヤ公式IR・決算、日本経済新聞、ダイヤモンド、正垣泰彦の著書・発言、日本生産性本部ほか。</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 16:10:31 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/gaishoku/episodes/2026-06-28.mp3" length="8785963" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/gaishoku/episodes/2026-06-28.mp3</guid>
+      <itunes:duration>00:09:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>

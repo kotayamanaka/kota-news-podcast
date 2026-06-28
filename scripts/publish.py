@@ -63,6 +63,18 @@ SHOWS = {
         "category": "Technology",
         "default_title": "テックラジオ（{date}）",
     },
+    "gaishoku": {
+        "ep_subdir": "gaishoku/episodes",
+        "feed_path": "gaishoku.xml",
+        "manifest": "gaishoku_episodes.json",
+        "meta": "_meta_gaishoku.json",
+        "cover": "gaishoku-cover.png",
+        "hour": 6,
+        "channel_title": "kota 外食ラジオ",
+        "channel_desc": "毎日1本、外食・飲食チェーン（ファストフード・回転寿司・ファミレス・牛丼・カフェなど）を1つ深掘りし、その成り立ち・ビジネスの仕組み・名物・強みを、語れるレベルまで解説する、kota専用の音声番組。",
+        "category": "Business",
+        "default_title": "外食ラジオ（{date}）",
+    },
     "chishiki": {
         "ep_subdir": "chishiki/episodes",
         "feed_path": "chishiki.xml",
