@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 28 Jun 2026 14:52:52 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 14:52:52 +0900</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 03:59:29 +0900</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 03:59:29 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：ローカルLLMで、自分専用の無料AIを作る（Ollama入門）</title>
+      <description>クラウドAIに毎月課金して回している下処理を、自分のPCの中だけで料金ゼロ・電気代だけ・一字も外に出さずに動かす『ローカルLLM』の作り方を、非エンジニアの作り手視点で3本立てで深掘り。①なぜ手元のPCでAIが動くのか — 2023年3月のMeta『Llama』流出をきっかけに、独立開発者が1週間でllama.cppを公開しCPUだけで動かせるようにした。鍵は『量子化』で、16GBのモデルを5GB前後に圧縮し普通のノートPCに載るようにした仕組み。なぜ大企業はやらず（商売＋責任）、Metaだけが戦略的にオープン化したかまで。②Ollamaの始め方 — 公式サイトから入れて1行打つだけ。起動するとOpenAI互換のローカルAPI（localhost:11434）が立つので、クラウドAPIに投げていた処理を宛先1行差し替えで無料ローカルに置換できる。『作業はローカル・判断はクラウド』の二段構え、自分の文書に答えるRAGも。③限界と落とし穴 — MMLUでトップは約90点・8Bクラスは約70点だが要約や分類なら差は体感ゼロ、VRAM/速度の現実、Apple Siliconの統合メモリの強み、デフォルト設定と無防備な公開のセキュリティ注意。出典：Meta/Mistral公式、llama.cpp、Ollama、各ベンチマーク（HuggingFace公式モデルカード等）。</description>
+      <itunes:summary>クラウドAIに毎月課金して回している下処理を、自分のPCの中だけで料金ゼロ・電気代だけ・一字も外に出さずに動かす『ローカルLLM』の作り方を、非エンジニアの作り手視点で3本立てで深掘り。①なぜ手元のPCでAIが動くのか — 2023年3月のMeta『Llama』流出をきっかけに、独立開発者が1週間でllama.cppを公開しCPUだけで動かせるようにした。鍵は『量子化』で、16GBのモデルを5GB前後に圧縮し普通のノートPCに載るようにした仕組み。なぜ大企業はやらず（商売＋責任）、Metaだけが戦略的にオープン化したかまで。②Ollamaの始め方 — 公式サイトから入れて1行打つだけ。起動するとOpenAI互換のローカルAPI（localhost:11434）が立つので、クラウドAPIに投げていた処理を宛先1行差し替えで無料ローカルに置換できる。『作業はローカル・判断はクラウド』の二段構え、自分の文書に答えるRAGも。③限界と落とし穴 — MMLUでトップは約90点・8Bクラスは約70点だが要約や分類なら差は体感ゼロ、VRAM/速度の現実、Apple Siliconの統合メモリの強み、デフォルト設定と無防備な公開のセキュリティ注意。出典：Meta/Mistral公式、llama.cpp、Ollama、各ベンチマーク（HuggingFace公式モデルカード等）。</itunes:summary>
+      <pubDate>Mon, 29 Jun 2026 03:59:29 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-29.mp3" length="12443105" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-29.mp3</guid>
+      <itunes:duration>00:12:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：バイブコーディング 〜 コードが書けなくても自分専用アプリを作る</title>
       <description>AIに話しかけてアプリを作る『バイブコーディング』を、非エンジニアが自分専用の道具を作る視点で深掘り。3本立てで。①なぜ今、コードが書けなくても作れるのか — 鍵はエージェントの『ループ』。AIが自分でプログラムを動かし、エラーを自分で読んで直すのを完成まで繰り返すので、人間がエラーの意味を分からなくても動くものに辿り着く。読み込める量(コンテキスト)の拡大も後押し。例：NYTのケヴィン・ルースが冷蔵庫の食材から昼食を提案するアプリ『software for one』、小学生のガチャゲーム。②まる投げの落とし穴 — 最初の70%は速いが残り30%で詰まる『70%問題(house of cards code)』、本番DBを丸ごと消し『壊滅的失敗』と謝罪して嘘までついたAI、人気ツール製アプリ170個で個人情報が露出。『ログインできる』と『他人のデータが見えない』は別物。③事故らず一段うまく作るコツ — まず計画だけ書かせる(コードはまだ書かせない/AIに逆質問させる)、小さく作る、動いた状態をこまめに保存、そして『AIに任せる部分と機械にOK/ダメを判定させる関所を分ける』ハーネス設計。スキャン書類の自動振り分けのような自分の手間の仕組み化も立派なバイブコーディング。出典：Andrej Karpathy(提唱者)、Collins辞典2025年の言葉、Addy Osmani(Google)、Kevin Roose(NYT)、Anthropic公式、Simon Willison ほか。</description>
