@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Sat, 27 Jun 2026 05:44:29 +0900</pubDate>
-    <lastBuildDate>Sat, 27 Jun 2026 05:44:29 +0900</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 23:46:59 +0900</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 23:46:59 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>「タゴサク構文」について語れるようになりたい</title>
+      <description>「AはBします。理由はCだからです」――2026年上半期に大流行したネットミーム『タゴサク構文』。元ネタは映画『爆弾』で佐藤二朗が演じたスズキタゴサク。①劇場公開の半年後、なぜNetflix配信から爆発したのか（時間差バズの仕組み）②なぜ映画を観ていなくても参加できるのか（進次郎構文・石丸構文に連なる構文ミームの強さ）③ご当地VTuberの『東京は鹿児島です』はなぜ刺さったのか。佐藤二朗本人の参戦から日経『令和なコトバ』入りまで掘ります。出典：リアルサウンド、Yahoo!ニュース(田辺ユウキ)、KAI-YOU、モデルプレス、日本経済新聞ほか。</description>
+      <itunes:summary>「AはBします。理由はCだからです」――2026年上半期に大流行したネットミーム『タゴサク構文』。元ネタは映画『爆弾』で佐藤二朗が演じたスズキタゴサク。①劇場公開の半年後、なぜNetflix配信から爆発したのか（時間差バズの仕組み）②なぜ映画を観ていなくても参加できるのか（進次郎構文・石丸構文に連なる構文ミームの強さ）③ご当地VTuberの『東京は鹿児島です』はなぜ刺さったのか。佐藤二朗本人の参戦から日経『令和なコトバ』入りまで掘ります。出典：リアルサウンド、Yahoo!ニュース(田辺ユウキ)、KAI-YOU、モデルプレス、日本経済新聞ほか。</itunes:summary>
+      <pubDate>Sun, 28 Jun 2026 23:46:59 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-28.mp3" length="9454697" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-06-28.mp3</guid>
+      <itunes:duration>00:09:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>「パンチくん」について語れるようになりたい</title>
       <description>千葉・市川市動植物園のニホンザル『パンチくん』。母に育児放棄され、IKEAのオランウータンのぬいぐるみ『ジュンゲルスコグ』（税込1499円）を母代わりに抱いて育つ子ザルが、2026年2月に世界的バズ。①名前もぬいぐるみ選びも偶然で、翻訳が要らない一枚絵だから国境を越えた話②70年前のハーロウの代理母実験（針金の母vs布の母）をそのまま再現していた話、なぜ人は惹かれるのか③『いじめ』誤解とニホンザルの専制社会、メルカリ転売・ミームコイン・着ぐるみ侵入事件などバズの影と市川市の対応。出典：市川市公式声明、ITmedia、東洋経済、The Conversation（クイーンズランド大ニールセン准教授）ほか。</description>
