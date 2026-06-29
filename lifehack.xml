@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/lifehack.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Mon, 29 Jun 2026 03:59:29 +0900</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 03:59:29 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 03:54:57 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:54:57 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、AI・ツール・ガジェット・Webサービスなど、いま役立つテックの新サービスや実践的な活用法を1つ、すぐ試せる形で深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>テックラジオ：MCPで、AIに自分の道具とデータをつなぐ ― 自作MCPサーバー入門</title>
+      <description>AIを自分のメモ・アプリ・社内データに直接つなぐ共通規格『MCP（モデル・コンテキスト・プロトコル）』を、作り手目線で3本立てで深掘り。①正体となぜ広まったか — AI×ツールのN×M問題を、サーバー1個・クライアント1個の形でM+Nに畳む標準化。2024年11月にAnthropicが公開し、自社AIを持ちながら競合にも開いた結果、ChatGPTプラグインが囲い込みで自滅したのと対照的に、OpenAI（2025年3月）もGoogle（4月）も相乗りしネットワーク効果で標準化、1年で接続サーバー1万超。②自分での作り方 — 既製サーバーは設定ファイルに数行足して接続、自作はFastMCPで関数に目印を付けるだけ。非エンジニアがバイブコーディングで30〜45分〜3時間で作った実例と、つまずきどころ（パス・設定書式・標準出力の罠）。③落とし穴 — Simon Willisonの『致命的な3点セット』、公開Issue経由で非公開データが漏れたGitHub MCP事件、説明文に命令を仕込むツール汚染、Asanaの約1000社データ露出、ツール定義によるトークン肥大。出典：Anthropic公式・Latent Space・Invariant Labs・simonwillison.net・各CVE等。</description>
+      <itunes:summary>AIを自分のメモ・アプリ・社内データに直接つなぐ共通規格『MCP（モデル・コンテキスト・プロトコル）』を、作り手目線で3本立てで深掘り。①正体となぜ広まったか — AI×ツールのN×M問題を、サーバー1個・クライアント1個の形でM+Nに畳む標準化。2024年11月にAnthropicが公開し、自社AIを持ちながら競合にも開いた結果、ChatGPTプラグインが囲い込みで自滅したのと対照的に、OpenAI（2025年3月）もGoogle（4月）も相乗りしネットワーク効果で標準化、1年で接続サーバー1万超。②自分での作り方 — 既製サーバーは設定ファイルに数行足して接続、自作はFastMCPで関数に目印を付けるだけ。非エンジニアがバイブコーディングで30〜45分〜3時間で作った実例と、つまずきどころ（パス・設定書式・標準出力の罠）。③落とし穴 — Simon Willisonの『致命的な3点セット』、公開Issue経由で非公開データが漏れたGitHub MCP事件、説明文に命令を仕込むツール汚染、Asanaの約1000社データ露出、ツール定義によるトークン肥大。出典：Anthropic公式・Latent Space・Invariant Labs・simonwillison.net・各CVE等。</itunes:summary>
+      <pubDate>Tue, 30 Jun 2026 03:54:57 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-30.mp3" length="12299327" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/lifehack/episodes/2026-06-30.mp3</guid>
+      <itunes:duration>00:12:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>テックラジオ：ローカルLLMで、自分専用の無料AIを作る（Ollama入門）</title>
       <description>クラウドAIに毎月課金して回している下処理を、自分のPCの中だけで料金ゼロ・電気代だけ・一字も外に出さずに動かす『ローカルLLM』の作り方を、非エンジニアの作り手視点で3本立てで深掘り。①なぜ手元のPCでAIが動くのか — 2023年3月のMeta『Llama』流出をきっかけに、独立開発者が1週間でllama.cppを公開しCPUだけで動かせるようにした。鍵は『量子化』で、16GBのモデルを5GB前後に圧縮し普通のノートPCに載るようにした仕組み。なぜ大企業はやらず（商売＋責任）、Metaだけが戦略的にオープン化したかまで。②Ollamaの始め方 — 公式サイトから入れて1行打つだけ。起動するとOpenAI互換のローカルAPI（localhost:11434）が立つので、クラウドAPIに投げていた処理を宛先1行差し替えで無料ローカルに置換できる。『作業はローカル・判断はクラウド』の二段構え、自分の文書に答えるRAGも。③限界と落とし穴 — MMLUでトップは約90点・8Bクラスは約70点だが要約や分類なら差は体感ゼロ、VRAM/速度の現実、Apple Siliconの統合メモリの強み、デフォルト設定と無防備な公開のセキュリティ注意。出典：Meta/Mistral公式、llama.cpp、Ollama、各ベンチマーク（HuggingFace公式モデルカード等）。</description>

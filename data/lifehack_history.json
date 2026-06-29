@@ -394,5 +394,29 @@
       "落とし穴=Ollamaデフォルトnum_ctx2048で会話ぶつ切り(1行変更で改善) / 認証なし0.0.0.0公開で第三者侵入 17.5万〜30万台露出 CNVD-2025-04094",
       "DeepSeek-R1 2025-01 MIT NVIDIA株17%減5890億ドル消滅 オープン化加速(参考)"
     ]
+  },
+  {
+    "date": "2026-06-30",
+    "theme": "MCPで、AIに自分の道具とデータをつなぐ（自作MCPサーバー入門）",
+    "keywords": [
+      "MCP Model Context Protocol モデルコンテキストプロトコル AIのためのUSB-C アンソロピック 2024-11-25公開 オープン標準",
+      "作者David Soria Parraたち(Justin Spahr-Summers共同) Claude DesktopとIDE間のコピペにうんざり 2024年7月着手 約6週間でプロト Zed先行 3Dプリンタ動かすハッカソン",
+      "LSP(言語サーバープロトコル)を下敷き エディタ×言語のM×N問題を解いた先例",
+      "N×M問題=AI M種×ツールN種の個別連携爆発 サーバー1個+クライアント1個でM+Nに 4×10=40→4+10=14",
+      "土台はtool use/function calling(OpenAI 2023-06-13) MCPは道具の説明・発見・呼び出しを共通語化 一度作ればClaude/ChatGPT/Cursor共通",
+      "なぜ他は不可=ChatGPTプラグイン2023-03-23公開→2024-04-09終了 ChatGPT内のみ・囲い込み・API不可・収益ほぼゼロで自滅 Function CallingとGPTsに代替",
+      "Anthropicは自社AI持ちながら競合にも開くオープン仕様(一見損)→標準を押さえる OpenAI採用2025-03-26(Altman people love MCP) Google2025-04-09(Hassabis)※同日A2Aも発表 ネットワーク効果",
+      "2025-12-09 Linux Foundation傘下Agentic AI Foundation(AAIF)へ寄贈 OpenAI/Block共同創設 公開1年でSDK月9700万DL(16ヶ月時点) 公開サーバー1万超 公式Registry9652件",
+      "作り方①既製サーバーを設定ファイル(claude_desktop_config.json mcpServers)に数行追加し再起動 GitHub/Notion/Slack/Filesystem 公式7本+企業独立リポ",
+      "作り方②FastMCP(Jeremiah Lowin/Prefect)で@mcp.tool()デコレータ 型ヒント+docstringが自動でスキーマ mcp.run(stdio) 公式SDKはPython/TS",
+      "非エンジニア×バイブコーディング実例 Joshua Callandret Basecamp API docs URL貼って30-45分 / Akhyar Amarullah linkding-mcp 3時間コード9割AI『I wish this exists と I have working software の壁が消えた』",
+      "影=Diffbot Jerome Choo 3時間8割デバッグ『I dont know how people enjoy vibe coding』 つまずき=Windowsパス・JSON書式・stdout汚染(print()が通信破壊)",
+      "セキュリティ Simon Willison lethal trifecta致命的3点セット 2025-06-16 ①private data②untrusted content③external communication 1つ断てば防げるがMCPは1ツールで揃いやすい",
+      "GitHub MCP事件 Invariant Labs 2025-05-26 公開Issueの罠コメント→『確認して』だけで非公開リポをPRで外部流出 Claude4 Opusでも成功",
+      "Tool Poisoning ツール汚染 Invariant Labs 2025-04-01 説明文(UIに不可視・AIには全文)に攻撃命令 OWASP MCP Top10 MCP03 / shadowing / rug pull",
+      "実害Asana MCP テナント分離不備で他社データ約1000社露出34日間 2025-05〜06 / CVE-2025-49596 MCP Inspector RCE CVSS9.4 / 偽npm postmark-mcp メール窃取",
+      "限界=ツール1個約1000トークン 150個でスキーマ3〜6万トークン Claude200kの3割 / 規格若く破壊的変更 / Perplexity CTO『社内では使わない』(2026-03 文脈消費と認証煩雑)",
+      "対策=信頼できる出所のサーバーだけ・権限最小・機密扱うAIに信頼できない入力を混ぜない / 入口(自作道具×自分のデータ)は安全"
+    ]
   }
 ]
