@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Mon, 29 Jun 2026 03:19:20 +0900</pubDate>
-    <lastBuildDate>Mon, 29 Jun 2026 03:19:20 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 03:19:29 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:19:29 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>カーハート — 作業着が文化になった「二つの顔」</title>
+      <description>今日のブランドはカーハート。①1889年デトロイトで、家具商だったハミルトン・カーハートが鉄道員の声を直接聞いて作業着を作り直した創業の物語と、世界恐慌・アラスカのパイプライン ②ダックキャンバス、デトロイトジャケット、チョアコート、アクティブジャックといった名作と「10年使える」作り ③本家アメリカ（労働者を貫く）と欧州のカーハートWIP（スケート・テクノ・ヒップホップ）という二層構造が、なぜ流行っても「本物感」を失わせないのか。デトロイトジャケットが44年後に命名された小ネタも。出典：Carhartt公式・Carhartt WIP公式・Wikipedia・Highsnobiety・Crack Magazine・Heddels・Sotheby'sほか。</description>
+      <itunes:summary>今日のブランドはカーハート。①1889年デトロイトで、家具商だったハミルトン・カーハートが鉄道員の声を直接聞いて作業着を作り直した創業の物語と、世界恐慌・アラスカのパイプライン ②ダックキャンバス、デトロイトジャケット、チョアコート、アクティブジャックといった名作と「10年使える」作り ③本家アメリカ（労働者を貫く）と欧州のカーハートWIP（スケート・テクノ・ヒップホップ）という二層構造が、なぜ流行っても「本物感」を失わせないのか。デトロイトジャケットが44年後に命名された小ネタも。出典：Carhartt公式・Carhartt WIP公式・Wikipedia・Highsnobiety・Crack Magazine・Heddels・Sotheby'sほか。</itunes:summary>
+      <pubDate>Tue, 30 Jun 2026 03:19:29 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-30.mp3" length="11541567" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-06-30.mp3</guid>
+      <itunes:duration>00:12:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ユニクロ｜タイプミスから生まれた世界ブランドと、ヒートテックを作る「ある一社」</title>
       <description>今日のブランドはユニクロ。①山口の紳士服店「小郡商事」から始まり、柳井正の「一勝九敗」、原宿で爆発した1900円フリースまでの創業の物語 ②ヒートテックの吸湿発熱の仕組みと、それを生んだ東レとの戦略的パートナーシップ、そして「ライフウェア」思想 ③素材から販売まで自社で握るSPA、ZARAとの違い、20年かけた東レとの関係——なぜ他社には真似できないのか。社名がCとQの打ち間違いから生まれた小ネタも。出典：ファーストリテイリング公式、WWDジャパン、東レ、Forbes、Wikipediaほか。</description>
