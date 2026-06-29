@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Sun, 28 Jun 2026 23:47:08 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 23:47:08 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 04:50:09 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:50:09 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『教場』（2020・木村拓哉／白髪義眼の鬼教官と、シリーズの原点）</title>
+      <description>2020年フジ開局60周年の新春2夜連続スペシャル『教場』（木村拓哉主演・風間公親役、原作・長岡弘樹、脚本・君塚良一、演出・中江功）を人に語れるように深掘り。①警察官の卵を篩い落とす警察学校という舞台の新しさ＝携帯没収・外出制限という閉鎖性を逆手に取り「嘘を隠せない密室」に変えた原作の発明と倒叙ミステリー構造②足し算がいちばん似合うスターが、地毛脱色・真っ直ぐ立つ引き算で作り上げた怪演（中江功監督「靴音まで計算」評、出番がない日も風間として現場に立ち続けた逸話）③風間だけを固定し生徒を入れ替える金八型フォーマットがシリーズ化と若手の登竜門を可能にした構造（西畑大吾の不気味な調達屋、明石家さんまのサプライズ出演、百日草の花言葉）。視聴率は前編15.3%・後編15.0%、ギャラクシー賞月間賞・東京ドラマアウォード単発ドラマ部門グランプリ。出典：MANTANWEB・小学館公式・女性自身・文春オンライン・マイナビニュースほか。</description>
+      <itunes:summary>2020年フジ開局60周年の新春2夜連続スペシャル『教場』（木村拓哉主演・風間公親役、原作・長岡弘樹、脚本・君塚良一、演出・中江功）を人に語れるように深掘り。①警察官の卵を篩い落とす警察学校という舞台の新しさ＝携帯没収・外出制限という閉鎖性を逆手に取り「嘘を隠せない密室」に変えた原作の発明と倒叙ミステリー構造②足し算がいちばん似合うスターが、地毛脱色・真っ直ぐ立つ引き算で作り上げた怪演（中江功監督「靴音まで計算」評、出番がない日も風間として現場に立ち続けた逸話）③風間だけを固定し生徒を入れ替える金八型フォーマットがシリーズ化と若手の登竜門を可能にした構造（西畑大吾の不気味な調達屋、明石家さんまのサプライズ出演、百日草の花言葉）。視聴率は前編15.3%・後編15.0%、ギャラクシー賞月間賞・東京ドラマアウォード単発ドラマ部門グランプリ。出典：MANTANWEB・小学館公式・女性自身・文春オンライン・マイナビニュースほか。</itunes:summary>
+      <pubDate>Tue, 30 Jun 2026 04:50:09 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-30.mp3" length="12155967" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-06-30.mp3</guid>
+      <itunes:duration>00:12:39</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『教場II』（木村拓哉の「動かない怖さ」と、警察学校ドラマという発明）</title>
       <description>2021年フジ新春スペシャル『教場II』（木村拓哉主演・風間公親役、原作・長岡弘樹、脚本・君塚良一、演出・中江功）を人に語れるように深掘り。①「ふるい落とし＝退校」という選別が、王道の学園ドラマを駆動させる構造（リアルサウンド「金八型」分析）と、主役を入れ替えられるからシリーズ化できる仕組み②義眼・白髪・無表情で「キムタクを消して風間を出す」引き算の演技（中江功監督「真っ直ぐ立つだけ」＝シネマトゥデイ／NEWSポストセブン評）③倒叙ミステリーと「小道具から発想する」原作構造（長岡弘樹インタビュー）が映像化に強い理由。後編の偽ラブレター事件、目黒蓮ら第200期生も。視聴率は前編世帯13.5%・後編13.2%で時間帯トップ（前作教場は15%台）。賛否＝静かな怖さの絶賛と、火災訓練演出への「やり過ぎ」批判。出典：Wikipedia・リアルサウンド・シネマトゥデイ・NEWSポストセブン・映画.comほか。</description>
