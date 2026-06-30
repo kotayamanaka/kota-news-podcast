@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/ongaku.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</description>
-    <pubDate>Sun, 28 Jun 2026 04:53:18 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 04:53:18 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 04:57:01 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:57:01 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の音楽アーティストを1組（ソロ／グループ）取り上げ、最新のオリコン上位から往年のミュージシャンまで、歩み・代表曲・魅力を語れるレベルまで深掘りする、kota専用の音声番組。海外は扱わず日本にフォーカス。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Music"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>音楽ラジオ：B'z（ビーズ・たった2人組が、なぜ日本でいちばん売れ続けたのか）</title>
+      <description>今日のアーティストは『ビーズ』。松本孝弘さんと稲葉浩志さんの2人組で、CD総売上およそ8200万枚はオリコン歴代1位。①奇跡の結成＝事務所社長が稲葉のデモを橋渡しし、初対面のセッション10分で「いける」、結成宣言もないまま1988年デビュー。1990年『太陽のKomachi Angel』から続くシングル50作連続1位の起点まで ②なぜ売れたか＝ビーイングの垂直統合＋タイアップ戦略（1993年に系列が週間1〜6位独占）と、本格ハードロックを歌謡曲の親しみやすさで包んでお茶の間に翻訳した音楽の核心（大貫憲章評） ③なぜ真似できないか＝3オクターブ半とも言われる稲葉の声、作曲も演奏も担う松本のギター（アジア出身初のギブソン・シグネチャー、2011年グラミー受賞）、声と曲が一体で設計された2人組という掛け算。締めに2024年・結成36年での紅白初出場。出典：オリコン、日本経済新聞、Wikipedia（日英）、音楽ナタリー、ビーイング研究所ほか。</description>
+      <itunes:summary>今日のアーティストは『ビーズ』。松本孝弘さんと稲葉浩志さんの2人組で、CD総売上およそ8200万枚はオリコン歴代1位。①奇跡の結成＝事務所社長が稲葉のデモを橋渡しし、初対面のセッション10分で「いける」、結成宣言もないまま1988年デビュー。1990年『太陽のKomachi Angel』から続くシングル50作連続1位の起点まで ②なぜ売れたか＝ビーイングの垂直統合＋タイアップ戦略（1993年に系列が週間1〜6位独占）と、本格ハードロックを歌謡曲の親しみやすさで包んでお茶の間に翻訳した音楽の核心（大貫憲章評） ③なぜ真似できないか＝3オクターブ半とも言われる稲葉の声、作曲も演奏も担う松本のギター（アジア出身初のギブソン・シグネチャー、2011年グラミー受賞）、声と曲が一体で設計された2人組という掛け算。締めに2024年・結成36年での紅白初出場。出典：オリコン、日本経済新聞、Wikipedia（日英）、音楽ナタリー、ビーイング研究所ほか。</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 04:57:01 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-07-01.mp3" length="11899758" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/ongaku/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>音楽ラジオ：Official髭男dism（島根の銀行員と元・警察音楽隊が、日本一聴かれたバンドに）</title>
       <description>今日のアーティストは『オフィシャルヒゲダンディズム』、通称ヒゲダン。①歩み＝2012年に島根県松江市で結成、リーダーの藤原聡は元ドラマーで、自作曲を歌ってもらえず自らボーカルへ転向。卒業後は銀行員として営業をしながら週末に上京する二足のわらじを約2年、ベース／サックスの楢﨑誠は元・警察音楽隊。2016年に全員上京、2018年メジャーデビュー曲『ノーダウト』が月9『コンフィデンスマンJP』主題歌 ②記録とタイアップ＝『Pretender』は映画版コンフィデンスマンJP主題歌でBillboard JAPANストリーミング34週連続1位（当時最長）・10億回再生、グループ累計100億回突破。Cry Baby＝東京リベンジャーズ／ミックスナッツ＝SPY×FAMILY／Subtitle＝ドラマsilent ③音楽の核＝1曲で10回超の転調、藤原の高音とリズム感、楢﨑の多楽器内製。なぜ複雑なのにキャッチーで、なぜ他に真似しにくいのか。出典：Billboard JAPAN、オリコン、Wikipedia、Real Sound、本人インタビュー等。</description>
