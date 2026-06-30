@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</description>
-    <pubDate>Sun, 28 Jun 2026 05:49:40 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 05:49:40 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:56:36 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:56:36 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎朝6時、いま話題のニュース5本を5W1Hで深掘りする、kota専用の音声ダイジェスト。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="News"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>2026-07-01 朝の深掘りニュース</title>
+      <description>日本代表W杯でブラジルに1-2惜敗・森保監督涙の謝罪／ワッツアップが電話番号を隠せるユーザーネーム機能／北米協定USMCAが16年延長で合意できず年次見直しへ／中国が日本企業20団体を軍民両用品の輸出規制リストに追加／治療困難な膵臓がんに生存ほぼ倍増の新薬ダラクソンラシブ</description>
+      <itunes:summary>日本代表W杯でブラジルに1-2惜敗・森保監督涙の謝罪／ワッツアップが電話番号を隠せるユーザーネーム機能／北米協定USMCAが16年延長で合意できず年次見直しへ／中国が日本企業20団体を軍民両用品の輸出規制リストに追加／治療困難な膵臓がんに生存ほぼ倍増の新薬ダラクソンラシブ</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 05:56:36 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-07-01.mp3" length="4704624" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:13:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-06-28 朝の深掘りニュース</title>
       <description>山梨で震度6弱、富士山との関係は／日経平均が1日3000円超安・歴代3位の下げ幅／停戦のはずがイランがバーレーンをドローン攻撃／九州大が太陽光を紫外線に変える固体材料／「赤頭巾ちゃん気をつけて」作家・庄司薫さん死去</description>
