@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Tue, 30 Jun 2026 04:50:09 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 04:50:09 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 04:53:59 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:53:59 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ：『警視庁麻薬取締課 MOGURA』（2025・ABEMA／ラッパー潜入捜査の本物だらけHIPHOPドラマ）</title>
+      <description>ABEMA発・2025年のHIPHOPクライムドラマ『警視庁麻薬取締課 MOGURA』を人に語れるように深掘り。ラッパー漢 a.k.a. GAMIが酒席で語った実話を放送作家・鈴木おさむが企画し、般若が初主演。①なぜ本物のラッパー（Jin Dogg＝9門のボス火薬、ナビゲーターのライムスター・マミー・ディーら）が総出演できたのか＝原案者がシーンの重鎮だからという信頼の構造②潜入捜査の道具がラップという設定の妙＝本物かが一瞬でバレる世界ゆえの緊張感と、黒幕の市長・安堂誠（風間俊介）へ2グループが手を組み挑むマイクリレー③出演者本人の楽曲が登場人物の心情を語る、音楽が物語を動かす作り。監督・志真健太郎／南虎我、制作・BABEL LABEL、主題歌NORIKIYO「五月雨」。評価は賛否（Filmarks3.3）だが海外はやや高評価、World Media Festival 2026銀賞・アジアTVアワードノミネート、2026年冬に続編。出典：ABEMA TIMES・PR TIMES・音楽ナタリー・オリコン・Filmarksほか。</description>
+      <itunes:summary>ABEMA発・2025年のHIPHOPクライムドラマ『警視庁麻薬取締課 MOGURA』を人に語れるように深掘り。ラッパー漢 a.k.a. GAMIが酒席で語った実話を放送作家・鈴木おさむが企画し、般若が初主演。①なぜ本物のラッパー（Jin Dogg＝9門のボス火薬、ナビゲーターのライムスター・マミー・ディーら）が総出演できたのか＝原案者がシーンの重鎮だからという信頼の構造②潜入捜査の道具がラップという設定の妙＝本物かが一瞬でバレる世界ゆえの緊張感と、黒幕の市長・安堂誠（風間俊介）へ2グループが手を組み挑むマイクリレー③出演者本人の楽曲が登場人物の心情を語る、音楽が物語を動かす作り。監督・志真健太郎／南虎我、制作・BABEL LABEL、主題歌NORIKIYO「五月雨」。評価は賛否（Filmarks3.3）だが海外はやや高評価、World Media Festival 2026銀賞・アジアTVアワードノミネート、2026年冬に続編。出典：ABEMA TIMES・PR TIMES・音楽ナタリー・オリコン・Filmarksほか。</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 04:53:59 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-07-01.mp3" length="11663612" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『教場』（2020・木村拓哉／白髪義眼の鬼教官と、シリーズの原点）</title>
       <description>2020年フジ開局60周年の新春2夜連続スペシャル『教場』（木村拓哉主演・風間公親役、原作・長岡弘樹、脚本・君塚良一、演出・中江功）を人に語れるように深掘り。①警察官の卵を篩い落とす警察学校という舞台の新しさ＝携帯没収・外出制限という閉鎖性を逆手に取り「嘘を隠せない密室」に変えた原作の発明と倒叙ミステリー構造②足し算がいちばん似合うスターが、地毛脱色・真っ直ぐ立つ引き算で作り上げた怪演（中江功監督「靴音まで計算」評、出番がない日も風間として現場に立ち続けた逸話）③風間だけを固定し生徒を入れ替える金八型フォーマットがシリーズ化と若手の登竜門を可能にした構造（西畑大吾の不気味な調達屋、明石家さんまのサプライズ出演、百日草の花言葉）。視聴率は前編15.3%・後編15.0%、ギャラクシー賞月間賞・東京ドラマアウォード単発ドラマ部門グランプリ。出典：MANTANWEB・小学館公式・女性自身・文春オンライン・マイナビニュースほか。</description>
