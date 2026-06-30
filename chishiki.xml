@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Tue, 30 Jun 2026 04:19:59 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 04:19:59 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 04:19:06 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 04:19:06 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：シマノ――世界一地味で、世界一抜けられない部品メーカー</title>
+      <description>企業特集は大阪・堺のシマノ。自転車部品で金額シェア約85%、自己資本比率92%の隠れたグローバル王者です。①強さの源泉「冷間鍛造」（トヨタより早く実用化）と釣具リールとの設備共用が生む量産規模 ②1973年デュラエースで『コンポーネント＝部品一式セット販売』を発明し、職人文化のカンパニョーロを逆転した歴史 ③シマノ同士でしか組めない互換性ロックインと『自転車界のインテル』、コロナで最長400日待ち・2022年売上6289億円の過去最高まで。出典：Credit Suisse(2016)、IRBank、Cycling Industry News、Cozy Beehive、東洋経済、deallabほか。</description>
+      <itunes:summary>企業特集は大阪・堺のシマノ。自転車部品で金額シェア約85%、自己資本比率92%の隠れたグローバル王者です。①強さの源泉「冷間鍛造」（トヨタより早く実用化）と釣具リールとの設備共用が生む量産規模 ②1973年デュラエースで『コンポーネント＝部品一式セット販売』を発明し、職人文化のカンパニョーロを逆転した歴史 ③シマノ同士でしか組めない互換性ロックインと『自転車界のインテル』、コロナで最長400日待ち・2022年売上6289億円の過去最高まで。出典：Credit Suisse(2016)、IRBank、Cycling Industry News、Cozy Beehive、東洋経済、deallabほか。</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 04:19:06 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-07-01.mp3" length="8750018" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:09:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：海運――コンテナという「箱」が世界を変えた／なぜ寡占でも儲からないのか／日本3社のONE統合と紅海危機</title>
       <description>業界特集は外航コンテナ海運。①1956年のコンテナ革命で港の荷役コストが激減し『世界中から安くモノが届く暮らし』が物理的に可能になった話 ②世界トップ10社で約86%を握る寡占なのに長年薄利だった理由（コモディティ＋2〜3年の建造リードタイムが生む供給過剰の循環）と日本3社がコンテナ事業をONEに統合した経緯 ③コロナ特需で日本郵船など3社が合計2兆円超を稼いだ激変と、エバーギブン座礁・紅海危機による喜望峰迂回。出典：UNCTAD海事レポート、World Shipping Council、各社IR、Alphaliner、Lloyd's List、国土交通省・日本船主協会ほか。</description>
