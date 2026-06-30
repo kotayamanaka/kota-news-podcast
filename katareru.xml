@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Sun, 28 Jun 2026 23:46:59 +0900</pubDate>
-    <lastBuildDate>Sun, 28 Jun 2026 23:46:59 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:38:44 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 05:38:44 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>「パペットスンスン」について語れるようになりたい</title>
+      <description>コンビニやめざましテレビでよく見る、青いパペット「スンスン」。SNS合計350万人超のこのキャラを、①2019年から6年仕込んだ遅咲き（バブルダンスで爆発）②中の人を一切出さない没入設計＝キャラの資産化③『第2のピクサー』を掲げる制作集団チョコレイト（おぱんちゅうさぎ・ブルーハムハムも手がける）の戦略、の3つで深掘り。広告で稼いでIPを数撃つ『外れても死なない』構造とは。出典：公式サイト、PR TIMES、日経Xtrend、Real Sound、Wikipediaほか。</description>
+      <itunes:summary>コンビニやめざましテレビでよく見る、青いパペット「スンスン」。SNS合計350万人超のこのキャラを、①2019年から6年仕込んだ遅咲き（バブルダンスで爆発）②中の人を一切出さない没入設計＝キャラの資産化③『第2のピクサー』を掲げる制作集団チョコレイト（おぱんちゅうさぎ・ブルーハムハムも手がける）の戦略、の3つで深掘り。広告で稼いでIPを数撃つ『外れても死なない』構造とは。出典：公式サイト、PR TIMES、日経Xtrend、Real Sound、Wikipediaほか。</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 05:38:44 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-07-01.mp3" length="10793421" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>「タゴサク構文」について語れるようになりたい</title>
       <description>「AはBします。理由はCだからです」――2026年上半期に大流行したネットミーム『タゴサク構文』。元ネタは映画『爆弾』で佐藤二朗が演じたスズキタゴサク。①劇場公開の半年後、なぜNetflix配信から爆発したのか（時間差バズの仕組み）②なぜ映画を観ていなくても参加できるのか（進次郎構文・石丸構文に連なる構文ミームの強さ）③ご当地VTuberの『東京は鹿児島です』はなぜ刺さったのか。佐藤二朗本人の参戦から日経『令和なコトバ』入りまで掘ります。出典：リアルサウンド、Yahoo!ニュース(田辺ユウキ)、KAI-YOU、モデルプレス、日本経済新聞ほか。</description>
