@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/fashion.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Tue, 30 Jun 2026 03:19:29 +0900</pubDate>
-    <lastBuildDate>Tue, 30 Jun 2026 03:19:29 +0900</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 03:22:39 +0900</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 03:22:39 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、世界や日本のファッションブランドを1つ取り上げ、創業の物語・ブランドの個性・名作アイテム・なぜ支持されるのかを語れるレベルまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>アーペーセー（A.P.C.）— 育てる生デニムと、ロゴを出さない強さ</title>
+      <description>今日のブランドはアーペーセー（A.P.C.）。①元・学校の先生を志したジャン・トゥイトゥが、バルセロナでまともなジーンズに出会えず1987年パリで創業、ロゴと加工で派手だった80年代の真逆を張った物語 ②買った瞬間は真っ青で、はく人の生活が白く刻まれていく生デニム（プティ・ニュー・スタンダード）と、広島近郊の職人との握手だけの独占レシピ、最初の海外出店が東京・代官山だった話 ③なぜ代わりがきかないのか——独占素材・ぶれない一貫性・「育てた時間はコピーできない」ロゴなしの三つ。締めはカニエ・ウェスト『ケニー』来訪と『中東和平』コラボ秘話。出典：A.P.C.公式・Wikipedia・Hypebeast・Heddels・W Magazine・Complexほか。</description>
+      <itunes:summary>今日のブランドはアーペーセー（A.P.C.）。①元・学校の先生を志したジャン・トゥイトゥが、バルセロナでまともなジーンズに出会えず1987年パリで創業、ロゴと加工で派手だった80年代の真逆を張った物語 ②買った瞬間は真っ青で、はく人の生活が白く刻まれていく生デニム（プティ・ニュー・スタンダード）と、広島近郊の職人との握手だけの独占レシピ、最初の海外出店が東京・代官山だった話 ③なぜ代わりがきかないのか——独占素材・ぶれない一貫性・「育てた時間はコピーできない」ロゴなしの三つ。締めはカニエ・ウェスト『ケニー』来訪と『中東和平』コラボ秘話。出典：A.P.C.公式・Wikipedia・Hypebeast・Heddels・W Magazine・Complexほか。</itunes:summary>
+      <pubDate>Wed, 01 Jul 2026 03:22:39 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-07-01.mp3" length="10576500" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/fashion/episodes/2026-07-01.mp3</guid>
+      <itunes:duration>00:11:01</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>カーハート — 作業着が文化になった「二つの顔」</title>
       <description>今日のブランドはカーハート。①1889年デトロイトで、家具商だったハミルトン・カーハートが鉄道員の声を直接聞いて作業着を作り直した創業の物語と、世界恐慌・アラスカのパイプライン ②ダックキャンバス、デトロイトジャケット、チョアコート、アクティブジャックといった名作と「10年使える」作り ③本家アメリカ（労働者を貫く）と欧州のカーハートWIP（スケート・テクノ・ヒップホップ）という二層構造が、なぜ流行っても「本物感」を失わせないのか。デトロイトジャケットが44年後に命名された小ネタも。出典：Carhartt公式・Carhartt WIP公式・Wikipedia・Highsnobiety・Crack Magazine・Heddels・Sotheby'sほか。</description>
