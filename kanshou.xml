@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/kanshou.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Wed, 01 Jul 2026 04:53:59 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 04:53:59 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 04:43:01 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 04:43:01 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、kota がNotionに記録した鑑賞作品（本・映画・ドラマ・アニメ・音楽ほか）を1つ取り上げ、背景や見どころを語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>鑑賞作品ラジオ 落語を少年ジャンプのバトル漫画にした発明 あかね噺</title>
+      <description>累計300万部・マンガ大賞2023第2位、2026年アニメ化された落語漫画あかね噺を深掘り。1つ目は落語自体がバトルという発見で少年ジャンプの黄金パターンに落とし込んだ発明（原作・末永裕樹、作画・もうえたかまさ、昭和元禄落語心中との対比）。2つ目は父と娘、仇を芸で超える構図（阿良川一生の論理と、立川流・立川談志の前座6人一括破門）。3つ目は声優が本物の落語を1年習い高座に上がったアニメの本気度（監修・林家木久彦、桑田佳祐がOP/EDをキャリア初の両書き下ろし）。出典はWikipedia、集英社オンライン、リアルサウンド、マンガ大賞公式ほか。</description>
+      <itunes:summary>累計300万部・マンガ大賞2023第2位、2026年アニメ化された落語漫画あかね噺を深掘り。1つ目は落語自体がバトルという発見で少年ジャンプの黄金パターンに落とし込んだ発明（原作・末永裕樹、作画・もうえたかまさ、昭和元禄落語心中との対比）。2つ目は父と娘、仇を芸で超える構図（阿良川一生の論理と、立川流・立川談志の前座6人一括破門）。3つ目は声優が本物の落語を1年習い高座に上がったアニメの本気度（監修・林家木久彦、桑田佳祐がOP/EDをキャリア初の両書き下ろし）。出典はWikipedia、集英社オンライン、リアルサウンド、マンガ大賞公式ほか。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 04:43:01 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-07-02.mp3" length="11628085" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/kanshou/episodes/2026-07-02.mp3</guid>
+      <itunes:duration>00:12:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>鑑賞作品ラジオ：『警視庁麻薬取締課 MOGURA』（2025・ABEMA／ラッパー潜入捜査の本物だらけHIPHOPドラマ）</title>
       <description>ABEMA発・2025年のHIPHOPクライムドラマ『警視庁麻薬取締課 MOGURA』を人に語れるように深掘り。ラッパー漢 a.k.a. GAMIが酒席で語った実話を放送作家・鈴木おさむが企画し、般若が初主演。①なぜ本物のラッパー（Jin Dogg＝9門のボス火薬、ナビゲーターのライムスター・マミー・ディーら）が総出演できたのか＝原案者がシーンの重鎮だからという信頼の構造②潜入捜査の道具がラップという設定の妙＝本物かが一瞬でバレる世界ゆえの緊張感と、黒幕の市長・安堂誠（風間俊介）へ2グループが手を組み挑むマイクリレー③出演者本人の楽曲が登場人物の心情を語る、音楽が物語を動かす作り。監督・志真健太郎／南虎我、制作・BABEL LABEL、主題歌NORIKIYO「五月雨」。評価は賛否（Filmarks3.3）だが海外はやや高評価、World Media Festival 2026銀賞・アジアTVアワードノミネート、2026年冬に続編。出典：ABEMA TIMES・PR TIMES・音楽ナタリー・オリコン・Filmarksほか。</description>
