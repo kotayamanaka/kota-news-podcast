@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/sake.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 01 Jul 2026 03:30:01 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 03:30:01 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 03:24:33 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:24:33 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ビール・ウイスキー・日本酒・焼酎・ワインなど、いろんなお酒の銘柄・商品を1つ取り上げ、造り・歴史・味わい・楽しみ方から語れる小ネタまで深掘り解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Arts"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>バカルディ — キューバで生まれ国を追われた、世界一有名なラム</title>
+      <description>ラムコークやモヒートの土台になっている、世界一有名なラム「バカルディ」。名前は知っていても由来を語れる人は少ない一本を3つのポイントで深掘り。①歴史：1862年キューバ・サンティアゴでファクンド・バカルディが創業。屋根裏のコウモリが幸運の象徴となったロゴ、禁酒法時代のキューバ観光ブーム、1959年キューバ革命での資産接収と一族の亡命、バミューダへ本社移転し七代続く世界最大級の家族経営酒類企業に。②造り：糖蜜と独自酵母、濃淡2種の原酒の造り分け、13種以上の木とヤシ殻を使う秘密の炭ろ過で軽さを生む仕組み。白いバカルディは実は樽熟成させてから色を抜いている逆説、そして酵母と炭のレシピを革命前に持ち出したため他社が真似できない構造まで。③味と楽しみ方：アーモンド・ライム・バニラの軽やかな風味、混ぜても消えないカクテルの土台としての強み、ダイキリ・キューバリブレ・モヒートの成り立ち、1936年ニューヨーク裁判所の「本物のバカルディを使わないものはバカルディ・カクテルと呼べない」判決、ソーダ割りの楽しみ方。出典：バカルディ公式・Difford's Guide・Wikipedia・VinePairほか。約11分。お酒は適量で。</description>
+      <itunes:summary>ラムコークやモヒートの土台になっている、世界一有名なラム「バカルディ」。名前は知っていても由来を語れる人は少ない一本を3つのポイントで深掘り。①歴史：1862年キューバ・サンティアゴでファクンド・バカルディが創業。屋根裏のコウモリが幸運の象徴となったロゴ、禁酒法時代のキューバ観光ブーム、1959年キューバ革命での資産接収と一族の亡命、バミューダへ本社移転し七代続く世界最大級の家族経営酒類企業に。②造り：糖蜜と独自酵母、濃淡2種の原酒の造り分け、13種以上の木とヤシ殻を使う秘密の炭ろ過で軽さを生む仕組み。白いバカルディは実は樽熟成させてから色を抜いている逆説、そして酵母と炭のレシピを革命前に持ち出したため他社が真似できない構造まで。③味と楽しみ方：アーモンド・ライム・バニラの軽やかな風味、混ぜても消えないカクテルの土台としての強み、ダイキリ・キューバリブレ・モヒートの成り立ち、1936年ニューヨーク裁判所の「本物のバカルディを使わないものはバカルディ・カクテルと呼べない」判決、ソーダ割りの楽しみ方。出典：バカルディ公式・Difford's Guide・Wikipedia・VinePairほか。約11分。お酒は適量で。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 03:24:33 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-07-02.mp3" length="10469920" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/sake/episodes/2026-07-02.mp3</guid>
+      <itunes:duration>00:10:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>オーパス・ワン — ボルドーの帝王とナパの開拓者、ワイン界一の国際結婚</title>
       <description>カリフォルニア・ナパ・ヴァレーの赤ワイン「オーパス・ワン」。1本6〜8万円、高級店や贈り物で名前は見るが、なぜ特別扱いされるのか語れる人は少ない一本を3つのポイントで深掘り。①誕生：ボルドー五大シャトーのひとつ、ムートン・ロートシルトの当主バロン・フィリップと、ナパの巨匠ロバート・モンダヴィが1970年ハワイで出会い、半分ずつ出資して立ち上げた対等な合弁。当初は名もなく「フィルとボブのでっかい赤ワイン」と呼ばれ、1981年のオークションで無名のまま1ケース24000ドルの史上最高値。名前「作品1番」の由来も。②造り：オークヴィルのトゥ・カロンを含む畑、ボルドー5品種ブレンド、ポンプを使わないグラビティ・フロー、フレンチオーク新樽100%。「最高の畑・世界最高の知見・対等な関係」が普通は揃わない、という参入障壁の構造を解説。③味と楽しみ方：カシス・すみれ・バニラ、果実味とボルドーの様式美の融合、評論家の高評価、ステーキとのペアリング、デカンタ、弟分オーヴァチュア。結びにムートンのアートラベル（シャガール・ダリ・ピカソ）の小ネタ。出典：Wikipedia・Jane Anson・VinePair・Napa Wine Project・Opus One公式ほか。約11分半。</description>
