@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/katareru.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</description>
-    <pubDate>Wed, 01 Jul 2026 05:38:44 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 05:38:44 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 05:36:01 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:36:01 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、ネットのミーム・流行・アニメ・ゲーム・キャラなど、いま話題のサブカルチャーを1つ選び、他人に語れるレベルまで深掘りして解説する、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>「エッホエッホ」について語れるようになりたい</title>
+      <description>芝生を走るフクロウのヒナのミーム「エッホエッホ」を深掘り。①実はオランダの写真家ハニー・ヘーレが2021年に撮った本物の野生のヒナで、母とエサに向かって全力ダッシュしていた話（メンフクロウは動物界きっての聴覚の持ち主）②3年半眠っていた写真が無名ユーザーの一投稿で爆発し、企業が数十分で乗れた理由③「エッホエッホのうた」が呼んだ『ミーム潰し』論争と、なぜ商業化でミームは死ぬのか。出典：PetaPixel、Wikipedia、批評家・田辺ユウキ氏の分析ほか。</description>
+      <itunes:summary>芝生を走るフクロウのヒナのミーム「エッホエッホ」を深掘り。①実はオランダの写真家ハニー・ヘーレが2021年に撮った本物の野生のヒナで、母とエサに向かって全力ダッシュしていた話（メンフクロウは動物界きっての聴覚の持ち主）②3年半眠っていた写真が無名ユーザーの一投稿で爆発し、企業が数十分で乗れた理由③「エッホエッホのうた」が呼んだ『ミーム潰し』論争と、なぜ商業化でミームは死ぬのか。出典：PetaPixel、Wikipedia、批評家・田辺ユウキ氏の分析ほか。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 05:36:01 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-07-02.mp3" length="12843928" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/katareru/episodes/2026-07-02.mp3</guid>
+      <itunes:duration>00:13:22</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>「パペットスンスン」について語れるようになりたい</title>
       <description>コンビニやめざましテレビでよく見る、青いパペット「スンスン」。SNS合計350万人超のこのキャラを、①2019年から6年仕込んだ遅咲き（バブルダンスで爆発）②中の人を一切出さない没入設計＝キャラの資産化③『第2のピクサー』を掲げる制作集団チョコレイト（おぱんちゅうさぎ・ブルーハムハムも手がける）の戦略、の3つで深掘り。広告で稼いでIPを数撃つ『外れても死なない』構造とは。出典：公式サイト、PR TIMES、日経Xtrend、Real Sound、Wikipediaほか。</description>
