@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chishiki.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</description>
-    <pubDate>Wed, 01 Jul 2026 04:23:32 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 04:23:32 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 04:20:45 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 04:20:45 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、企業・商品・経営者・業界特集をローテーションで深掘りする、kota専用のビジネス教養音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Business"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>ビジネスラジオ：G-SHOCK――落として壊した悔しさが、カシオを背負う稼ぎ頭になるまで</title>
+      <description>商品はカシオのG-SHOCK。累計1億5000万本、カシオ売上の3分の2近くを支える柱です。①なぜ壊れないのか（開発者・伊部菊雄の中空構造と、基本特許が切れても真似できない『立体商標』という壁）②なぜ売れたのか（日本で不遇→1984年アメリカのアイスホッケーCMと第三者検証→ストリート化→映画『スピード』で日本へ逆輸入）③現在地（7000円〜93万5000円で価格幅60倍、NASA・ギネス25トンが支える強気の値付けと『一本足』のリスク）。出典：カシオ公式、nippon.com、G-Central、GetNavi、日経クロストレンドほか。</description>
+      <itunes:summary>商品はカシオのG-SHOCK。累計1億5000万本、カシオ売上の3分の2近くを支える柱です。①なぜ壊れないのか（開発者・伊部菊雄の中空構造と、基本特許が切れても真似できない『立体商標』という壁）②なぜ売れたのか（日本で不遇→1984年アメリカのアイスホッケーCMと第三者検証→ストリート化→映画『スピード』で日本へ逆輸入）③現在地（7000円〜93万5000円で価格幅60倍、NASA・ギネス25トンが支える強気の値付けと『一本足』のリスク）。出典：カシオ公式、nippon.com、G-Central、GetNavi、日経クロストレンドほか。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 04:20:45 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-07-02.mp3" length="10522583" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chishiki/episodes/2026-07-02.mp3</guid>
+      <itunes:duration>00:10:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ビジネスラジオ：シマノ――世界一地味で、世界一抜けられない部品メーカー</title>
       <description>企業特集は大阪・堺のシマノ。自転車部品で金額シェア約85%、自己資本比率92%の隠れたグローバル王者です。①強さの源泉「冷間鍛造」（トヨタより早く実用化）と釣具リールとの設備共用が生む量産規模 ②1973年デュラエースで『コンポーネント＝部品一式セット販売』を発明し、職人文化のカンパニョーロを逆転した歴史 ③シマノ同士でしか組めない互換性ロックインと『自転車界のインテル』、コロナで最長400日待ち・2022年売上6289億円の過去最高まで。出典：Credit Suisse(2016)、IRBank、Cycling Industry News、Cozy Beehive、東洋経済、deallabほか。</description>
