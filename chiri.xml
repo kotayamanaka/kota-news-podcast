@@ -6,8 +6,8 @@
     <atom:link href="https://kotayamanaka.github.io/kota-news-podcast/chiri.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
     <description>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</description>
-    <pubDate>Wed, 01 Jul 2026 05:26:04 +0900</pubDate>
-    <lastBuildDate>Wed, 01 Jul 2026 05:26:04 +0900</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 05:37:36 +0900</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 05:37:36 +0900</lastBuildDate>
     <generator>kota-news-podcast</generator>
     <itunes:author>kota</itunes:author>
     <itunes:summary>毎日1本、日本の駅と周辺地域・世界の国を1つ取り上げ、その土地の成り立ち・地理・歴史・名物を語れるレベルまで深掘りする、kota専用の音声番組。</itunes:summary>
@@ -17,6 +17,16 @@
     <itunes:category text="Society &amp; Culture"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner><itunes:name>kota</itunes:name><itunes:email>292089821+kotayamanaka@users.noreply.github.com</itunes:email></itunes:owner>
+    <item>
+      <title>清澄白河 — なぜ倉庫街がコーヒーの街になったのか</title>
+      <description>駅と周辺地域シリーズは東京・江東区の清澄白河。①「清澄」は千葉の開拓者の故郷、「白河」は霊巌寺にある松平定信の墓に由来する合成地名。深川は明暦の大火を機に埋め立てられた水運の街でした。②三菱の岩崎弥太郎が自社の汽船で全国の名石を集めた清澄庭園、そして伊能忠敬や松尾芭蕉が旅立った街。③2015年ブルーボトルコーヒー日本1号店。運河沿いの天井の高い倉庫だから焙煎の煙を川へ逃がせる――江戸の水運インフラがコーヒーの街を生んだ経路依存を解説します。出典: 江東区、東京都公園協会、富岡八幡宮、ブルーボトルコーヒー公式ほか。</description>
+      <itunes:summary>駅と周辺地域シリーズは東京・江東区の清澄白河。①「清澄」は千葉の開拓者の故郷、「白河」は霊巌寺にある松平定信の墓に由来する合成地名。深川は明暦の大火を機に埋め立てられた水運の街でした。②三菱の岩崎弥太郎が自社の汽船で全国の名石を集めた清澄庭園、そして伊能忠敬や松尾芭蕉が旅立った街。③2015年ブルーボトルコーヒー日本1号店。運河沿いの天井の高い倉庫だから焙煎の煙を川へ逃がせる――江戸の水運インフラがコーヒーの街を生んだ経路依存を解説します。出典: 江東区、東京都公園協会、富岡八幡宮、ブルーボトルコーヒー公式ほか。</itunes:summary>
+      <pubDate>Thu, 02 Jul 2026 05:37:36 +0900</pubDate>
+      <enclosure url="https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-07-02.mp3" length="11409074" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://kotayamanaka.github.io/kota-news-podcast/chiri/episodes/2026-07-02.mp3</guid>
+      <itunes:duration>00:11:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>エストニア — 歌で独立を取り戻し、貧しさを武器に世界一の電子国家へ</title>
       <description>世界の国シリーズはバルト三国の最北・エストニア。人口136万人、最高峰は高尾山より低い、森と沼の静かな小国。①禁じられた歌を歌い続けた『歌う革命』と、3国200万人が675kmの人間の鎖をつくった『バルトの道』で、犠牲者ゼロの独立回復。②独立直後に何もなかったからこそ最初から全部デジタルにした世界一の電子国家＝ネット投票（2023年は過半数がオンライン）・X-Road・電子IDカード。なぜ豊かな先進国は真似できないのかまで。③スカイプを起点に起業家が連鎖するスタートアップ大国、小ネタは民話クラットとAI戦略。出典: e-Estonia、エストニア政府、Wikipedia、Euronews ほか。</description>
